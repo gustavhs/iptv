@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:0,group,Lista Gustavo csrp 2019 !!!
-ext,Sua Nova Forma De Ver TV!!,http://0.0.0.0
-#EXTINF:0,ext,Sempre Atualizando.: 26/02,Http://0.0.0.0
-ext,WHATSAPP 17 992101440 ,http://0.0.0.0
-#EXTINF:0,ext,Precisando de BOX - ME LIGA E ADQUIRA O SEU !!! 17 992101440//0.0.0.0
 group,CANAIS
 #EXTINF:0,ext,Ricos FullHD,http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
 Sportv.br,Sportv,http://niptv.biz:25461/live/igorbretas/t1025335/5.m3u8
