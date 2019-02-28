@@ -1,457 +1,2384 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="INFORMAÕES",TOP LISTAS IPTV
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="ext" group-title="INFORMAÕES",27/02
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="avi" group-title="INFORMAÕES",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="INFORMAÕES",<=PULE OS ANUCIOS=>
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="INFORMAÕES",Listas Gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="INFORMAÕES",com.toplistasiptv.com
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
+#EXTINF:0 tvg-id="ext" group-title="Reality",BBB 19
+http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="DOAÇÃO",Não Deixe A Lista OFF
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="DOAÇÃO",Nos Ajude Faça Uma Doação
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="DOAÇÃO",http://bit.ly/TL-Doacao
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/1/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/2/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/3/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/4/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/5/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/6/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/7/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/8/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/9/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/10/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/11/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/12/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/13/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/14/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/15/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/16/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/17/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/18/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/19/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://apk27.futeboltvgratis.com:8081/live/20/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="LISTA PREMIUN",Lista Completa + 3400 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="LISTA PREMIUN",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Animais África do Sul
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Rio de Janeiro - Copacabana
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Aeroporto de Congonhas de São Paulo
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Ubatuba - Praia Enseaba
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Arena Allianz Parque - Palestra Itália
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Av. Interlagos - Shopping Interlagos
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Marginal Pinheiros Trânsito
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Pico do gavião - Andradas MG
+http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Estúdio 102 FM Itajaí - SC
+http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Estúdio 90.5 FM São Paulo - SP
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Estúdio 91.7 FM Cascavel - PR
+http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Estúdio 96.5 FM Rio de Janeiro - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Estúdio 100.5 FM Rio de Janeiro - RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Estúdio 90.3 FM Recife - PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10-radiojornal-recife-video-web.sdp/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Novo Templo da Igreja da Graça - SP
+http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Câmeras",Santuário de Aparecida - Altar Central
+http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="2 HORAS",A Pantera Cor de Rosa
-https://www.youtube.com/watch?v=QXA_cbJZUbM
-#EXTINF:0 tvg-id="avi" group-title="2 HORAS",Caverna do Dragão
-https://www.youtube.com/watch?v=cEUCXIPWn8A&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="2 HORAS",Luney Tunes
-https://www.youtube.com/watch?v=XMunQckVtMM&t
-#EXTINF:0 tvg-id="RedlightHD.ero" group-title="2 HORAS",Peppa Pig
-https://www.youtube.com/watch?v=xoSDJ-FSkj4
-#EXTINF:0 tvg-id="avi" group-title="2 HORAS",Popeye
-https://www.youtube.com/watch?v=qHLHO4XL4pE
-#EXTINF:0 tvg-id="avi" group-title="2 HORAS",Turma da Mônica
-https://www.youtube.com/watch?v=r5kKFDYG5iI
-#EXTINF:0 tvg-id="avi" group-title="2 HORAS",CHAVES
-https://www.youtube.com/watch?v=nYAP40XD57M&t=3942s
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",TV Evangelizar
+http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Religiosos",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",TV Novo Tempo SP
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",TV Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Plenitude TV
+http://siteiaptd.paineldecontrole.info:1935/live/smil:site.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Redevida.br" group-title="Religiosos",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Religiosos",TV Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="Religiosos",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Boavontadetv.br" group-title="Religiosos",Boa Vontade TV
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Gospel.br" group-title="Religiosos",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",TV Feliz
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",CJC TV
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",IURD TV
+http://iuhls-lh.akamaihd-staging.net/i/utvhls1_1@336317/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",IURD TV Internacional
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Vem & Vê TV 1
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Vem & Vê TV 2
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv022/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Vem & Vê TV 3
+http://srv-vvtv.sisdera.com:1935/live/mp4:vvtv032/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Religiosos",Portal Gospel
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="RedeGenesis.br" group-title="Religiosos",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="BBB 19",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="ext" group-title="BBB 19",(11)94180-9373
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="ext" group-title="BBB 19",Assista +30 Cameras
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="ext" group-title="BBB 19",Disponivel Na Lista VIP
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="ext" group-title="BBB 19",BBB 19
-http://fonte.iptvmaishd.com:25461/6616/6616/137031
-#EXTINF:0 tvg-id="ext" group-title="BBB 19",BBB 2019 HD
-https://tinyurl.com/TL-manutencao
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Guará
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV RSIM
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVU Recife
+http://150.161.93.173/hls/720/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Maceió
+https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Aberta SP
+http://live.tvaberta.tv.br:1935/tvabertalive/tvabertalive/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Sesc TV HD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV INES HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="RedeFami­lia.br" group-title="TV Aberta",Rede Família
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Agro Canal
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="TV Aberta",Canal do Boi
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Canalrural.br" group-title="TV Aberta",Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="AmazonSat.br" group-title="TV Aberta",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Gazeta RN
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Gazeta MA
+http://stmv3.pagehost.com.br:1935/wagner7534/wagner7534/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT SP Interior
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT MT
+https://5b7f3c45ab7c2.streamlock.net/tvcentro/ngrp:tvcentro_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV Aberta",SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT GO
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Bandsp.br" group-title="TV Aberta",Band SP
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Band PA
+http://video01.tvdigitalhd.org:1935/rbatv12/rbatv12/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede Brasil SP
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede Brasil DE
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede Brasil PA
+http://video01.tvdigitalhd.org:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura SE
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PE
+https://cdn.jmvstream.com/live/hls/lv_7081/LV7081_1d9b6iVXj2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura SC
+http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura MG
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura ES
+http://stmv4.srvstm.com:1935/tvsimcolatina/tvsimcolatina/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="TV Aberta",TV Cultura BA
+http://cdn2.comets.com.br/tvbaianahd/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PR HD
+http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PB
+http://stream.tvitarare.com.br/hls/site/site_mid/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Cultura PB HD
+http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TV Futura RJ
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Recordsp.br" group-title="TV Aberta",Record SP
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record SP HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record RJ
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RJ HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record DF
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cbb2b2a3f5b98ff7c12bebc970bdaf9eb%3Bbase64np%3BL6Z5TA9Gv61o9Ag%21/amlst%3AL6aBVRINuqx3tISH/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record DF HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cbb2b2a3f5b98ff7c12bebc970bdaf9eb%3Bbase64np%3BL6Z5TA9Gv61o9Ag%21/amlst%3AL6aBVRINuqx3tISH/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record BA
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cf0b3c44cad91bba6d3262839f9324c93%3Bbase64np%3BGoLjm3omChZwJl4%21/amlst%3AGoIbgmdtDxdvZtKJ/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record BA HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cf0b3c44cad91bba6d3262839f9324c93%3Bbase64np%3BGoLjm3omChZwJl4%21/amlst%3AGoIbgmdtDxdvZtKJ/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record MG
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C9cabc5d6d4c4528b05ff7eff45ebc6fb%3Bbase64np%3BI5WRb1PVXkWl2lk%21/amlst%3AI5Vpdk6eW0S6mtXB/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record MG HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C9cabc5d6d4c4528b05ff7eff45ebc6fb%3Bbase64np%3BI5WRb1PVXkWl2lk%21/amlst%3AI5Vpdk6eW0S6mtXB/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RS
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C76ea6be7c15142f489d09d53baa51563%3Bbase64np%3B-gwwpw93FbCGVuQ%21/amlst%3A-gzIvhI8ELGZFmg7/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RS HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C76ea6be7c15142f489d09d53baa51563%3Bbase64np%3B-gwwpw93FbCGVuQ%21/amlst%3A-gzIvhI8ELGZFmg7/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record RN
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",Record ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Record Moçambique
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV RS
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",Rede TV RO
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVE BA HD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta",TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Terraviva.br" group-title="TV Aberta",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Nbr.br" group-title="TV Aberta",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="TV Aberta",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="TV ABERTA",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="TV ABERTA",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="TV ABERTA",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",AGRO Brasil
-rtmp://177.54.152.243:1935/agrobrasiltv/agrobrasiltv
-#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",AGRO CANAL
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV ABERTA",BAND
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="TV ABERTA",CANAL DO BOI
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="avi" group-title="TV ABERTA",Canal Rural
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="Futura.br" group-title="TV ABERTA",Futura HD
-https://tv.unisc.br/hls/test.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Globorj.br" group-title="TV ABERTA",Globo RJ
-https://www.youtube.com/watch?v=U7-keLz9-X8
-#EXTINF:0 tvg-id="Rederecord.br" group-title="TV ABERTA",RECORD
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Redetv.br" group-title="TV ABERTA",RedeTV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1621006529.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Sbt.br" group-title="TV ABERTA",SBT
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Sbtsp.br" group-title="TV ABERTA",SBT SP
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Redebrasil.br" group-title="TV ABERTA",Rede Brasil
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",Rede Familia HD
-http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",TV Cultura HD
-https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1570812722.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Tvescola.br" group-title="TV ABERTA",TV Escola
-http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
-#EXTINF:0 tvg-id="TVGazeta.br" group-title="TV ABERTA",TV Gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?MundoIPTV
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Esportes",ESPN Brasil
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="Esportes",ESPN Brasil HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b1835008.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Espn.br" group-title="Esportes",ESPN
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Espnhd.br" group-title="Esportes",ESPN HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b5316608.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Esportes",ESPN 2
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b964608.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Esportes",ESPN 2 HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b5316608.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",ESPN Extra
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b964608.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Esportes",ESPN Extra HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b1835008.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Esportes",Fox Sports
+http://apk27.futeboltvgratis.com:8081/live/4/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Esportes",Fox Sports 2
+http://apk27.futeboltvgratis.com:8081/live/5/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Esportes",All Sports BR
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Esportes",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="NOTICIAS",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="NOTICIAS",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="NOTICIAS",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="ABCNews.al" group-title="NOTICIAS",ABC NEWS
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",TV JOVEM PAN
-https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/chunklist_w1538534442.m3u8
-#EXTINF:0 tvg-id="Recordnews.br" group-title="NOTICIAS",RECORD NEWS
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",TV CBN SP
-https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",RADIO JORNAL
-http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Infantil",Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon/gospelcartoon/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="Infantil",Disney XD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Infantil",Disney XD HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2C7f7978dabb948939a8a5b1b171ef599c%3Bbase64np%3Bcyzcx3V5SZ4JJwc%21/amlst%3Acywk3mgyTJ8WZ4s4/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Infantil",Disney Junior
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Infantil",Disney Junior HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Infantil",Disney Channel
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Infantil",Disney Channel HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Cf06ee152d1377ce1bb3004c5c45b88bc%3Bbase64np%3BoO5ZJZseOiNR32Y%21/amlst%3AoO6hPIZVPyJOn-pd/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="RELIGIÃO",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="RELIGIÃO",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="RELIGIÃO",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="Cancaonova.br" group-title="RELIGIÃO",Canção Nova HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Gospel.br" group-title="RELIGIÃO",Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Tvaparecida.br" group-title="RELIGIÃO",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="RELIGIÃO",TV Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?MundoIPTV
+#EXTINF:0 tvg-id="ext" group-title="Filmes e Séries",Chaves 24H
+http://167.114.140.230/margaretede3116/margaretede3116/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Filmes e Séries",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="cine+" group-title="Filmes e Séries",Cine+
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Filmes e Séries",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="PREMIERE",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="PREMIERE",SEJA VIP TODOS PREMIERE
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="PREMIERE",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERE",Premiere Clubes
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Premiere2.br" group-title="PREMIERE",PREMIERE 2
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Premiere3.br" group-title="PREMIERE",PREMIERE 3
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Premiere4.br" group-title="PREMIERE",PREMIERE 4
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Premiere5.br" group-title="PREMIERE",PREMIERE 5
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Premiere6.br" group-title="PREMIERE",PREMIERE 6
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Premiere7.br" group-title="PREMIERE",PREMIERE 7
-https://tinyurl.com/TL-manutencao
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Notícias",Record News
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",Record News HD
+http://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",GV News
+https://59f1cbe63db89.streamlock.net:1443/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Notícias",Porto Canal
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Bloomberg.br" group-title="Notícias",Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Notícias",RTP1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Notícias",RTP2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="TVI.pt" group-title="Notícias",TVI
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",TVI+
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Notícias",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",Fox 23 News
+http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="lifenews" group-title="Notícias",Life News
+http://tv.life.ru/lifetv/720p/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",Fox News 30
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",KIRO 7 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",WPXI News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224715/WPXI/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",WSOC 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224717/WSOC/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Notícias",WFTV 9 News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224711/WFTV/904k/prog.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="ESPORTES",Liberado Para Inscritos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="ESPORTES",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="ESPORTES",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="ESPORTES",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="ESPORTES",Baixe O APP FuteboLive
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES",1 tvg-logo=http://i.imgur.com/DRwB0FQ.jpg group-title=ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",Combate
-http://fonte.iptvmaishd.com:25461/6616/6616/141953
-#EXTINF:0 tvg-id="Espn.br" group-title="ESPORTES",ESPN
-http://fonte.iptvmaishd.com:25461/6616/6616/141914
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="ESPORTES",ESPN 2
-http://lista.red:8880/Ivostop/979629/10085
-#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN +
-http://lista.red:8880/Ivostop/979629/19186
-#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL
-http://fonte.iptvmaishd.com:25461/6616/6616/141915
-#EXTINF:0 tvg-id="Espnextra.br" group-title="ESPORTES",ESPN Extra
-http://fonte.iptvmaishd.com:25461/6616/6616/141911
-#EXTINF:0 tvg-id="Foxsports.br" group-title="ESPORTES",FOX SPORTS
-http://fonte.iptvmaishd.com:25461/6616/6616/141897
-#EXTINF:0 tvg-id="Foxsports2.br" group-title="ESPORTES",FOX SPORTS 2
-http://fonte.iptvmaishd.com:25461/6616/6616/141894
-#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SPORTV
-http://fonte.iptvmaishd.com:25461/6616/6616/141785
-#EXTINF:0 tvg-id="Sportv2.br" group-title="ESPORTES",SPORTV 2
-http://fonte.iptvmaishd.com:25461/6616/6616/141782
-#EXTINF:0 tvg-id="Sportv3.br" group-title="ESPORTES",SPORTV 3
-http://fonte.iptvmaishd.com:25461/6616/6616/141779
-#EXTINF:0 tvg-id="avi" group-title="ESPORTES",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
+#EXTINF:0 tvg-id="ext" group-title="Variedade e Músicas",Yeeah!
+http://stmv2.srvstm.com:1935/yeeahteen/yeeahteen/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Variedade e Músicas",Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="TVUniao.br" group-title="Variedade e Músicas",TV União
+http://stmv1.srvstm.com:1935/tvuniao/tvuniao/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="TopTV.svn" group-title="Variedade e Músicas",Top TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Variedade e Músicas",Top TV HD
+http://stmv3.euroti.com.br:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Variedade e Músicas",Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Variedade e Músicas",Music Box Gold
+http://musicbox.cdnvideo.ru:1935/musicbox/musicboxtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Variedade e Músicas",Gospel Music TV
+http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="H!TMusic.ro" group-title="Variedade e Músicas",Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="H!TMusic.ro" group-title="Variedade e Músicas",H!T Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="mega" group-title="Variedade e Músicas",Mega TV
+http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:0 tvg-id="avi" group-title="MEU SOM",Musicas Online Acesse
-https://www.youtube.com/watch?v=2ejWgUHWzew&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="MEU SOM",www.meusom.org
-https://www.youtube.com/watch?v=2ejWgUHWzew&feature=youtu.be
-#EXTINF:0 tvg-id="Anos70.br" group-title="MEU SOM",Anos 70
-http://192.99.150.31:8241/stream
-#EXTINF:0 tvg-id="Anos2000.br" group-title="MEU SOM",Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:0 tvg-id="Axe.br" group-title="MEU SOM",Axé
-http://192.99.150.31:8305/stream
-#EXTINF:0 tvg-id="Bossanova.br" group-title="MEU SOM",Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:0 tvg-id="Eletronica.br" group-title="MEU SOM",Eletrônica
-http://192.99.150.31:9095/stream
-#EXTINF:0 tvg-id="Festa.br" group-title="MEU SOM",Festa
-http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM",Funk
-http://192.99.150.31:9089/stream
-#EXTINF:0 tvg-id="Forro.br" group-title="MEU SOM",Forró
-http://192.99.150.31:9019/stream
-#EXTINF:0 tvg-id="Hiphop.br" group-title="MEU SOM",Hip Hop
-http://192.99.150.31:8721/stream
-#EXTINF:0 tvg-id="Jazz.br" group-title="MEU SOM",Jazz
-http://192.99.150.31:8042/stream
-#EXTINF:0 tvg-id="Lounge.br" group-title="MEU SOM",Lounge
-http://6d9a.webradio.upx.net.br:9064/stream
-#EXTINF:0 tvg-id="Metal.br" group-title="MEU SOM",Metal
-http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:0 tvg-id="Mpb.br" group-title="MEU SOM",MPB
-http://192.99.150.31:8775/stream
-#EXTINF:0 tvg-id="Newrock.br" group-title="MEU SOM",New Rock
-http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:0 tvg-id="Pagode.br" group-title="MEU SOM",Pagode
-http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:0 tvg-id="Pophits.br" group-title="MEU SOM",Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM",Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:0 tvg-id="Reggae.br" group-title="MEU SOM",Reggae
-http://192.99.150.31:8715/stream
-#EXTINF:0 tvg-id="Rockclassico.br" group-title="MEU SOM",Rock Clássico
-http://192.99.150.31:9125/stream
-#EXTINF:0 tvg-id="Sertanejo.br" group-title="MEU SOM",Sertanejo
-http://192.99.150.31:9485/stream
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM",Rap Nacional
-http://192.99.150.31:8377/stream
-#EXTINF:0 tvg-id="Romanticas.br" group-title="MEU SOM",Românticas
-http://192.99.150.31:8962/stream
-#EXTINF:0 tvg-id="Trilhassonoras.br" group-title="MEU SOM",Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E01
+http://media.lhmtv.ga/series/Arrow/s01e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E02
+http://media.lhmtv.ga/series/Arrow/s01e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E03
+http://media.lhmtv.ga/series/Arrow/s01e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E04
+http://media.lhmtv.ga/series/Arrow/s01e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E05
+http://media.lhmtv.ga/series/Arrow/s01e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E06
+http://media.lhmtv.ga/series/Arrow/s01e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E07
+http://media.lhmtv.ga/series/Arrow/s01e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E08
+http://media.lhmtv.ga/series/Arrow/s01e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E09
+http://media.lhmtv.ga/series/Arrow/s01e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E10
+http://media.lhmtv.ga/series/Arrow/s01e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E11
+http://media.lhmtv.ga/series/Arrow/s01e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E12
+http://media.lhmtv.ga/series/Arrow/s01e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E13
+http://media.lhmtv.ga/series/Arrow/s01e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E14
+http://media.lhmtv.ga/series/Arrow/s01e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E15
+http://media.lhmtv.ga/series/Arrow/s01e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E16
+http://media.lhmtv.ga/series/Arrow/s01e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E17
+http://media.lhmtv.ga/series/Arrow/s01e17-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E18
+http://media.lhmtv.ga/series/Arrow/s01e18-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E19
+http://media.lhmtv.ga/series/Arrow/s01e19-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E20
+http://media.lhmtv.ga/series/Arrow/s01e20-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E21
+http://media.lhmtv.ga/series/Arrow/s01e21-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E22
+http://media.lhmtv.ga/series/Arrow/s01e22-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",1T-E23
+http://media.lhmtv.ga/series/Arrow/s01e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E01
+http://media.lhmtv.ga/series/Arrow/s02e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E02
+http://media.lhmtv.ga/series/Arrow/s02e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E03
+http://media.lhmtv.ga/series/Arrow/s02e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E04
+http://media.lhmtv.ga/series/Arrow/s02e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E05
+http://media.lhmtv.ga/series/Arrow/s02e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E06
+http://media.lhmtv.ga/series/Arrow/s02e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E07
+http://media.lhmtv.ga/series/Arrow/s02e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E08
+http://media.lhmtv.ga/series/Arrow/s02e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E09
+http://media.lhmtv.ga/series/Arrow/s02e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E10
+http://media.lhmtv.ga/series/Arrow/s02e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E11
+http://media.lhmtv.ga/series/Arrow/s02e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E12
+http://media.lhmtv.ga/series/Arrow/s02e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E13
+http://media.lhmtv.ga/series/Arrow/s02e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E14
+http://media.lhmtv.ga/series/Arrow/s02e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E15
+http://media.lhmtv.ga/series/Arrow/s02e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E16
+http://media.lhmtv.ga/series/Arrow/s02e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E17
+http://media.lhmtv.ga/series/Arrow/s02e17-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E18
+http://media.lhmtv.ga/series/Arrow/s02e18-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E19
+http://media.lhmtv.ga/series/Arrow/s02e19-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E20
+http://media.lhmtv.ga/series/Arrow/s02e20-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E21
+http://media.lhmtv.ga/series/Arrow/s02e21-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E22
+http://media.lhmtv.ga/series/Arrow/s02e22-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",2T-E23
+http://media.lhmtv.ga/series/Arrow/s02e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E01
+http://media.lhmtv.ga/series/Arrow/s03e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E02
+http://media.lhmtv.ga/series/Arrow/s03e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E03
+http://media.lhmtv.ga/series/Arrow/s03e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E04
+http://media.lhmtv.ga/series/Arrow/s03e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E05
+http://media.lhmtv.ga/series/Arrow/s03e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E06
+http://media.lhmtv.ga/series/Arrow/s03e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E07
+http://media.lhmtv.ga/series/Arrow/s03e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E08
+http://media.lhmtv.ga/series/Arrow/s03e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E09
+http://media.lhmtv.ga/series/Arrow/s03e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E10
+http://media.lhmtv.ga/series/Arrow/s03e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E11
+http://media.lhmtv.ga/series/Arrow/s03e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E12
+http://media.lhmtv.ga/series/Arrow/s03e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E13
+http://media.lhmtv.ga/series/Arrow/s03e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E14
+http://media.lhmtv.ga/series/Arrow/s03e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E15
+http://media.lhmtv.ga/series/Arrow/s03e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E16
+http://media.lhmtv.ga/series/Arrow/s03e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E17
+http://media.lhmtv.ga/series/Arrow/s03e17-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E18
+http://media.lhmtv.ga/series/Arrow/s03e18-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E19
+http://media.lhmtv.ga/series/Arrow/s03e19-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E20
+http://media.lhmtv.ga/series/Arrow/s03e20-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E21
+http://media.lhmtv.ga/series/Arrow/s03e21-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E22
+http://media.lhmtv.ga/series/Arrow/s03e22-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",3T-E23
+http://media.lhmtv.ga/series/Arrow/s03e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E01
+http://media.lhmtv.ga/series/Arrow/s04e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E02
+http://media.lhmtv.ga/series/Arrow/s04e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E03
+http://media.lhmtv.ga/series/Arrow/s04e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E04
+http://media.lhmtv.ga/series/Arrow/s04e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E05
+http://media.lhmtv.ga/series/Arrow/s04e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E06
+http://media.lhmtv.ga/series/Arrow/s04e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E07
+http://media.lhmtv.ga/series/Arrow/s04e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E08
+http://media.lhmtv.ga/series/Arrow/s04e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E09
+http://media.lhmtv.ga/series/Arrow/s04e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E10
+http://media.lhmtv.ga/series/Arrow/s04e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E11
+http://media.lhmtv.ga/series/Arrow/s04e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E12
+http://media.lhmtv.ga/series/Arrow/s04e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E13
+http://media.lhmtv.ga/series/Arrow/s04e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E14
+http://media.lhmtv.ga/series/Arrow/s04e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E15
+http://media.lhmtv.ga/series/Arrow/s04e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E16
+http://media.lhmtv.ga/series/Arrow/s04e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E17
+http://media.lhmtv.ga/series/Arrow/s04e17-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E18
+http://media.lhmtv.ga/series/Arrow/s04e18-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E19
+http://media.lhmtv.ga/series/Arrow/s04e19-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E20
+http://media.lhmtv.ga/series/Arrow/s04e20-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E21
+http://media.lhmtv.ga/series/Arrow/s04e21-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E22
+http://media.lhmtv.ga/series/Arrow/s04e22-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",4T-E23
+http://media.lhmtv.ga/series/Arrow/s04e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E01
+http://media.lhmtv.ga/series/Arrow/s05e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E02
+http://media.lhmtv.ga/series/Arrow/s05e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E03
+http://media.lhmtv.ga/series/Arrow/s05e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E04
+http://media.lhmtv.ga/series/Arrow/s05e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E05
+http://media.lhmtv.ga/series/Arrow/s05e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E06
+http://media.lhmtv.ga/series/Arrow/s05e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E07
+http://media.lhmtv.ga/series/Arrow/s05e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E08
+http://media.lhmtv.ga/series/Arrow/s05e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E09
+http://media.lhmtv.ga/series/Arrow/s05e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E10
+http://media.lhmtv.ga/series/Arrow/s05e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E11
+http://media.lhmtv.ga/series/Arrow/s05e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E12
+http://media.lhmtv.ga/series/Arrow/s05e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E13
+http://media.lhmtv.ga/series/Arrow/s05e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E14
+http://media.lhmtv.ga/series/Arrow/s05e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E15
+http://media.lhmtv.ga/series/Arrow/s05e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E16
+http://media.lhmtv.ga/series/Arrow/s05e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E17
+http://media.lhmtv.ga/series/Arrow/s05e17-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E18
+http://media.lhmtv.ga/series/Arrow/s05e18-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E19
+http://media.lhmtv.ga/series/Arrow/s05e19-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E20
+http://media.lhmtv.ga/series/Arrow/s05e20-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E21
+http://media.lhmtv.ga/series/Arrow/s05e21-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E22
+http://media.lhmtv.ga/series/Arrow/s05e22-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",5T-E23
+http://media.lhmtv.ga/series/Arrow/s05e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E01
+http://media.lhmtv.ga/series/Arrow/s05e23-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E02
+http://media.lhmtv.ga/series/Arrow/s05e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E03
+http://media.lhmtv.ga/series/Arrow/s05e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E04
+http://media.lhmtv.ga/series/Arrow/s05e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E05
+http://media.lhmtv.ga/series/Arrow/s05e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E06
+http://media.lhmtv.ga/series/Arrow/s05e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E07
+http://media.lhmtv.ga/series/Arrow/s05e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E08
+http://media.lhmtv.ga/series/Arrow/s05e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E09
+http://media.lhmtv.ga/series/Arrow/s05e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E10
+http://media.lhmtv.ga/series/Arrow/s05e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E11
+http://media.lhmtv.ga/series/Arrow/s05e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E12
+http://media.lhmtv.ga/series/Arrow/s05e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E13
+http://media.lhmtv.ga/series/Arrow/s05e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E14
+http://media.lhmtv.ga/series/Arrow/s05e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E15
+http://media.lhmtv.ga/series/Arrow/s05e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E16
+http://media.lhmtv.ga/series/Arrow/s05e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E17
+http://media.lhmtv.ga/series/Arrow/s05e17-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E18
+http://media.lhmtv.ga/series/Arrow/s05e18-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E19
+http://media.lhmtv.ga/series/Arrow/s05e19-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E20
+http://media.lhmtv.ga/series/Arrow/s05e20-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E21
+http://media.lhmtv.ga/series/Arrow/s05e21-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E22
+http://media.lhmtv.ga/series/Arrow/s05e22-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="Arrow",6T-E23
+http://media.lhmtv.ga/series/Arrow/s05e23-dub-720p.mp4?LHMTv
 
-#EXTINF:0 tvg-id="avi" group-title="MEU SOM RADIOS",Radios Online Acesse
-https://www.youtube.com/watch?v=2ejWgUHWzew&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="MEU SOM RADIOS",www.meusom.org
-https://www.youtube.com/watch?v=2ejWgUHWzew&feature=youtu.be
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Band FM 96.1
-http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w1986330582.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Clube 105.5 FM
-http://5940.live.upx.net.br:9082/stream
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Coca Cola FM
-rtmp://s.imusicaradios.com.br:1935/imusica_radio/brasil.stream
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",FM O Dia FM 100.5
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Gaúcha AM 600 FM 93.7
-https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_fa6b8cff-486f-42e1-8242-bf0823275256.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Jovem Pan
-http://wz3.dnip.com.br/93seridohd/93seridohd.stream/chunklist_w173503393.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Mix FM 106.3
-http://tuneinmix.crossradio.com.br:8008/stream
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Nativa FM 95.3
-http://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w453707469.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MEU SOM RADIOS",Povo FM 87.9
-http://149.56.167.236:8079/.ogg
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",1T-E01 Adeus Longos Dias
+http://media.lhmtv.ga/series/twd/s01e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",1T-E02 Entranhas
+http://media.lhmtv.ga/series/twd/s01e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",1T-E03 Diga Isso Aos Sapos
+http://media.lhmtv.ga/series/twd/s01e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",1T-E04 Vatos
+http://media.lhmtv.ga/series/twd/s01e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",1T-E05 Fogo Selvagem
+http://media.lhmtv.ga/series/twd/s01e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",1T-E06 TS-19
+http://media.lhmtv.ga/series/twd/s01e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E01 O Que Esta a Frente
+http://media.lhmtv.ga/series/twd/s02e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E02 Derramamento de Sangue
+http://media.lhmtv.ga/series/twd/s02e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E03 Salve o ultimo
+http://media.lhmtv.ga/series/twd/s02e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E04 Cherokee Rose
+http://media.lhmtv.ga/series/twd/s02e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E05 Chupacabra
+http://media.lhmtv.ga/series/twd/s02e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E06 Segredos
+http://media.lhmtv.ga/series/twd/s02e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E07 Praticamente Morto
+http://media.lhmtv.ga/series/twd/s02e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E08 Nebraska
+http://media.lhmtv.ga/series/twd/s02e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E09 Dedo no Gatilho
+http://media.lhmtv.ga/series/twd/s02e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E10 18 Miles Out
+http://media.lhmtv.ga/series/twd/s02e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E11 Juiz. Juri. Carrasco
+http://media.lhmtv.ga/series/twd/s02e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E12 Melhores Anjos
+http://media.lhmtv.ga/series/twd/s02e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",2T-E13 Ao Lado do Fogo Moribundo
+http://media.lhmtv.ga/series/twd/s02e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E01
+http://media.lhmtv.ga/series/twd/s03e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E02
+http://media.lhmtv.ga/series/twd/s03e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E03
+http://media.lhmtv.ga/series/twd/s03e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E04
+http://media.lhmtv.ga/series/twd/s03e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E05
+http://media.lhmtv.ga/series/twd/s03e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E06
+http://media.lhmtv.ga/series/twd/s03e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E07
+http://media.lhmtv.ga/series/twd/s03e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E08
+http://media.lhmtv.ga/series/twd/s03e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E09
+http://media.lhmtv.ga/series/twd/s03e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E10
+http://media.lhmtv.ga/series/twd/s03e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E11
+http://media.lhmtv.ga/series/twd/s03e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E12
+http://media.lhmtv.ga/series/twd/s03e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E13
+http://media.lhmtv.ga/series/twd/s03e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E14
+http://media.lhmtv.ga/series/twd/s03e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E15
+http://media.lhmtv.ga/series/twd/s03e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",3T-E16
+http://media.lhmtv.ga/series/twd/s03e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E01
+http://media.lhmtv.ga/series/twd/s04e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E02
+http://media.lhmtv.ga/series/twd/s04e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E03
+http://media.lhmtv.ga/series/twd/s04e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E04
+http://media.lhmtv.ga/series/twd/s04e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E05
+http://media.lhmtv.ga/series/twd/s04e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E06
+http://media.lhmtv.ga/series/twd/s04e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E07
+http://media.lhmtv.ga/series/twd/s04e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E08
+http://media.lhmtv.ga/series/twd/s04e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E09
+http://media.lhmtv.ga/series/twd/s04e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E10
+http://media.lhmtv.ga/series/twd/s04e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E11
+http://media.lhmtv.ga/series/twd/s04e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E12
+http://media.lhmtv.ga/series/twd/s04e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E13
+http://media.lhmtv.ga/series/twd/s04e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E14
+http://media.lhmtv.ga/series/twd/s04e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E15
+http://media.lhmtv.ga/series/twd/s04e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",4T-E16
+http://media.lhmtv.ga/series/twd/s04e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E01
+http://media.lhmtv.ga/series/twd/s05e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E02
+http://media.lhmtv.ga/series/twd/s05e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E03
+http://media.lhmtv.ga/series/twd/s05e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E04
+http://media.lhmtv.ga/series/twd/s05e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E05
+http://media.lhmtv.ga/series/twd/s05e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E06
+http://media.lhmtv.ga/series/twd/s05e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E07
+http://media.lhmtv.ga/series/twd/s05e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E08
+http://media.lhmtv.ga/series/twd/s05e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E09
+http://media.lhmtv.ga/series/twd/s05e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E10
+http://media.lhmtv.ga/series/twd/s05e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E11
+http://media.lhmtv.ga/series/twd/s05e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E12
+http://media.lhmtv.ga/series/twd/s05e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E13
+http://media.lhmtv.ga/series/twd/s05e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E14
+http://media.lhmtv.ga/series/twd/s05e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E15
+http://media.lhmtv.ga/series/twd/s05e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",5T-E16
+http://media.lhmtv.ga/series/twd/s05e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E01
+http://media.lhmtv.ga/series/twd/s06e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E02
+http://media.lhmtv.ga/series/twd/s06e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E03
+http://media.lhmtv.ga/series/twd/s06e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E04
+http://media.lhmtv.ga/series/twd/s06e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E05
+http://media.lhmtv.ga/series/twd/s06e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E06
+http://media.lhmtv.ga/series/twd/s06e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E07
+http://media.lhmtv.ga/series/twd/s06e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E08
+http://media.lhmtv.ga/series/twd/s06e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E09
+http://media.lhmtv.ga/series/twd/s06e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E10
+http://media.lhmtv.ga/series/twd/s06e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E11
+http://media.lhmtv.ga/series/twd/s06e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E12
+http://media.lhmtv.ga/series/twd/s06e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E13
+http://media.lhmtv.ga/series/twd/s06e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E14
+http://media.lhmtv.ga/series/twd/s06e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E15
+http://media.lhmtv.ga/series/twd/s06e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",6T-E16
+http://media.lhmtv.ga/series/twd/s06e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E01
+http://media.lhmtv.ga/series/twd/s07e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E02
+http://media.lhmtv.ga/series/twd/s07e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E03
+http://media.lhmtv.ga/series/twd/s07e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E04
+http://media.lhmtv.ga/series/twd/s07e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E05
+http://media.lhmtv.ga/series/twd/s07e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E06
+http://media.lhmtv.ga/series/twd/s07e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E07
+http://media.lhmtv.ga/series/twd/s07e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E08
+http://media.lhmtv.ga/series/twd/s07e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E09
+http://media.lhmtv.ga/series/twd/s07e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E10
+http://media.lhmtv.ga/series/twd/s07e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E11
+http://media.lhmtv.ga/series/twd/s07e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E12
+http://media.lhmtv.ga/series/twd/s07e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E13
+http://media.lhmtv.ga/series/twd/s07e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E14
+http://media.lhmtv.ga/series/twd/s07e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E15
+http://media.lhmtv.ga/series/twd/s07e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",7T-E16
+http://media.lhmtv.ga/series/twd/s07e16-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E01
+http://media.lhmtv.ga/series/twd/s08e01-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E02
+http://media.lhmtv.ga/series/twd/s08e02-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E03
+http://media.lhmtv.ga/series/twd/s08e03-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E04
+http://media.lhmtv.ga/series/twd/s08e04-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E05
+http://media.lhmtv.ga/series/twd/s08e05-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E06
+http://media.lhmtv.ga/series/twd/s08e06-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E07
+http://media.lhmtv.ga/series/twd/s08e07-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E08
+http://media.lhmtv.ga/series/twd/s08e08-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E09
+http://media.lhmtv.ga/series/twd/s08e09-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E10
+http://media.lhmtv.ga/series/twd/s08e10-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E11
+http://media.lhmtv.ga/series/twd/s08e11-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E12
+http://media.lhmtv.ga/series/twd/s08e12-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E13
+http://media.lhmtv.ga/series/twd/s08e13-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E14
+http://media.lhmtv.ga/series/twd/s08e14-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E15
+http://media.lhmtv.ga/series/twd/s08e15-dub-720p.mp4?LHMTv
+#EXTINF:0 tvg-id="avi" group-title="The Walking Dead",8T-E16
+http://media.lhmtv.ga/series/twd/s08e16-dub-720p.mp4?LHMTv
 
-#EXTINF:0 tvg-id="avi" group-title="FILMES E SERIES",Liberado Para Inscritos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="FILMES E SERIES",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="FILMES E SERIES",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="FILMES E SERIES",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E
-http://fonte.iptvmaishd.com:25461/6616/6616/141994
-#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
-http://fonte.iptvmaishd.com:25461/6616/6616/141985
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine Gospel
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
-http://fonte.iptvmaishd.com:25461/6616/6616/141959
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="cine+" group-title="FILMES E SERIES",CINE+
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX
-http://fonte.iptvmaishd.com:25461/6616/6616/141908
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FILMES
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Gospel Movies 2
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?MundoIPTV
-#EXTINF:0 tvg-id="Hbo.br" group-title="FILMES E SERIES",HBO
-http://fonte.iptvmaishd.com:25461/6616/6616/141857
-#EXTINF:0 tvg-id="Hbo2.br" group-title="FILMES E SERIES",HBO 2
-http://fonte.iptvmaishd.com:25461/6616/6616/141855
-#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
-http://fonte.iptvmaishd.com:25461/6616/6616/141834
-#EXTINF:0 tvg-id="Space.br" group-title="FILMES E SERIES",Space
-http://fonte.iptvmaishd.com:25461/6616/6616/141778
-#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SERIES",TELECINE ACTION
-http://fonte.iptvmaishd.com:25461/6616/6616/141762
-#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SERIES",TELECINE PIPOCA
-http://fonte.iptvmaishd.com:25461/6616/6616/141753
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SERIES",TELECINE PREMIUM
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Tnt.br" group-title="FILMES E SERIES",TNT
-http://fonte.iptvmaishd.com:25461/6616/6616/141740
-#EXTINF:0 tvg-id="Warnerchannel.br" group-title="FILMES E SERIES",Warner Channel
-http://fonte.iptvmaishd.com:25461/6616/6616/141721
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E1
+http://media-br-am.crackle.com/1/e/r6/w02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E2
+http://media-br-am.crackle.com/1/e/r6/v02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E3
+http://media-br-am.crackle.com/1/e/r6/u02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E4
+http://media-br-am.crackle.com/1/k/r6/j12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E5
+http://media-br-am.crackle.com/1/d/r6/s02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E6
+http://media-br-am.crackle.com/1/d/r6/t02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E7
+http://media-br-am.crackle.com/1/n/r6/y12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E8
+http://media-br-am.crackle.com/1/n/r6/z12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E9
+http://media-br-am.crackle.com/1/o/r6/012lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E10
+http://media-br-am.crackle.com/1/o/r6/312lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E11
+http://media-br-am.crackle.com/1/o/r6/112lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E12
+http://media-br-am.crackle.com/1/o/r6/212lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S1-E13
+http://media-br-am.crackle.com/1/n/r6/w12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E1
+http://media-br-am.crackle.com/1/q/r6/812lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E2
+http://media-br-am.crackle.com/1/p/r6/712lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E3
+http://media-br-am.crackle.com/1/p/r6/612lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E4
+http://media-br-am.crackle.com/1/p/r6/512lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E5
+http://media-br-am.crackle.com/1/p/r6/412lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E6
+http://media-br-am.crackle.com/1/d/r6/r02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E7
+http://media-br-am.crackle.com/1/c/r6/n02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E8
+http://media-br-am.crackle.com/1/c/r6/o02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E9
+http://media-br-am.crackle.com/1/c/r6/p02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E10
+http://media-br-am.crackle.com/1/d/r6/q02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E11
+http://media-br-am.crackle.com/1/b/r6/i02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E12
+http://media-br-am.crackle.com/1/b/r6/j02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E13
+http://media-br-am.crackle.com/1/b/r6/k02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E14
+http://media-br-am.crackle.com/1/b/r6/l02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S2-E15
+http://media-br-am.crackle.com/1/c/r6/m02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E1
+http://media-br-am.crackle.com/1/a/r6/h02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E2
+http://media-br-am.crackle.com/1/_/n6/c02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E3
+http://media-br-am.crackle.com/1/n/r6/v12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E4
+http://media-br-am.crackle.com/1/m/r6/u12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E5
+http://media-br-am.crackle.com/1/m/r6/t12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E6
+http://media-br-am.crackle.com/1/l/r6/q12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E7
+http://media-br-am.crackle.com/1/m/r6/r12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E8
+http://media-br-am.crackle.com/1/m/r6/s12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E9
+http://media-br-am.crackle.com/1/l/r6/p12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E10
+http://media-br-am.crackle.com/1/_/n6/d02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E11
+http://media-br-am.crackle.com/1/a/r6/e02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E12
+http://media-br-am.crackle.com/1/a/r6/f02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E13
+http://media-br-am.crackle.com/1/a/r6/g02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E14
+http://media-br-am.crackle.com/1/_/n6/a02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E15
+http://media-br-am.crackle.com/1/_/n6/b02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Leverage DUB",Leverage S3-E16
+http://media-br-am.crackle.com/1/-/n6/9z2lf_480p.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="DOCUMENTARIOS",Liberado Para Inscritos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="DOCUMENTARIOS",Lista VIP +5000 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="DOCUMENTARIOS",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="DOCUMENTARIOS",www.tvaberta.apk.gratis
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="DiscoveryCivilization.br" group-title="DOCUMENTARIOS",Discovery Civilization
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",Discovery Channel
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Historychannel.br" group-title="DOCUMENTARIOS",History Channel
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="DOCUMENTARIOS",National Geographic
-https://tinyurl.com/TL-manutencao
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E1
+http://media-br-am.crackle.com/1/j/r6/g12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E2
+http://media-br-am.crackle.com/1/j/r6/h12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E3
+http://media-br-am.crackle.com/1/j/r6/f12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E4
+http://media-br-am.crackle.com/1/h/r6/a12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E5
+http://media-br-am.crackle.com/1/i/r6/b12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E6
+http://media-br-am.crackle.com/1/i/r6/c12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E7
+http://media-br-am.crackle.com/1/i/r6/d12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E8
+http://media-br-am.crackle.com/1/i/r6/e12lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-E9
+http://media-br-am.crackle.com/1/g/r6/502lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-10
+http://media-br-am.crackle.com/1/g/r6/402lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-11
+http://media-br-am.crackle.com/1/h/r6/902lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-12
+http://media-br-am.crackle.com/1/g/r6/602lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-13
+http://media-br-am.crackle.com/1/h/r6/702lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-14
+http://media-br-am.crackle.com/1/h/r6/802lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-15
+http://media-br-am.crackle.com/1/g/r6/302lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-16
+http://media-br-am.crackle.com/1/f/r6/202lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-17
+http://media-br-am.crackle.com/1/f/r6/102lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-18
+http://media-br-am.crackle.com/1/f/r6/z02lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20 S1-19
+http://media-br-am.crackle.com/1/f/r6/002lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Missing Persons Unit DUB",Missing Persons Unit S1-20
+http://media-br-am.crackle.com/1/e/r6/y02lf_480p.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Lista VIP +3400 Conteudos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",(11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL",www.tvaberta.apk.gratis
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="INFANTIL",CARTOON NETWORK
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Disneychannel.br" group-title="INFANTIL",Disney Channel
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Discoverykids.br" group-title="INFANTIL",Discovery Kids
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIL",DISNEY JUNIOR
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Disneyxd.br" group-title="INFANTIL",DISNEY XD
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="NickJr.br" group-title="INFANTIL",NICK JR
-https://tinyurl.com/TL-manutencao
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E1
+http://media-br-am.crackle.com/1/q/h6/f7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E2
+http://media-br-am.crackle.com/1/p/h6/e7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E3
+http://media-br-am.crackle.com/1/p/h6/d7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E4
+http://media-br-am.crackle.com/1/r/h6/m7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E5
+http://media-br-am.crackle.com/1/r/h6/l7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E6
+http://media-br-am.crackle.com/1/r/h6/k7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E7
+http://media-br-am.crackle.com/1/r/h6/j7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E8
+http://media-br-am.crackle.com/1/q/h6/i7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E9
+http://media-br-am.crackle.com/1/q/h6/h7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Anger Management DUB",Anger Management S1-E10
+http://media-br-am.crackle.com/1/q/h6/g7vlf_480p.mp4
 
-#EXTINF:0 tvg-id="ext" group-title="2 Horas",2hrs Pica PAU
-https://r1---sn-bg0ezn7s.c.drive.google.com/videoplayback?id=e09a39291b607c86&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-bg0ezn7s&ms=nxu&mv=m&pl=46&sc=yes&ttl=transient&ei=ahFuXKuvEYWD-QXorL-IAw&susc=dr&driveid=198toLdJJZF3EptQ3WLYbvSFi9E938FH4&app=texmex&mime=video/mp4&dur=6810.343&lmt=1550685526702650&mt=1550717249&ip=2804:431:f73c:1248:79bb:6c68:77c0:f91d&ipbits=0&expire=1550731690&cp=QVNKUkhfUFZXQVhOOklvZ3AxdkwzYndF&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,sc,ttl,ei,susc,driveid,app,mime,dur,lmt,cp&signature=5A95ADB15149FAF0847AAD129141DE76EC84D8ED4E15C35105E0544A8906FECB.2FC7283420DF5AC43FDD6CD6EA08BAA9099A930B85666496E3C037E3E0B889FA&key=us0&cpn=KLMBgpk95sFxYrWv&c=WEB_EMBEDDED_PLAYER&cver=20190213
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E1
+http://media-br-am.crackle.com/1/u/v6/wnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E2
+http://media-br-am.crackle.com/1/t/v6/vnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E3
+http://media-br-am.crackle.com/1/t/v6/unvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E4
+http://media-br-am.crackle.com/1/t/v6/tnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E5
+http://media-br-am.crackle.com/1/t/v6/snvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E6
+http://media-br-am.crackle.com/1/s/v6/rnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E7
+http://media-br-am.crackle.com/1/s/v6/qnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E8
+http://media-br-am.crackle.com/1/s/v6/pnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E9
+http://media-br-am.crackle.com/1/s/v6/onvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E10
+http://media-br-am.crackle.com/1/r/v6/nnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E11
+http://media-br-am.crackle.com/1/r/v6/knvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E12
+http://media-br-am.crackle.com/1/r/v6/mnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Arnold DUB",Arnold S1-E13
+http://media-br-am.crackle.com/1/r/v6/lnvlf_480p.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Lista Premiun (11)94180-9373
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",+900 Filmes Lançamentos
-https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",A CABANA
-http://webtvcde.com/Servidor/lan/acahd7.mp4?MundoIPTV
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",A Freira
-http://playflixhd.tk/embed/s1/1104.mp4?MundoIPTV
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",ANABELLE 2
-http://webtvcde.com/Servidor/lan/a2acd7.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",BIRD BOX
-https://tinyurl.com/iptvfuturobird
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Carros 3 HD
-http://earnings.maybeup.net/movies/carros3-dub-720p.mp4
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Caes De Guerra
-http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CaesDeGuerra.mp4/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Corrida Mortal
-http://bit.ly/2Ny6vM9
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Corrida Mortal 2
-http://bit.ly/2OS3KSF
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Corrida Mortal 3: Inferno
-http://bit.ly/2pzlTJV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Corrida Mortal 2050
-http://bit.ly/2NEEL8z
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Deadpool 2
-http://bit.ly/2pi5RUy?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Gênio do Crime
-http://tinyurl.com/yc4dyo3z
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Jogo do Dinheiro
-http://tinyurl.com/ybl8r422
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Jumanji: Bem-Vindo à Selva
-http://tinyurl.com/y7s9kydt
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Homem-Formiga e a Vespa
-http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/HOMEMFORMIGAHDRIPDUB.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Homens de Preto 3
-http://tinyurl.com/y9g7dlzn
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Jogos mortais 8
-http://tinyurl.com/ydzycyka
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Jurassic World 2 : Reino Ameaçado
-http://bit.ly/2Nlgcxg?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",It: A Coisa
-http://tinyurl.com/y7vaze6l
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Megatubarão
-http://bit.ly/2xvoxDW?MundoIPTV
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Mogli - Entre dois mundos
-http://playflixhd.tk/embed/s1/1157.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Motoqueiro Fantasma
-http://tinyurl.com/ydzyzphf
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Motoqueiro Fantasma 2: Espírito de Vingança
-http://tinyurl.com/y8a5q6lv
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Next GEn HD
-https://tinyurl.com/iptvfuturonexhd
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",O BICHO VAI PEGAR 1
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%201.mp4?MundoIPTV
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",O BICHO VAI PEGAR 2
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%202.mp4?MundoIPTV
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",O BICHO VAI PEGAR 3
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%203.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",O Espetacular Homem Aranha
-http://media-br-am.crackle.com/1/n/x6/es4lf_480
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",O RESGATE DA PRINCESA
-http://cdn2.avsee09.tv/movies/oresgatedaprincesa-dub-720p.mp4
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Os Croods
-http://tinyurl.com/ycttll6l
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Os Farofeiros
-http://tinyurl.com/ybvh8p2d
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Os Parcas
-http://173.249.8.202/home/Os%20Par%c3%a7as%202018%20(720p%20-%20MP4)%20WWW.BLUDV.COM/Os.Par%c3%a7as.2018.720p.WEBRip.x264.NACIONAL-WWW.BLUDV.COM.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",O Touro Ferdinando
-http://tinyurl.com/yadq9e2y
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Os Mercenários
-http://bit.ly/2QTi7Y9
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Os Mercenários 2
-http://bit.ly/2O3Wiql
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Os Mercenários 3
-http://bit.ly/2O69mLS
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Pantera Negra
-http://tinyurl.com/ycl7gkxv
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Pato Pato Ganso
-http://tinyurl.com/y8x3n9r5
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Pe Pequeno
-http://playflixhd.tk/embed/s1/1142.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Perseguição Criminosa
-http://tinyurl.com/y7od68v2
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Planeta dos Macacos 3: A Guerra
-http://bit.ly/2xCJ22q
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Pica-Pau: O Filme HD
-http://earnings.maybeup.net/movies/picapau-dub-720p.mp4
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Piratas do Caribe 5 - A Vingança de Salazar
-http://tinyurl.com/ybkckpwj
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",POWER RANGERS
-http://webtvcde.com/Servidor/lan/prrsn7.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Titanic 1997
-http://tinyurl.com/yczoetvr
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",VELOZES E FURIOSOS 8
-http://webtvcde.com/Servidor/lan/vef8h7.mp4?MundoIPTV
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Rambo: Programado Para Matar
-http://tinyurl.com/y88f92je
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Rambo II: A Missão
-http://tinyurl.com/yav4urdo
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Rambo III
-http://tinyurl.com/ycecknsu
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Rambo IV
-http://tinyurl.com/y8uhdaxt
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Shaun O Carneiro
-http://bit.ly/2QcuLAu
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",WiFi Ralph (LEG)
-https://nt0pwm.oloadcdn.net/dl/l/6cqnIqiej5YL9Dhi/ixnzCA2z4FY/WiFi+Ralph+Quebrando+a+Internet+2018+DVDSCR+LEGFIXA.mp4?mime=true
-#EXTINF:0 tvg-id="avi" group-title="PEDIDOS",Venom
-https://lw907.ultraseedbox.com/~usb568/files/2018/venomalmosthd-dub-480p.mp4
-#EXTINF:0 tvg-id="ext" group-title="PEDIDOS",Vingadores Guerra Infinita
-http://tinyurl.com/y9844laj
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E1
+http://media-br-am.crackle.com/1/5/l6/hv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E2
+http://media-br-am.crackle.com/1/5/l6/gv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E3
+http://media-br-am.crackle.com/1/4/l6/fv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E4
+http://media-br-am.crackle.com/1/4/l6/ev0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E5
+http://media-br-am.crackle.com/1/6/l6/kv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E6
+http://media-br-am.crackle.com/1/5/l6/jv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E7
+http://media-br-am.crackle.com/1/5/l6/iv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E8
+http://media-br-am.crackle.com/1/6/l6/nv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E9
+http://media-br-am.crackle.com/1/7/l6/ov0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E10
+http://media-br-am.crackle.com/1/7/l6/pv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E11
+http://media-br-am.crackle.com/1/7/l6/qv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E12
+http://media-br-am.crackle.com/1/6/l6/lv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S1-E13
+http://media-br-am.crackle.com/1/6/l6/mv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E1
+http://media-br-am.crackle.com/1/-/l6/3v0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E2
+http://media-br-am.crackle.com/1/-/l6/2v0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E3
+http://media-br-am.crackle.com/1/-/l6/1v0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E4
+http://media-br-am.crackle.com/1/9/l6/0v0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E5
+http://media-br-am.crackle.com/1/9/l6/zv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E6
+http://media-br-am.crackle.com/1/9/l6/yv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E7
+http://media-br-am.crackle.com/1/9/l6/wv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E8
+http://media-br-am.crackle.com/1/8/l6/vv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E9
+http://media-br-am.crackle.com/1/8/l6/uv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E10
+http://media-br-am.crackle.com/1/8/l6/tv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E11
+http://media-br-am.crackle.com/1/8/l6/sv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E12
+http://media-br-am.crackle.com/1/7/l6/rv0lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crash DUB",Crash S2-E13
+http://media-br-am.crackle.com/1/-/l6/4v0lf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E1
+http://media-br-am.crackle.com/1/h/r6/6bvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E2
+http://media-br-am.crackle.com/1/h/r6/5bvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E3
+http://media-br-am.crackle.com/1/h/r6/7bvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E4
+http://media-br-am.crackle.com/1/i/r6/bcvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E5
+http://media-br-am.crackle.com/1/i/r6/acvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E6
+http://media-br-am.crackle.com/1/o/r6/0cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E7
+http://media-br-am.crackle.com/1/o/r6/zcvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E8
+http://media-br-am.crackle.com/1/o/r6/ycvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E9
+http://media-br-am.crackle.com/1/n/r6/wcvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E10
+http://media-br-am.crackle.com/1/t/r6/idvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E11
+http://media-br-am.crackle.com/1/n/r6/vcvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E12
+http://media-br-am.crackle.com/1/n/r6/ucvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E13
+http://media-br-am.crackle.com/1/n/r6/tcvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E14
+http://media-br-am.crackle.com/1/a/v6/plvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E15
+http://media-br-am.crackle.com/1/a/v6/olvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E16
+http://media-br-am.crackle.com/1/a/v6/nlvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E17
+http://media-br-am.crackle.com/1/a/v6/mlvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E17
+http://media-br-am.crackle.com/1/z/v6/llvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E19
+http://media-br-am.crackle.com/1/i/d6/71vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E20
+http://media-br-am.crackle.com/1/j/d6/d2vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E21
+http://media-br-am.crackle.com/1/i/d6/61vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E22
+http://media-br-am.crackle.com/1/h/d6/31vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E23
+http://media-br-am.crackle.com/1/h/d6/51vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E24
+http://media-br-am.crackle.com/1/h/d6/41vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E25
+http://media-br-am.crackle.com/1/j/d6/c2vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E26
+http://media-br-am.crackle.com/1/g/d6/z1vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E27
+http://media-br-am.crackle.com/1/g/d6/01vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E28
+http://media-br-am.crackle.com/1/j/d6/b2vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E29
+http://media-br-am.crackle.com/1/j/d6/a2vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E30
+http://media-br-am.crackle.com/1/i/d6/81vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E31
+http://media-br-am.crackle.com/1/g/d6/11vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E32
+http://media-br-am.crackle.com/1/g/d6/y1vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E33
+http://media-br-am.crackle.com/1/i/d6/91vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E34
+http://media-br-am.crackle.com/1/h/d6/21vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E35
+http://media-br-am.crackle.com/1/f/d6/v1vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Feiticeira",A Feiticeira S1-E36
+http://media-br-am.crackle.com/1/f/d6/u1vlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E1
+http://media-br-am.crackle.com/1/z/v6/iovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E2
+http://media-br-am.crackle.com/1/v/v6/1nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E3
+http://media-br-am.crackle.com/1/u/v6/0nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E4
+http://media-br-am.crackle.com/1/z/v6/jovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E5
+http://media-br-am.crackle.com/1/u/v6/ynvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E6
+http://media-br-am.crackle.com/1/z/v6/hovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E7
+http://media-br-am.crackle.com/1/y/v6/govlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E8
+http://media-br-am.crackle.com/1/y/v6/fovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E9
+http://media-br-am.crackle.com/1/y/v6/eovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E10
+http://media-br-am.crackle.com/1/y/v6/dovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E11
+http://media-br-am.crackle.com/1/x/v6/covlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E12
+http://media-br-am.crackle.com/1/x/v6/bovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E13
+http://media-br-am.crackle.com/1/x/v6/aovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E14
+http://media-br-am.crackle.com/1/x/v6/9nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E15
+http://media-br-am.crackle.com/1/w/v6/8nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E16
+http://media-br-am.crackle.com/1/w/v6/7nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E17
+http://media-br-am.crackle.com/1/w/v6/6nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E18
+http://media-br-am.crackle.com/1/u/v6/znvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E19
+http://media-br-am.crackle.com/1/w/v6/5nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E20
+http://media-br-am.crackle.com/1/v/v6/4nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E21
+http://media-br-am.crackle.com/1/v/v6/3nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E22
+http://media-br-am.crackle.com/1/v/v6/2nvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E1
+http://media-br-am.crackle.com/1/f/z6/mqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E2
+http://media-br-am.crackle.com/1/e/z6/iqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E3
+http://media-br-am.crackle.com/1/e/z6/hqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E4
+http://media-br-am.crackle.com/1/e/z6/gqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E5
+http://media-br-am.crackle.com/1/e/z6/fqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E6
+http://media-br-am.crackle.com/1/d/z6/eqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E7
+http://media-br-am.crackle.com/1/d/z6/dqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E8
+http://media-br-am.crackle.com/1/d/z6/cqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E9
+http://media-br-am.crackle.com/1/d/z6/bqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E10
+http://media-br-am.crackle.com/1/c/z6/aqvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E11
+http://media-br-am.crackle.com/1/c/z6/9pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E12
+http://media-br-am.crackle.com/1/c/z6/8pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E13
+http://media-br-am.crackle.com/1/c/z6/7pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E14
+http://media-br-am.crackle.com/1/b/z6/6pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E15
+http://media-br-am.crackle.com/1/b/z6/5pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E16
+http://media-br-am.crackle.com/1/b/z6/4pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E17
+http://media-br-am.crackle.com/1/b/z6/3pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E18
+http://media-br-am.crackle.com/1/a/z6/2pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E19
+http://media-br-am.crackle.com/1/a/z6/1pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E20
+http://media-br-am.crackle.com/1/a/z6/0pvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E21
+http://media-br-am.crackle.com/1/9/v6/npvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E22
+http://media-br-am.crackle.com/1/9/v6/mpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E23
+http://media-br-am.crackle.com/1/8/v6/lpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E24
+http://media-br-am.crackle.com/1/8/v6/kpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E25
+http://media-br-am.crackle.com/1/8/v6/jpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E26
+http://media-br-am.crackle.com/1/8/v6/ipvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E27
+http://media-br-am.crackle.com/1/7/v6/hpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E28
+http://media-br-am.crackle.com/1/7/v6/gpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E29
+http://media-br-am.crackle.com/1/7/v6/fpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E30
+http://media-br-am.crackle.com/1/7/v6/epvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E31
+http://media-br-am.crackle.com/1/a/z6/zpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E32
+http://media-br-am.crackle.com/1/_/v6/ypvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E33
+http://media-br-am.crackle.com/1/_/v6/wpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E34
+http://media-br-am.crackle.com/1/_/v6/vpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E35
+http://media-br-am.crackle.com/1/_/v6/upvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E36
+http://media-br-am.crackle.com/1/-/v6/tpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E37
+http://media-br-am.crackle.com/1/-/v6/spvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E38
+http://media-br-am.crackle.com/1/-/v6/rpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E39
+http://media-br-am.crackle.com/1/-/v6/qpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E40
+http://media-br-am.crackle.com/1/9/v6/ppvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E41
+http://media-br-am.crackle.com/1/6/v6/dpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E42
+http://media-br-am.crackle.com/1/6/v6/cpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E43
+http://media-br-am.crackle.com/1/6/v6/bpvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E44
+http://media-br-am.crackle.com/1/6/v6/apvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E45
+http://media-br-am.crackle.com/1/5/v6/9ovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E46
+http://media-br-am.crackle.com/1/9/v6/opvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E47
+http://media-br-am.crackle.com/1/5/v6/8ovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E48
+http://media-br-am.crackle.com/1/5/v6/7ovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E49
+http://media-br-am.crackle.com/1/5/v6/6ovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="VIP DUB",VIP S1-E50
+http://media-br-am.crackle.com/1/4/v6/5ovlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E1
+http://media-br-am.crackle.com/1/j/r6/fcvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E2
+http://media-br-am.crackle.com/1/j/r6/ecvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E3
+http://media-br-am.crackle.com/1/j/r6/dcvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E4
+http://media-br-am.crackle.com/1/p/r6/2cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E5
+http://media-br-am.crackle.com/1/o/r6/1cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E6
+http://media-br-am.crackle.com/1/s/r6/hdvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E7
+http://media-br-am.crackle.com/1/q/r6/9cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E8
+http://media-br-am.crackle.com/1/q/r6/8cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E9
+http://media-br-am.crackle.com/1/q/r6/7cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E10
+http://media-br-am.crackle.com/1/q/r6/6cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E11
+http://media-br-am.crackle.com/1/p/r6/5cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E12
+http://media-br-am.crackle.com/1/p/r6/4cvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Sequestrado DUB",Sequestrado S1-E13
+http://media-br-am.crackle.com/1/p/r6/3cvlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E1
+http://media-br-am.crackle.com/1/y/96/n11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E2
+http://media-br-am.crackle.com/1/y/96/k11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E3
+http://media-br-am.crackle.com/1/y/96/l11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E4
+http://media-br-am.crackle.com/1/y/96/m11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E5
+http://media-br-am.crackle.com/1/z/96/p11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E6
+http://media-br-am.crackle.com/1/z/96/o11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E7
+http://media-br-am.crackle.com/1/z/96/q11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E8
+http://media-br-am.crackle.com/1/z/96/r11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E9
+http://media-br-am.crackle.com/1/a/96/s11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E10
+http://media-br-am.crackle.com/1/a/96/t11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E11
+http://media-br-am.crackle.com/1/a/96/u11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E12
+http://media-br-am.crackle.com/1/a/96/v11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E13
+http://media-br-am.crackle.com/1/b/96/w11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E14
+http://media-br-am.crackle.com/1/b/96/y11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E15
+http://media-br-am.crackle.com/1/b/96/z11lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E16
+http://media-br-am.crackle.com/1/b/96/011lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E17
+http://media-br-am.crackle.com/1/c/96/111lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E18
+http://media-br-am.crackle.com/1/c/96/211lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E19
+http://media-br-am.crackle.com/1/c/96/311lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E20
+http://media-br-am.crackle.com/1/c/96/411lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E21
+http://media-br-am.crackle.com/1/d/96/511lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E22
+http://media-br-am.crackle.com/1/d/96/611lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E23
+http://media-br-am.crackle.com/1/d/96/711lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E24
+http://media-br-am.crackle.com/1/d/96/811lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E25
+http://media-br-am.crackle.com/1/l/96/321lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E26
+http://media-br-am.crackle.com/1/l/96/421lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E27
+http://media-br-am.crackle.com/1/e/96/911lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E28
+http://media-br-am.crackle.com/1/e/96/a21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E29
+http://media-br-am.crackle.com/1/m/96/921lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E30
+http://media-br-am.crackle.com/1/l/96/521lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E31
+http://media-br-am.crackle.com/1/j/96/u21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E32
+http://media-br-am.crackle.com/1/e/96/b21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E33
+http://media-br-am.crackle.com/1/i/96/r21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E34
+http://media-br-am.crackle.com/1/e/96/c21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E35
+http://media-br-am.crackle.com/1/f/96/d21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E36
+http://media-br-am.crackle.com/1/f/96/e21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E37
+http://media-br-am.crackle.com/1/f/96/f21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E38
+http://media-br-am.crackle.com/1/f/96/g21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E39
+http://media-br-am.crackle.com/1/j/96/w21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E40
+http://media-br-am.crackle.com/1/m/96/821lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E41
+http://media-br-am.crackle.com/1/l/96/221lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E42
+http://media-br-am.crackle.com/1/m/96/721lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E43
+http://media-br-am.crackle.com/1/m/96/621lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E44
+http://media-br-am.crackle.com/1/k/96/121lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E45
+http://media-br-am.crackle.com/1/j/96/v21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E46
+http://media-br-am.crackle.com/1/k/96/z21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E47
+http://media-br-am.crackle.com/1/k/96/021lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E48
+http://media-br-am.crackle.com/1/i/96/s21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E49
+http://media-br-am.crackle.com/1/j/96/t21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E50
+http://media-br-am.crackle.com/1/k/96/y21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E51
+http://media-br-am.crackle.com/1/i/96/p21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E52
+http://media-br-am.crackle.com/1/g/96/j21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E53
+http://media-br-am.crackle.com/1/h/96/n21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E54
+http://media-br-am.crackle.com/1/i/96/q21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E55
+http://media-br-am.crackle.com/1/h/96/l21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E56
+http://media-br-am.crackle.com/1/h/96/o21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E57
+http://media-br-am.crackle.com/1/n/96/a31lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E58
+http://media-br-am.crackle.com/1/g/96/h21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E59
+http://media-br-am.crackle.com/1/g/96/i21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E60
+http://media-br-am.crackle.com/1/g/96/k21lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Ilha da Fantasia",A Ilha da Fantasia S5-E61
+http://media-br-am.crackle.com/1/h/96/m21lf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E1
+http://media-br-am.crackle.com/1/e/h6/38vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E2
+http://media-br-am.crackle.com/1/e/h6/28vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E3
+http://media-br-am.crackle.com/1/e/h6/18vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E4
+http://media-br-am.crackle.com/1/d/h6/08vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E5
+http://media-br-am.crackle.com/1/d/h6/z8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E6
+http://media-br-am.crackle.com/1/d/h6/y8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E7
+http://media-br-am.crackle.com/1/d/h6/w8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E8
+http://media-br-am.crackle.com/1/q/h6/hawlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E9
+http://media-br-am.crackle.com/1/c/h6/v8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E10
+http://media-br-am.crackle.com/1/c/h6/u8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E11
+http://media-br-am.crackle.com/1/c/h6/t8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E12
+http://media-br-am.crackle.com/1/c/h6/s8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="A Besta",A Besta S1-E13
+http://media-br-am.crackle.com/1/b/h6/r8vlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Ritual (2012)
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Menina Ma.com
+http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Contrato
+http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Mulher Solteira Procura
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Lenda Urbana 3 - A Vinganca de Mary
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Identidade
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Trair e Roubar
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Enquanto Ela Estiver Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Hotel Ruanda
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Malicia
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Bruno
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Casamento as Avessas
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O ABC do Amor
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Juno
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",As Branquelas
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Bons Costumes
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Julie & Julia
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",De Repente 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Meus Quinze Anos
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Lembrancas de Hollywood
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",All That Jazz - O Show Deve Continuar
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Mal Posso Esperar
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um Criminoso Decente
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O clube de Leitura de Jane Austen
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Lua de Mel em Las Vegas
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Jogue a Mamae do Trem
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Minha Mulher e Minhas Copias
+http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Annie
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Pantera Cor de Rosa
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Hora do Rango
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um Salao do Barulho
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Rosa Purpura do Cairo
+http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Mixed Nuts
+http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Ricky Bobby - A Toda Velocidade
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Uma Festa no Ar
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Ultimo Grande Heroi
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Bastidores de um Casamento
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Chamado de Xangai
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Penelope
+http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Paraiso e Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Nem Por Cima do Meu Cadaver
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Otario
+http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Meu Primeiro Amor - Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Superbad - E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Segurando As Pontas
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Kung-Fu Futebol Clube
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Heranca de Mr. Deeds
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Inveja Mata
+http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Ultima Missao
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Volta dos Mortos Vivos
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Almondegas 4 - Ferias de Verao
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Bolas em Panico
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Como conquistar uma mulher
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Fido - O Mascote
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Grande Hotel
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Jogando com Prazer
+http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Trapacas E Dois Canos Fumegantes
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Nao e Mais um Besteirol Americano
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Julgamento de Paris
+http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Paizao
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Os Safados
+http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Procurando Encrenca
+http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Provas E Trapacas
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sob Suspeita (2006)
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Swingers - Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Tres Amigos!
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Uma Turma Do Barulho
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Vamos Nessa
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",As Faces de Helen
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Encontros ao Acaso
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Mentiras e Videotape
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Vestigios do Dia
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Lendas da Paixao
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Rain Man
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Os Miseraveis
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Aprendiz
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Nas Profundezas Do Mar Sem Fim
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Outra
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Amigas com Dinheiro
+http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um homem fora-de-serie
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Povo Contra Larry Flynt
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Cada um Vive Como Quer
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",As coisas impossiveis do amor
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Vidas Que Se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Despertar de uma Paixao
+http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Oliver!
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Laurel Canyon - A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um Segredo Entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Erin Brockovich - Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",8mm - Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",8mm - Oito Milimetros 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Caminho Sem Volta
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A festa nunca termina
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Grande Jogada
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",As Duas Faces Da Lei
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Coisas Belas E Sujas
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Femme Fatale
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Inocente Ou Culpado
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Luta Pela Liberdade
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Marcas do passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Cantor
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Regaste de um Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Vigarista do ano
+http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Seducao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Seis Graus de Separacao
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Premonicoes
+http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Ultima Profecia
+http://media-br-am.crackle.com/1/z/n6/zy2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Uma Garota Encantada
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Simplesmente Alice
+http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sacrifício
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Informante
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Solteira Procura 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Poder e Corrupcao (Dirty)
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Amigo de Caca
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Aprendendo A Viver
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Caminhos Opostos
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Eu Sei Quem Me Matou
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Sequestro do Metro 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Tango e o Assassino
+http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Paraiso
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Os Mensageiros
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Turistas
+http://media-br-am.crackle.com/1/q/r6/b22lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Stigmata
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Resident Evil - Apocalipse
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Albergue 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Evil Dead - A Morte do Demonio
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Albergue
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Lenda Urbana 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Silent Hill: Revelacao
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Brinquedo Assassino
+http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Kalifornia - Uma Viagem ao Inferno
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Principal Suspeito
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",REC
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Tentaculos
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Torturado
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Vestida Para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Feitico do Tempo
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Anjos da Noite: A Evolucao
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Hancock
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Fuga de Absolom
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Dr. Fantastico
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Supernova
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Starman - O Homem das Estrelas
+http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Robocop 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Robocop - O Policial do Futuro
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Herois
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Resident Evil - O Hospede Maldito
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Contatos Imediatos de Terceiro Grau
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Equilibrio
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",eXistenZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Skyline - A Invasao
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Violacao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Resident Evil 3: A Extincao
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Espiao Por Acidente
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Redline: Velocidade sem Limites
+http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Ong-Bak - Guerreiro Sagrado
+http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Triplo X
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Homen Sombra
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",XXX2 - Estado de Emergencia
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",JCVD
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Forasteiro 2
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Anjos da Noite 3 - A Rebeliao
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Assalto Sobre Trilhos
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Excesso de Bagagem
+http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Vinganca
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Haven
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Guerra ao Terror
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",S.W.A.T. - Comando Especial
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Crash: No Limite
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Mergulho Radical 2: Os Recifes
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Hooligans: Furia nos campos
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Desafio Radical
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Divisao de Homicidios
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Godzilla (1998)
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Cacada sem Treguas
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Honra e Coragem - As Quatro Plumas
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Horas de Desespero
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Impacto Mortal
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Karate Kid 3 - O Desafio Final Filme
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Matador De Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Guardiao
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Guardiao - 2 Retorno As Minas do Rei Salomao
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Guardiao 3 - A Maldicao do Calice de Judas
+http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Legionario
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Senhor das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Os Reis de Dogtown
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Red - Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Risco Absoluto
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",RoboCop 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Rocky Balboa
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Soldado Universal 3 - Regeneracao
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Vou Te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Nome do Jogo
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Greta
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Como Se Fosse a Primeira Vez
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Atraidos Pelo Destino
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Persuasao
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Melhor Amigo da Noiva
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Nicholas Nickleby
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Pegar e Largar
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Funny Lady
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Apenas Uma Vez
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",A Guerra de Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
+#EXTINF:0 tvg-id="Playboy.br" group-title="Adulto",Playboy TV
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/527/index.m3u8
+#EXTINF:0 tvg-id="PenthouseHD1.ero" group-title="Adulto",Penthouse 1 HD
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/1073/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="Adulto",Jasmin.TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="Adulto",Brazzers
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/910/index.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",As Panteras - Incesto 7
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/fe900c9da9b70b45716793b2ec6d496c00bec5df75/22000/22160/22160_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Angel Lima fazendo dupla penetração
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/34a4ffea6a3b6e7eb540ef2b9c87d1837e979cc4f4/22000/22208/22208_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Ninfeta brasileira fodendo com vizinho
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/09c220507e5eacd02a880a5c0d86d2f054502a0687/21000/21377/21377_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Putinha sentando forte no pau grande do namorado
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/8b6be2c1709099cf93b91e7f678c2405e83cc07459/21000/21437/21437_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Novinha amadora gostosa dando a xoxota
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/ab4875ffc054d310b3c9212cad744105caede94cbf/21000/21604/21604_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Amigas no hotel trepando
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/31dd38c89a8141393b55e646ddef3ff0e0fb32374f/21000/21852/21852_240p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Morenaça rabuda fodendo no cassete grosso
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/e71af7fb85907d1dcdeb67294606aa968e82f2b211/19000/19307/19307_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Chupando a boceta grande
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/39e59697fb545c20e6579a1ef9a3ea0bcdba216fdf/19000/19133/19133_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Pâmela Pantera fodendo toda lambuzada de óleo
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/5b732cbd90fb4ae00e4b00687f76e8e20698260669/19000/19288/19288_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Giovana Bombom fodendo cheia de tesão
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9ad35805e2670ae8523b6ceabb5d826db39d0d2dd4/20000/20347/20347_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Manu Fox fodendo na cozinha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/01a5b4326587179de1c1c4d9424a54e33314993860/21000/21622/21622_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",tio comendo o cu da sobrinha após o banho
+http://edgecast-video.xvideos.com/videos/mp4/f/e/3/xvideos.com_fe3c67881f2d8f262418b9c714a5ee63.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",rabudas levando pica grande do gringo tarado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videort577222.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",gostosas fazendo boquete
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24060297.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Empregada gostosona fodendo com o filho tarado do patrão
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoph568db638ce681.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",metendo com o negão pauzudo
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video24761409.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Brasileira novinha de bunda grande trepando com negro safado
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/videoxh2730127.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Putinha peituda dando pra dois mulatos de cacete grande
+http://hlme0kwqhv.singularcdn.net.br/dl/videos/video23235823.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Comendo a mãe e a filha
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/cb4ae6395bb82e8b711b220c31151cf925cfcce3f8/21000/21718/21718_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Dois paus no mesmo cu
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/1337a738b4fd5a50686c3eeb5e0b5bed2f86053e9f/21000/21717/21717_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Sexo quente com uma morena safada
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9c06408da3a8c4aa8eb0f1c76a0c65d305147cda8d/21000/21715/21715_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",fodendo na banheira
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/df3ec0bc3c9cdf0da0338717be8a6bf017119c485b/21000/21339/21339_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/9fc60d8a025b57ddfad75bd4b4d494855ca8cb739d/18000/18952/18952_360p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Loirinha safada no motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/0b35c5f955c72ff8c23131e6217bf679832c9629c2/2000/2116/2116_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Loirinha brasileira no seu primeiro porno
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/99d02092b408964ec2938497e8548b8fc8f63bbec9/2000/2131/2131_720p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Pegou na praia e levou para o motel
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/939dfd767a7cb07739a77f9f80e20491e763ccfa76/2000/2208/2208_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Marido aquecendo para o negrão comer
+http://gzmbu8bjh3.singularcdn.net.br/get_file/1/154de9282302a6b26fa97650b90a3d5386dc7219ac/2000/2121/2121_480p.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Loira Charmosa
+http://media.pornocarioca.com/videos/mp4/6865/6865.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Ingênua Mas Adora Foder
+http://media.pornocarioca.com/videos/mp4/7085/7085.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Escola da Safadeza
+http://media.pornocarioca.com/videos/mp4/7206/7206.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Do Cuzinho Pra Boca
+http://media.pornocarioca.com/videos/mp4/6689/6689.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Só Rabuda Deliciosa
+http://media.pornocarioca.com/videos/mp4/6609/6609.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Ousadia em Locais Pouco Discretos
+http://media.pornocarioca.com/videos/mp4/6515/6515.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Primeira Vez no Pornô
+http://media.pornocarioca.com/videos/mp4/6404/6404.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Viviane Araújo a Stripper
+http://media.pornocarioca.com/videos/mp4/6316/6316.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Quinta do Conde
+http://media.pornocarioca.com/videos/mp4/6222/6222.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Loira Gostosa Transando Com Gringos
+http://media.pornocarioca.com/videos/mp4/6137/6137.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",Desejos Sexuais
+http://media.pornocarioca.com/videos/mp4/6009/6009.mp4?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="avi" group-title="Filmes Adultos",A Carioca Monique
+http://media.pornocarioca.com/videos/mp4/5963/5963.mp4?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Infantil
+http://192.99.150.31:8371/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jazz
+http://192.99.150.31:8042/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Roberto Carlos
+http://192.99.150.31:9137/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rap Nacional
+http://192.99.150.31:8377/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Guarda
+http://192.99.150.31:8801/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Hip Hop BR
+http://192.99.150.31:8721/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Funk Proibidão
+http://192.99.150.31:9089/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Disney FM
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Rádios",Rádio Mega FM
+http://174-36-1-94.webnow.net.br/mega.mp3
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Estação Top FM
+http://198.255.106.154:13487/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Top FM
+http://45.43.200.114:14006/stream/1/
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Coca-Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio CBN AM
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Pan AM
+http://15693.live.streamtheworld.com/JP_SP_AMAAC.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mundial AM
+http://ice1.crossradio.com.br:8078/live.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nossa Rádio AM
+http://ice33a.crossradio.com.br:9236/live.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Trianon AM
+http://afiliadamix2.crossradio.com.br:9008/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gazeta AM
+http://servidor1a.crossdigital.com.br:9552/1;?1508369510
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nacional Gospel AM
+http://184.107.161.115:9998/;stream.aac
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Cultura AM
+http://tvcultura.com.br/_radio/streaming.php?radio=am
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Super RBV AM
+http://lbv.crossradio.com.br:8058/live.mp3?1502298263975
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Bandeirantes AM
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mix FM
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Metropolitana FM
+http://74.63.237.85:8598/live
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Antena 1 FM
+http://antena1.newradio.it/stream?1519462006844
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nova Brasil FM
+http://14013.live.streamtheworld.com/NOVABRASIL_SP_SC
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Pan FM
+http://17523.live.streamtheworld.com/JP_SP_FM_SC
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Feliz FM
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio News FM
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nativa FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Band Vale FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Globo FM
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Cachoeira AM
+http://centova.welltecnologia.com.br:8096/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Nova FM
+http://stm45.streamingbage.net.br:11454/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Clube Bagé AM
+http://stm7.streamingbage.net.br:16766/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Esperança AM
+http://200.175.79.171:8000/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Guaíba FM/AM
+http://15122g.ha.azioncdn.net/5122g/_definst_/guaiba.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Band News FM
+http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Gaúcha FM/AM
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Bandeirantes FM/AM
+http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Gr6 Explode FM
+http://216.245.204.227:8054/live
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio FM O Dia
+http://audio.bb07.upx.net.br:8058/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Mania FM
+http://radio.servercsi.com.br:8595/;
+#EXTINF:0 tvg-id="avi" group-title="Rádios",Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio 99.5 FM
+http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio 104 FM
+http://noasrv.caster.fm:10127/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pampa FM
+http://noasrv.caster.fm:10128/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Liberdade FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Continental FM
+http://noasrv.caster.fm:10126/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Caiçara FM/AM
+http://noasrv.caster.fm:10130/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Capão FM
+http://noasrv.caster.fm:10131/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Praia FM
+http://noasrv.caster.fm:10132/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Grenal FM
+http://noasrv.caster.fm:10115/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Tramandaí FM
+http://noasrv.caster.fm:10133/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio FM Premium
+http://noasrv.caster.fm:10125/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Xangri-lá FM
+http://noasrv.caster.fm:10137/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Imbé FM
+http://noasrv.caster.fm:10135/stream
