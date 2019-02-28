@@ -1,61 +1,60 @@
 #EXTM3U
+
 #EXTINF:0 tvg-id="ext" group-title="BBB 19",BBB 19
 http://fonte.iptvmaishd.com:25461/6616/6616/137031
-#EXTINF:0 tvg-id="ext" group-title="BBB 19",BBB 2019 HD
-https://tinyurl.com/TL-manutencao
 
 #EXTINF:0 tvg-id="ext" group-title="TV ABERTA",AGRO Brasil
 rtmp://177.54.152.243:1935/agrobrasiltv/agrobrasiltv
 #EXTINF:0 tvg-id="ext" group-title="TV ABERTA",AGRO CANAL
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8?MundoIPTV
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8
 #EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV ABERTA",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 #EXTINF:0 tvg-id="CanaldoBoi.br" group-title="TV ABERTA",CANAL DO BOI
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8?MundoIPTV
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8
 #EXTINF:0 tvg-id="avi" group-title="TV ABERTA",Canal Rural
 https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
 #EXTINF:0 tvg-id="Futura.br" group-title="TV ABERTA",Futura HD
-https://tv.unisc.br/hls/test.m3u8?MundoIPTV
+https://tv.unisc.br/hls/test.m3u8
 #EXTINF:0 tvg-id="Globorj.br" group-title="TV ABERTA",Globo RJ
 https://www.youtube.com/watch?v=U7-keLz9-X8
 #EXTINF:0 tvg-id="Rederecord.br" group-title="TV ABERTA",RECORD
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 #EXTINF:0 tvg-id="Redetv.br" group-title="TV ABERTA",RedeTV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1621006529.m3u8?MundoIPTV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1621006529.m3u8
 #EXTINF:0 tvg-id="Sbt.br" group-title="TV ABERTA",SBT
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?MundoIPTV
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Sbtsp.br" group-title="TV ABERTA",SBT SP
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?MundoIPTV
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 #EXTINF:0 tvg-id="Redebrasil.br" group-title="TV ABERTA",Rede Brasil
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?MundoIPTV
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV ABERTA",Rede Familia HD
-http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8?MundoIPTV
+http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV ABERTA",TV Cultura HD
-https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1570812722.m3u8?MundoIPTV
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1570812722.m3u8
 #EXTINF:0 tvg-id="Tvescola.br" group-title="TV ABERTA",TV Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 #EXTINF:0 tvg-id="TVGazeta.br" group-title="TV ABERTA",TV Gazeta
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8?MundoIPTV
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
 
 #EXTINF:0 tvg-id="ABCNews.al" group-title="NOTICIAS",ABC NEWS
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0 tvg-id="ext" group-title="NOTICIAS",TV JOVEM PAN
 https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/chunklist_w1538534442.m3u8
 #EXTINF:0 tvg-id="Recordnews.br" group-title="NOTICIAS",RECORD NEWS
-http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?MundoIPTV
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOTICIAS",TV CBN SP
-https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?MundoIPTV
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NOTICIAS",RADIO JORNAL
 http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
 
 #EXTINF:0 tvg-id="Cancaonova.br" group-title="RELIGIÃO",Canção Nova HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?MundoIPTV
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:0 tvg-id="Gospel.br" group-title="RELIGIÃO",Rede Gospel
-http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8?MundoIPTV
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
 #EXTINF:0 tvg-id="Tvaparecida.br" group-title="RELIGIÃO",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?MundoIPTV
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:0 tvg-id="Tvnovotempo.br" group-title="RELIGIÃO",TV Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8?MundoIPTV
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
 
 #EXTINF:0 tvg-id="Premiereclubes.br" group-title="PREMIERE",Premiere Clubes
 https://tinyurl.com/TL-manutencao
@@ -73,7 +72,7 @@ https://tinyurl.com/TL-manutencao
 https://tinyurl.com/TL-manutencao
 
 #EXTINF:0 tvg-id="ext" group-title="ESPORTES",1 tvg-logo=http://i.imgur.com/DRwB0FQ.jpg group-title=ALL SPORTS
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?MundoIPTV
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",Combate
 http://fonte.iptvmaishd.com:25461/6616/6616/141953
 #EXTINF:0 tvg-id="Espn.br" group-title="ESPORTES",ESPN
@@ -168,21 +167,21 @@ http://fonte.iptvmaishd.com:25461/6616/6616/141994
 #EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
 http://fonte.iptvmaishd.com:25461/6616/6616/141985
 #EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine Gospel
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?MundoIPTV
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
 http://fonte.iptvmaishd.com:25461/6616/6616/141959
 #EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?MundoIPTV
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?MundoIPTV
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:0 tvg-id="cine+" group-title="FILMES E SERIES",CINE+
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8?MundoIPTV
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
 #EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX
 http://fonte.iptvmaishd.com:25461/6616/6616/141908
 #EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FILMES
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?MundoIPTV
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Gospel Movies 2
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?MundoIPTV
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 tvg-id="Hbo.br" group-title="FILMES E SERIES",HBO
 http://fonte.iptvmaishd.com:25461/6616/6616/141857
 #EXTINF:0 tvg-id="Hbo2.br" group-title="FILMES E SERIES",HBO 2
@@ -231,11 +230,11 @@ https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
 #EXTINF:0 tvg-id="avi" group-title="FILMES",+900 Filmes Lançamentos
 https://www.youtube.com/watch?v=9MtAKgzih2w&feature=youtu.be
 #EXTINF:0 tvg-id="avi" group-title="FILMES",A CABANA
-http://webtvcde.com/Servidor/lan/acahd7.mp4?MundoIPTV
+http://webtvcde.com/Servidor/lan/acahd7.mp4
 #EXTINF:0 tvg-id="avi" group-title="FILMES",A Freira
-http://playflixhd.tk/embed/s1/1104.mp4?MundoIPTV
+http://playflixhd.tk/embed/s1/1104.mp4
 #EXTINF:0 tvg-id="avi" group-title="FILMES",ANABELLE 2
-http://webtvcde.com/Servidor/lan/a2acd7.mp4?MundoIPTV
+http://webtvcde.com/Servidor/lan/a2acd7.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",BIRD BOX
 https://tinyurl.com/iptvfuturobird
 #EXTINF:0 tvg-id="avi" group-title="FILMES",Carros 3 HD
@@ -251,7 +250,7 @@ http://bit.ly/2pzlTJV
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Corrida Mortal 2050
 http://bit.ly/2NEEL8z
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Deadpool 2
-http://bit.ly/2pi5RUy?MundoIPTV
+http://bit.ly/2pi5RUy
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Gênio do Crime
 http://tinyurl.com/yc4dyo3z
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Jogo do Dinheiro
@@ -259,19 +258,19 @@ http://tinyurl.com/ybl8r422
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Jumanji: Bem-Vindo à Selva
 http://tinyurl.com/y7s9kydt
 #EXTINF:0 tvg-id="avi" group-title="FILMES",Homem-Formiga e a Vespa
-http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/HOMEMFORMIGAHDRIPDUB.mp4?MundoIPTV
+http://cdn1.thenightfilmes.net/httpdelivery/sexi/antigos/nc/L/HOMEMFORMIGAHDRIPDUB.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Homens de Preto 3
 http://tinyurl.com/y9g7dlzn
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Jogos mortais 8
 http://tinyurl.com/ydzycyka
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Jurassic World 2 : Reino Ameaçado
-http://bit.ly/2Nlgcxg?MundoIPTV
+http://bit.ly/2Nlgcxg
 #EXTINF:0 tvg-id="ext" group-title="FILMES",It: A Coisa
 http://tinyurl.com/y7vaze6l
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Megatubarão
-http://bit.ly/2xvoxDW?MundoIPTV
+http://bit.ly/2xvoxDW
 #EXTINF:0 tvg-id="avi" group-title="FILMES",Mogli - Entre dois mundos
-http://playflixhd.tk/embed/s1/1157.mp4?MundoIPTV
+http://playflixhd.tk/embed/s1/1157.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Motoqueiro Fantasma
 http://tinyurl.com/ydzyzphf
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Motoqueiro Fantasma 2: Espírito de Vingança
@@ -279,11 +278,11 @@ http://tinyurl.com/y8a5q6lv
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Next GEn HD
 https://tinyurl.com/iptvfuturonexhd
 #EXTINF:0 tvg-id="avi" group-title="FILMES",O BICHO VAI PEGAR 1
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%201.mp4?MundoIPTV
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%201.mp4
 #EXTINF:0 tvg-id="avi" group-title="FILMES",O BICHO VAI PEGAR 2
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%202.mp4?MundoIPTV
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%202.mp4
 #EXTINF:0 tvg-id="avi" group-title="FILMES",O BICHO VAI PEGAR 3
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%203.mp4?MundoIPTV
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%203.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",O Espetacular Homem Aranha
 http://media-br-am.crackle.com/1/n/x6/es4lf_480
 #EXTINF:0 tvg-id="avi" group-title="FILMES",O RESGATE DA PRINCESA
@@ -293,7 +292,7 @@ http://tinyurl.com/ycttll6l
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Os Farofeiros
 http://tinyurl.com/ybvh8p2d
 #EXTINF:0 tvg-id="avi" group-title="FILMES",Os Parcas
-http://173.249.8.202/home/Os%20Par%c3%a7as%202018%20(720p%20-%20MP4)%20WWW.BLUDV.COM/Os.Par%c3%a7as.2018.720p.WEBRip.x264.NACIONAL-WWW.BLUDV.COM.mp4?MundoIPTV
+http://173.249.8.202/home/Os%20Par%c3%a7as%202018%20(720p%20-%20MP4)%20WWW.BLUDV.COM/Os.Par%c3%a7as.2018.720p.WEBRip.x264.NACIONAL-WWW.BLUDV.COM.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",O Touro Ferdinando
 http://tinyurl.com/yadq9e2y
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Os Mercenários
@@ -307,7 +306,7 @@ http://tinyurl.com/ycl7gkxv
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Pato Pato Ganso
 http://tinyurl.com/y8x3n9r5
 #EXTINF:0 tvg-id="avi" group-title="FILMES",Pe Pequeno
-http://playflixhd.tk/embed/s1/1142.mp4?MundoIPTV
+http://playflixhd.tk/embed/s1/1142.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Perseguição Criminosa
 http://tinyurl.com/y7od68v2
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Planeta dos Macacos 3: A Guerra
@@ -317,11 +316,11 @@ http://earnings.maybeup.net/movies/picapau-dub-720p.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Piratas do Caribe 5 - A Vingança de Salazar
 http://tinyurl.com/ybkckpwj
 #EXTINF:0 tvg-id="avi" group-title="FILMES",POWER RANGERS
-http://webtvcde.com/Servidor/lan/prrsn7.mp4?MundoIPTV
+http://webtvcde.com/Servidor/lan/prrsn7.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Titanic 1997
 http://tinyurl.com/yczoetvr
 #EXTINF:0 tvg-id="avi" group-title="FILMES",VELOZES E FURIOSOS 8
-http://webtvcde.com/Servidor/lan/vef8h7.mp4?MundoIPTV
+http://webtvcde.com/Servidor/lan/vef8h7.mp4
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Rambo: Programado Para Matar
 http://tinyurl.com/y88f92je
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Rambo II: A Missão
