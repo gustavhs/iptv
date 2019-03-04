@@ -12,7 +12,7 @@ rtmp://177.54.152.243:1935/agrobrasiltv/agrobrasiltv
 #EXTINF:0 tvg-id="ext" group-title="TV ABERTA",AGRO CANAL
 https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8
 #EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV ABERTA",BAND
-http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
+http://177.12.99.108:8000/play/a00p
 #EXTINF:0 tvg-id="CanaldoBoi.br" group-title="TV ABERTA",CANAL DO BOI
 https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8
 #EXTINF:0 tvg-id="avi" group-title="TV ABERTA",Canal Rural
