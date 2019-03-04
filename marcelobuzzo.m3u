@@ -14,7 +14,7 @@ https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL2_480/index.m3u8
 #EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV ABERTA",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TV ABERTA",BAND HD
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/292.ts
 #EXTINF:0 tvg-id="CanaldoBoi.br" group-title="TV ABERTA",CANAL DO BOI
 https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8
 #EXTINF:0 tvg-id="avi" group-title="TV ABERTA",Canal Rural
