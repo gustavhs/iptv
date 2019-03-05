@@ -165,44 +165,88 @@ http://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w453707469.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RADIOS RADIOS",Povo FM 87.9
 http://149.56.167.236:8079/.ogg
 
-#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E
-http://fonte.iptvmaishd.com:25461/6616/6616/141994
-#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
-http://fonte.iptvmaishd.com:25461/6616/6616/141985
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine Gospel
-http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",Cinemax
-http://fonte.iptvmaishd.com:25461/6616/6616/141959
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",CINE SKY 2
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:0 tvg-id="cine+" group-title="FILMES E SERIES",CINE+
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
+#EXTINF:0 tvg-id="Universalchannelhd.br" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/103.ts
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/281.ts
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="FILMES E SERIES",CINEMAX HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/278.ts
+#EXTINF:0 tvg-id="Foxhd.br" group-title="FILMES E SERIES",FOX HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/246.ts
+#EXTINF:0 tvg-id="FoxLife.it" group-title="FILMES E SERIES",FOX LIFE HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/245.ts
+#EXTINF:0 tvg-id="tvc2.pt" group-title="FILMES E SERIES",TV CINE 2 HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/106.ts
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/244.ts
+#EXTINF:0 tvg-id="tvc3.pt" group-title="FILMES E SERIES",TV CINE 3 HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/105.ts
+#EXTINF:0 tvg-id="tvc4.pt" group-title="FILMES E SERIES",TV CINE 4 HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/104.ts
+#EXTINF:0 tvg-id="Maxprimee.br" group-title="FILMES E SERIES",MAX PRIME E
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/201.ts
 #EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX
-http://fonte.iptvmaishd.com:25461/6616/6616/141908
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FILMES
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Gospel Movies 2
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
-#EXTINF:0 tvg-id="Hbo.br" group-title="FILMES E SERIES",HBO
-http://fonte.iptvmaishd.com:25461/6616/6616/141857
-#EXTINF:0 tvg-id="Hbo2.br" group-title="FILMES E SERIES",HBO 2
-http://fonte.iptvmaishd.com:25461/6616/6616/141855
-#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",Megapix
-http://fonte.iptvmaishd.com:25461/6616/6616/141834
-#EXTINF:0 tvg-id="Space.br" group-title="FILMES E SERIES",Space
-http://fonte.iptvmaishd.com:25461/6616/6616/141778
-#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SERIES",TELECINE ACTION
-http://fonte.iptvmaishd.com:25461/6616/6616/141762
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/64.ts
+#EXTINF:0 tvg-id="Maxup.br" group-title="FILMES E SERIES",MAX UP HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/199.ts
+#EXTINF:0 tvg-id="Foxhd.br" group-title="FILMES E SERIES",FOX HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/246.ts
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="FILMES E SERIES",CINEMAX HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/278.ts
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/281.ts
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/281.ts
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",MEGAPIX
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/46.ts
+#EXTINF:0 tvg-id="Spacehd.br" group-title="FILMES E SERIES",SPACE HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/150.ts
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/84.ts
+#EXTINF:0 tvg-id="Axnhd.br" group-title="FILMES E SERIES",AXN HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/293.ts
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/82.ts
+#EXTINF:0 tvg-id="Tcm.br" group-title="FILMES E SERIES",TCM
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/28.ts
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SERIES",TELECINE ACTION HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/136.ts
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="FILMES E SERIES",TELECINE CULT HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/134.ts
+#EXTINF:0 tvg-id="Tccult.br" group-title="FILMES E SERIES",TELECINE CULT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/133.ts
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="FILMES E SERIES",TELECINE FUN HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/132.ts
+#EXTINF:0 tvg-id="Tcfun.br" group-title="FILMES E SERIES",TELECINE FUN
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/131.ts
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SERIES",TELECINE PIPOCA HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/130.ts
 #EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SERIES",TELECINE PIPOCA
-http://fonte.iptvmaishd.com:25461/6616/6616/141753
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/129.ts
 #EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SERIES",TELECINE PREMIUM
-https://tinyurl.com/TL-manutencao
-#EXTINF:0 tvg-id="Tnt.br" group-title="FILMES E SERIES",TNT
-http://fonte.iptvmaishd.com:25461/6616/6616/141740
-#EXTINF:0 tvg-id="Warnerchannel.br" group-title="FILMES E SERIES",Warner Channel
-http://fonte.iptvmaishd.com:25461/6616/6616/141721
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/127.ts
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SERIES",TELECINE PREMIUM FULL HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/967.ts
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="FILMES E SERIES",TELECINE TOUCH HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/126.ts
+#EXTINF:0 tvg-id="Warnerhd.br" group-title="FILMES E SERIES",WARNER CHANNEL HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/98.ts
+#EXTINF:0 tvg-id="iSat.br" group-title="FILMES E SERIES",I-SAT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/205.ts
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/244.ts
+#EXTINF:0 tvg-id="Hbohd.br" group-title="FILMES E SERIES",HBO HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/213.ts
+#EXTINF:0 tvg-id="FoxLife.it" group-title="FILMES E SERIES",FOX LIFE HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/245.ts
+#EXTINF:0 tvg-id="Hbofamilyhd.br" group-title="FILMES E SERIES",HBO FAMILY HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/214.ts
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="FILMES E SERIES",HBO PLUS HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/211.ts
+#EXTINF:0 tvg-id="Hbosighd.br" group-title="FILMES E SERIES",HBO SIGNATURE HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/207.ts
+#EXTINF:0 tvg-id="Hbosighd.br" group-title="FILMES E SERIES",HBO SIGNATURE HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/207.ts
 
 #EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET
 https://tinyurl.com/TL-manutencao
