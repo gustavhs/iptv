@@ -1,41 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",CWB TV =
-http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",DTTV =
-http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",GUARU FAMA TV =
-http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",ITU TV =
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD TV ÁGUA BOA =
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE EVANGELIZAR =
-http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE GRAVA =
-http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE NEW =
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE RC =
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV AD BELÉM =
-http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ÁGAPE =
-http://streaming63.sitehosting.com.br:1935/prwalla/prwalla/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ALMG =
-http://streaming.almg.gov.br:80/live/tvalmg.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ALVORADA ESPÍRITA =
-http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV AREADO =
-http://stmv2.euroti.com.br:1935/tvareado/tvareado/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV BETEL =
-http://stmv1.euroti.com.br:1935/betelnc/betelnc/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV BNO =
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CÂMARA FEIRA DE SANTANA =
-http://s1.wsepanel.com:1935/camarafeira/camarafeira/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CÂMARA JACAREÍ =
-http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CÂMARA RIO GRANDE =
 http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8?LISTASDAGLAU
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV CAMPOS GERAIS =
 http://stmv2.euroti.com.br:1935/tvcamposgerais/tvcamposgerais/live.m3u8?LISTASDAGLAU
