@@ -1,581 +1,873 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Hbo2.br" group-title="Lista IPTV Brasil HD",HBO2
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS ABERTOS",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV DIARIO *
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV Diário - Ceará
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-id="Sbt.br" group-title="Canais",SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Canais",RECORD HD
+https://minhalista.live/channel/1344174/NQU/redirect
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PI- Canal FutucAndroiD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",RECORD TV ÁGUA BOA
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",REDE BRASIL®
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="Canais",TV GAZETA
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TVU RECIFE
+http://150.161.93.173/hls/720/index.m3u8
+#EXTINF:0 tvg-id="Tvescola.br" group-title="Canais",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:0 tvg-id="Nbr.br" group-title="Canais",NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+
+#EXTINF:0 tvg-id="Foxsports2hd.br" group-title="ESPORTES",FOX SPORTS 2 HD
+https://minhalista.live/channel/1344235/NQU/redirect
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",PREMIER 5
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/174.ts
+
+#EXTINF:0 tvg-id="Playboy.br" group-title="ADULTOS",PLAYBOY
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/180.ts
+
+#EXTINF:0 tvg-id="ext" group-title="canais",RECORD TV ÁGUA BOA
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="Filmes | Guerra",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Filmes | Suspense",A Janela Secreta
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes | Suspense",Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes | Suspense",Rios Vermelhos
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes | Suspense",Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes | Suspense",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="3 POR CENTO",3% 2X03
+http://webtvcde.com/Series/3Perc2/3Perc.S02E02.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="Comedia",Feitico da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Comedia",Um Salao do Barulho
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Suspense",Segundas Intencoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Suspense",O Codigo Da Vinci
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Suspense",Sem Vestigios
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Suspense",Desejo a Tres
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Suspense",Red Corner
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Suspense",Sociedade Feroz
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Drama",Secretaria
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",O Aprendiz
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",Nas Profundezas Do Mar Sem Fim
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",O Povo Contra Larry Flynt
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Drama",Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Crime",Sacrifício
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",A Informante
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",O Inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",Caminhos Opostos
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",Eu Sei Quem Me Matou
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",O Sequestro do Metro 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",O Tango e o Assassino
+http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Crime",Paraiso
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Terror",Os Mensageiros
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Terror",JEEPERS CREEPERS 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="Acao",S.W.A.T. - Comando Especial
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Crash: No Limite
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Mergulho Radical 2: Os Recifes
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Hooligans: Furia nos campos
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",A Era da Escuridao - Mutant Chronicles
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Conquista Sangrenta
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Desafio Radical
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Rocky Balboa
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Ruslan - Vinganca Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Soldado Universal 3 - Regeneracao
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Tempos de Violencia
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Um Ato de Liberdade
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Vou Te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Acao",Wasabi
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Policial",O Nome do Jogo
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Documentario",Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="Guerra",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Guerra",A Guerra de Hart
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="canais documetario",Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+#EXTINF:0 tvg-id="Hbo2.br" group-title="canais filmes e series",HBO2
 http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8?INGLESNALDYNHO
-#EXTINF:0 tvg-id="Hbo2hd.br" group-title="Lista IPTV Brasil HD",HBO2 HD
-http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",NBCNEWS HD
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?INGLESNALDYNHO
-#EXTINF:0 tvg-id="Disneychannel.br" group-title="Lista IPTV Brasil HD",DISNEY CHANNEL
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="Lista IPTV Brasil HD",Fox Premium Movies
+#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="canais filmes e series",Fox Premium Movies
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="AXSTV.us" group-title="Lista IPTV Brasil HD",AXS TV
-http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:0 tvg-id="FOXSportsRacing.ca" group-title="Lista IPTV Brasil HD",Fox Sports Racing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CNC3
-http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="CNN.nws" group-title="Lista IPTV Brasil HD",CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Lista IPTV Brasil HD",CARTOON NETWORK
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ESPN 2 (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
-#EXTINF:0 tvg-id="ESPN2.us" group-title="Lista IPTV Brasil HD",ESPN2 HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
-#EXTINF:0 tvg-id="ESPN3.mx" group-title="Lista IPTV Brasil HD",ESPN 3
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ESPN HD  HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Lista IPTV Brasil HD",MTV LIVE
-http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
-#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Lista IPTV Brasil HD",Nat Geo Wild
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
-#EXTINF:0 tvg-id="NBA.blt" group-title="Lista IPTV Brasil HD",NBA TV
-http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Lista IPTV Brasil HD",NICK
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-#EXTINF:0 tvg-id="NickJr.br" group-title="Lista IPTV Brasil HD",NICK JR
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-#EXTINF:0 tvg-id="Space.br" group-title="Lista IPTV Brasil HD",Space
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:0 tvg-id="Tnt.br" group-title="Lista IPTV Brasil HD",TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",DISCOTECA ANOS 70
-http://192.99.150.31:8241/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",AXE FOLIA
-http://192.99.150.31:8305/stream
-#EXTINF:0 tvg-id="Axe.br" group-title="Lista IPTV Brasil HD",AXÉ
-http://192.99.150.31:8305/stream?
-#EXTINF:0 tvg-id="Axe.br" group-title="Lista IPTV Brasil HD",Axé
-http://192.99.150.31:8305/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Axe.br" group-title="Lista IPTV Brasil HD",Axé
-http://192.99.150.31:8305/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",AXE FOLIA
-http://192.99.150.31:8305/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Axe.br" group-title="Lista IPTV Brasil HD",Axé
-http://192.99.150.31:8305/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="NewAge.us" group-title="Lista IPTV Brasil HD",NEW AGE
-http://192.99.150.31:8353/stream
-#EXTINF:0 tvg-id="NewAge.us" group-title="Lista IPTV Brasil HD",NEW AGE
-http://192.99.150.31:8353/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Rádio Infantil
-http://192.99.150.31:8371/;
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream?I
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
-http://192.99.150.31:8697/stream
-#EXTINF:0 tvg-id="Anos80.br" group-title="Lista IPTV Brasil HD",ANOS 80
-http://192.99.150.31:8697/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
-http://192.99.150.31:8697/stream?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Saudade Anos 80
-http://192.99.150.31:8697/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SAUDADE ANOS 80
-http://192.99.150.31:8697/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Anos80.br" group-title="Lista IPTV Brasil HD",Anos 80
-http://192.99.150.31:8697/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Reggae.br" group-title="Lista IPTV Brasil HD",REGGAE
-http://192.99.150.31:8715/stream
-#EXTINF:0 tvg-id="Reggae.br" group-title="Lista IPTV Brasil HD",REGGAE
-http://192.99.150.31:8715/stream?
-#EXTINF:0 tvg-id="Reggae.br" group-title="Lista IPTV Brasil HD",Reggae
-http://192.99.150.31:8715/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Reggae.br" group-title="Lista IPTV Brasil HD",Reggae
-http://192.99.150.31:8715/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="Reggae.br" group-title="Lista IPTV Brasil HD",REGGAE
-http://192.99.150.31:8715/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Reggae.br" group-title="Lista IPTV Brasil HD",Reggae
-http://192.99.150.31:8715/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Rádio Hip Hop BR
-http://192.99.150.31:8721/;
-#EXTINF:0 tvg-id="Hiphop.br" group-title="Lista IPTV Brasil HD",HIP HOP
-http://192.99.150.31:8721/stream
-#EXTINF:0 tvg-id="Hiphop.br" group-title="Lista IPTV Brasil HD",HIP HOP
-http://192.99.150.31:8721/stream?
-#EXTINF:0 tvg-id="Hiphop.br" group-title="Lista IPTV Brasil HD",Hip Hop
-http://192.99.150.31:8721/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Hiphop.br" group-title="Lista IPTV Brasil HD",Hip Hop
-http://192.99.150.31:8721/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="Hiphop.br" group-title="Lista IPTV Brasil HD",HIP HOP
-http://192.99.150.31:8721/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Hiphop.br" group-title="Lista IPTV Brasil HD",Hip Hop
-http://192.99.150.31:8721/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MPB MUSICALIDADE
-http://192.99.150.31:8775/stream
-#EXTINF:0 tvg-id="Mpb.br" group-title="Lista IPTV Brasil HD",MPB
-http://192.99.150.31:8775/stream?
-#EXTINF:0 tvg-id="Mpb.br" group-title="Lista IPTV Brasil HD",MPB
-http://192.99.150.31:8775/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Mpb.br" group-title="Lista IPTV Brasil HD",MPB
-http://192.99.150.31:8775/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MPB MUSICALIDADE
-http://192.99.150.31:8775/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Mpb.br" group-title="Lista IPTV Brasil HD",MPB
-http://192.99.150.31:8775/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Rádio Jovem Guarda
-http://192.99.150.31:8801/;
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",JOVEM GUARDA
-http://192.99.150.31:8801/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",JOVEM GUARDA
-http://192.99.150.31:8801/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",JOVEM GUARDA
-http://192.99.150.31:8801/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",VERSAO BRASILEIRA
-http://192.99.150.31:8849/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",VERSAO BRASILEIRA
-http://192.99.150.31:8849/stream?IPTVONLINE
-#EXTINF:0 tvg-id="LoveSongs.us" group-title="Lista IPTV Brasil HD",LOVE SONGS
-http://192.99.150.31:8897/stream
-#EXTINF:0 tvg-id="LoveSongs.us" group-title="Lista IPTV Brasil HD",LOVE SONGS
-http://192.99.150.31:8897/stream?
-#EXTINF:0 tvg-id="LoveSongs.us" group-title="Lista IPTV Brasil HD",LOVE SONGS
-http://192.99.150.31:8897/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
-http://192.99.150.31:8962/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
-http://192.99.150.31:8962/stream?
-#EXTINF:0 tvg-id="Romanticas.br" group-title="Lista IPTV Brasil HD",Românticas
-http://192.99.150.31:8962/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Romanticas.br" group-title="Lista IPTV Brasil HD",Românticas
-http://192.99.150.31:8962/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",STUDIO DO AMOR
-http://192.99.150.31:8962/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Romanticas.br" group-title="Lista IPTV Brasil HD",Românticas
-http://192.99.150.31:8962/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TECNO BREGA
-http://192.99.150.31:8989/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TECNO BREGA
-http://192.99.150.31:8989/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BREGA HITS
-http://192.99.150.31:9007/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BREGAS
-http://192.99.150.31:9007/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Brega
-http://192.99.150.31:9007/stream?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Brega
-http://192.99.150.31:9007/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BREGA HITS
-http://192.99.150.31:9007/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Brega
-http://192.99.150.31:9007/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Forro.br" group-title="Lista IPTV Brasil HD",FORRO
-http://192.99.150.31:9019/stream
-#EXTINF:0 tvg-id="Forro.br" group-title="Lista IPTV Brasil HD",FORRÓ
-http://192.99.150.31:9019/stream?
-#EXTINF:0 tvg-id="Forro.br" group-title="Lista IPTV Brasil HD",Forró
-http://192.99.150.31:9019/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Forro.br" group-title="Lista IPTV Brasil HD",Forró
-http://192.99.150.31:9019/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="Forro.br" group-title="Lista IPTV Brasil HD",FORRO
-http://192.99.150.31:9019/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Forro.br" group-title="Lista IPTV Brasil HD",Forró
-http://192.99.150.31:9019/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Dubstep FM*
-http://192.99.150.31:9083/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",DUSBSTEP
-http://192.99.150.31:9083/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",DUBSTEP
-http://192.99.150.31:9083/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Rádio Funk Proibidão
-http://192.99.150.31:9089/;
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",FUNK
-http://192.99.150.31:9089/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",FUNK
-http://192.99.150.31:9089/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Funk
-http://192.99.150.31:9089/stream?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Funk
-http://192.99.150.31:9089/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",FUNK
-http://192.99.150.31:9089/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Funk
-http://192.99.150.31:9089/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ELECTRO HOUSE
-http://192.99.150.31:9095/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ELETRO HOUSE
-http://192.99.150.31:9095/stream?
-#EXTINF:0 tvg-id="Eletronica.br" group-title="Lista IPTV Brasil HD",Eletrônica
-http://192.99.150.31:9095/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Eletronica.br" group-title="Lista IPTV Brasil HD",Eletrônica
-http://192.99.150.31:9095/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ELECTRO HOUSE
-http://192.99.150.31:9095/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Eletronica.br" group-title="Lista IPTV Brasil HD",Eletrônica
-http://192.99.150.31:9095/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Gospel.br" group-title="Lista IPTV Brasil HD",GOSPEL
-http://192.99.150.31:9101/stream
-#EXTINF:0 tvg-id="Gospel.br" group-title="Lista IPTV Brasil HD",GOSPEL
-http://192.99.150.31:9101/stream?
-#EXTINF:0 tvg-id="Gospel.br" group-title="Lista IPTV Brasil HD",Gospel
-http://192.99.150.31:9101/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Gospel.br" group-title="Lista IPTV Brasil HD",Gospel
-http://192.99.150.31:9101/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="Gospel.br" group-title="Lista IPTV Brasil HD",GOSPEL
-http://192.99.150.31:9101/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Gospel.br" group-title="Lista IPTV Brasil HD",Gospel
-http://192.99.150.31:9101/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Pagode.br" group-title="Lista IPTV Brasil HD",PAGODE
-http://192.99.150.31:9113/stream
-#EXTINF:0 tvg-id="Pagode.br" group-title="Lista IPTV Brasil HD",PAGODE
-http://192.99.150.31:9113/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Rockclassico.br" group-title="Lista IPTV Brasil HD",ROCK CLASSICO
-http://192.99.150.31:9125/stream
-#EXTINF:0 tvg-id="Rockclassico.br" group-title="Lista IPTV Brasil HD",Rock Clássico
-http://192.99.150.31:9125/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Rockclassico.br" group-title="Lista IPTV Brasil HD",Rock Clássico
-http://192.99.150.31:9125/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="Rockclassico.br" group-title="Lista IPTV Brasil HD",ROCK CLASSICO
-http://192.99.150.31:9125/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Rockclassico.br" group-title="Lista IPTV Brasil HD",Rock Clássico
-http://192.99.150.31:9125/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BOLEROS EM SERESTA
-http://192.99.150.31:9131/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BOLEROS EM SERESTA
-http://192.99.150.31:9131/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Rádio Roberto Carlos
-http://192.99.150.31:9137/;
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS
-http://192.99.150.31:9137/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS
-http://192.99.150.31:9137/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS FM
-http://192.99.150.31:9137/stream?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS FM
-http://192.99.150.31:9137/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ROBERTO CARLOS
-http://192.99.150.31:9137/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJO RAIZES
-http://192.99.150.31:9155/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJO RAIZ
-http://192.99.150.31:9155/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJO RAIZES
-http://192.99.150.31:9155/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MEGA MIX
-http://192.99.150.31:9161/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MEGA MIX
-http://192.99.150.31:9161/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJO UNIVERSITARIO
-http://192.99.150.31:9191/stream
-#EXTINF:0 tvg-id="Sertanejo.br" group-title="Lista IPTV Brasil HD",SERTANEJO
-http://192.99.150.31:9191/stream?
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Sertanejo Universitário
-http://192.99.150.31:9191/stream?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Sertanejo Universitário
-http://192.99.150.31:9191/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJO UNIVERSITARIO
-http://192.99.150.31:9191/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Sertanejo Universitário
-http://192.99.150.31:9191/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CLUBE DA CRIANCA
-http://192.99.150.31:9431/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MÚSICAS INFANTIS
-http://192.99.150.31:9431/stream?
-#EXTINF:0 tvg-id="Kids.br" group-title="Lista IPTV Brasil HD",Kids
-http://192.99.150.31:9431/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Kids.br" group-title="Lista IPTV Brasil HD",Kids
-http://192.99.150.31:9431/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CLUBE DA CRIANCA
-http://192.99.150.31:9431/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Kids.br" group-title="Lista IPTV Brasil HD",Kids
-http://192.99.150.31:9431/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",RODEIO
-http://192.99.150.31:9473/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",RODEIO
-http://192.99.150.31:9473/stream?IPTVONLINE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJA
-http://192.99.150.31:9485/stream
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJO 2
-http://192.99.150.31:9485/stream?
-#EXTINF:0 tvg-id="Sertanejo.br" group-title="Lista IPTV Brasil HD",Sertanejo
-http://192.99.150.31:9485/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Sertanejo.br" group-title="Lista IPTV Brasil HD",Sertanejo
-http://192.99.150.31:9485/stream?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SERTANEJA
-http://192.99.150.31:9485/stream?IPTVONLINE
-#EXTINF:0 tvg-id="Sertanejo.br" group-title="Lista IPTV Brasil HD",Sertanejo
-http://192.99.150.31:9485/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BRASÍLIA FM
-http://192.99.18.13:8720/live
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Litus | HD
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:0 tvg-id="Sbt.br" group-title="Lista IPTV Brasil HD",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8?Grupo_UP_e_DOWN
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TV Cidade Verde
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?AndreOid
-#EXTINF:0 tvg-id="Sbt.br" group-title="Lista IPTV Brasil HD",SBT PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?CANALANDRONALTAS
-#EXTINF:0 tvg-id="Sbt.br" group-title="Lista IPTV Brasil HD",SBT PI
+
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A BEIRA DO ABISMO
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O COLECIONADOR DE OSSOS
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",8mm - Oito Milimetros 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ESTRANHA OBSESSAO
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",RICKY BOBBY A TODA VELOCIDADE
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O ULTIMO GRANDE HEROI
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SEGURANDO AS PONTAS
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",AS DUAS FACES DA LEI
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",REDE DE INTRIGAS
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SEM SAIDA
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ACIMA DA LEI
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A INFORMANTE
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O SANGUE DE ROMEO
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O PODER DA CORRUPCAO
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HOMENS PERIGOSOS
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SEQUESTRO DO METRO 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",GUERRA AO TERROR
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VERMELHO
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",RISCO ABSOLUTO
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",OURO BRANCO
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MALDITO RESIDENTE: O HOSPEDE MALDITO
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MAL RESIDENTE: APOCALIPSE
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TORTURADO
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ANJOS DA NOITE: EVOLUCAO
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ANJOS DA NOITE: REBELIAO
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HANCOCK
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",FUGA DE ABSOLOM
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CONDUZIDO PARA MATAR
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ROBOCOP: O POLICIAL DO FUTURO
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ROBOCOP 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ROBOCOP 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HEROIS
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O GRANDE ANJO NEGRO
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",EQUILIBRIUM
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SKYLINE: A INVASAO
+http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TEMPOS DE VIOLENCIA
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM ATO DE LIBERDADE
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ESPIAO POR ACIDENTE
+http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LAGRIMAS DO SOL
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SOLDADO UNIVERSAL 3
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TRIPLO X
+http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TRIPLO X: ESTADO DE EMERGENCIA
+http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O HOMEM SOMBRA
+http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",REPLICANTE
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O FORASTEIRO 2
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SOU ESPIAO
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ASSALTO SOBRE TRILHOS
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",EXCESSO DE BAGAGEM
+http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VINGANCA
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O SENHOR DAS ARMAS
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",WASABI
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HORAS DE DESESPERO
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM TIRA POR ACASO
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SWAT: COMANDO ESPECIAL
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MERGULHO RADICAL 2
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UMA ERA DA ESCURIDAO
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CAES DE GUERRA
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CONQUISTA SANGRENTA
+http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",DESAFIO RADICAL
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",DIVISAO DE HOMICIDIOS
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",GODZILLA
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",IMPACTO MORTAL: A VINGANCA
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",KARATE KID 3
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MATADOR DE ALUGUEL
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A PRIMEIRA GRANDE DESCIDA
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O GUARDIAO
+http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O GUARDIAO 2
+http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O GUARDIAO 3
+http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O LEGIONARIO
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",BRUNO
+http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CASAMENTO AS AVESSAS
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O ABC DO AMOR
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",JUNO
+http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",COMO BRANQUELAS
+http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM SALAO DO BARULHO
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LEMBRANCAS DE HOLLYWOOD
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O SHOW DEVE CONTINUAR
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MAL POSSO ESPERAR
+http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM CRIMINOSO DECENTE
+http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SO SEUS OS MEUS OS NOSSOS
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",OS PRODUTORES
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O CLUBE DE LEITURA DE JANE AUSTEN
+http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",JOGUE A MAMAE DO TREM
+http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",FEITICO DA LUA
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UMA FESTA NO AR
+http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UMA TURMA DO BARULHO
+http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",KUNG FUSAO
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O OPOSTO DO SEXO
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM PEIXE CHAMADO WANDA
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O PARAISO E LOGO AQUI
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",NEM POR CIMA DO MEU CADAVER
+http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ADEUS AMOR
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",KUNG FU FUTEBOL CLUBE
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UMA HERANCA DE MR DEEDS
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ALMONDEGAS 4
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",BOLAS EM PANICO
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",COMO CONQUISTAR UMA MULHER
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",FUNCIONARIO DO MES
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",FEITICO DO TEMPO
+http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",DOUTOR FANTASTICO
+http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",JCVD
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VOU TE PEGAR OTARIO
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O NOME DO JOGO
+http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",PEGAR E LARGAR
+http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SENHORA ENGRAÇADA
+http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ANNIE
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",um PANTERA COR DE ROSA
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UMA GAROTA ENCANTADA
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",JANELA SECRETA
+http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SEGUNDAS INTENCOES 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",DESEJO A TRES
+http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MULHER SOLTEIRA PROCURA
+http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MULHER SOLTEIRA PROCURA 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CORPO EM EVIDENCIA
+http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HOTEL RUANDA
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MALICIA
+http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SOCIEDADE FEROZ
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TRAJES DE BONS
+http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",JULIE E ​​JULIA
+http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",DE REPENTE 30
+http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MEUS 15 ANOS
+http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ADORAVEIS MULHERES
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LUA DE MEL EM LAS VEGAS
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",IRONIAS DO AMOR
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",BASTIDORES DE UM CASAMENTO
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O CHAMADO DE XANGAI
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM AMOR DE VERAO
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TRES MULHERES TRES AMORES
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",MEU PRIMEIRO AMOR 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A ULTIMA MISSAO
+http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",JOGANDO COM PRAZER
+http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SECRETARIA
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TRABALHO SUJO
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UMA NOIVA E TANTO
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",COMO FACES DE HELEN
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SEXO MENTIRAS E VIDEOTAPE
+http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VESTIGIOS DO DIA
+http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LENDAS DA PAIXAO
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HOMEM DE CHUVA
+http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",DESAPARECIDAS
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",OS MISERAVEIS
+http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",NAS PROFUNDEZAS DO MAR SEM FIM
+http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LAWRENCE DA ARÁBIA
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",NUNCA SEM MINHA FILHA
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A OUTRA
+http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM HOMEM FORA DE SERIE
+http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O POVO CONTRA LARRY FLINT
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CODIGO DE HONRA
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CADA UM VIVE COMO QUER
+http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",COMO COISAS IMPOSSIVEIS DO AMOR
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VIDAS QUE SE CRUZAM
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O DESPERTAR DE UMA PAIXAO
+http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",POR AMOR
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",OLIVER
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LAUREL CANYON
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O RANCHO DO AMOR
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UM SEGREDO ENTRE NOS
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ERIN BROCKOVICH
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SETE VIDAS
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HACKERS: PIRATAS DE COMPUTADOR
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CAMINHO SEM VOLTA
+http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O CANTOR
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O ILUSIONISTA
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O RESGATE DE UM CAMPEAO
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",STUDIO 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",BOM UM HOMEM
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",AMIGOS DE CACA
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",APRENDENDO A VIVER
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CAMINHOS OPOSTOS
+http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O SEGREDO DE BROKEBACK MOUNTAIN
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O CASAMENTO DE RACHEL
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",APENAS UMA VEZ
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",COMO SE FOSSE A PRIMEIRA VEZ
+http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ATRAIDOS PELO DESTINO
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",PARAISO
+http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",STARMAN
+http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",1984
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A GUERRA DE HART
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CONTATOS IMEDIATOS DE TERCEIRO GRAU
+http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ÁFRICA DOS MEUS SONHOS
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VIOLACAO DE PRIVACIDADE
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O HEROI DA FAMILIA
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",HAVEN
+http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",PERSUASAO
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O MELHOR AMIGO DA NOIVA
+http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ID: FURIA NAS ARQUIBANCADAS
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A JOVEM RAINHA VICTORIA
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",QUATRO PLUMAS
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",OS REIS DE DOGTOWN
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VICIADO EM SEXO
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",GRETA
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O RITUAL
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",NA COMPANHIA DO MEDO
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",COMPORTAMENTO SUSPEITO
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",QUANDO UM ESTRANHO CHAMA
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ESTRADA MALDITA
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O CODIGO DA VINCI
+http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",RIOS VERMELHOS
+http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SEM VESTIGIOS
+http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LENDA URBANA 3
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",STIGMATA
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",QUARENTENA
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",IDENTIDADE
+http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",AMAR TRAIR E ROUBAR
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CATIVEIRO
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",ENQUANTO ELA ESTA FORA
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A VOLTA DOS MORTOS VIVOS
+http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",FIDO O MASCOTE
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",PROVAS E TRAPACAS
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SOB SUSPEITA
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O APRENDIZ
+http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",GAROTAS SELVAGENS 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",12 HORAS
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",8 MILIMETROS
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",8 MILIMETROS 2
+http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",COISAS BELAS E SUJAS
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",FEMME FATALE
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",INOCENTE OU CULPADO
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LUTA PELA LIBERDADE
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SEDUCAO FATAL
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O INQUILINO
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",UE SEI QUEM ME MATOU
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O TANGO E O ASSASSINO
+http://media-br-am.crackle.com/1/j/sl/4acyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",OS MENSAGEIROS
+http://media-br-am.crackle.com/1/9/16/6p1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O ALBERGUE
+http://media-br-am.crackle.com/1/i/56/hr1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O ALBERGUE 2
+http://media-br-am.crackle.com/1/r/16/68wlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",JOVENS BRUXAS
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",A MORTE DO DEMONIO
+http://media-br-am.crackle.com/1/_/h6/tcwlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",LENDA URBANA 2
+http://media-br-am.crackle.com/1/p/56/9u1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SILENT HILL: REVELACAO
+http://media-br-am.crackle.com/1/j/r6/efvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O GRITO 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CHRISTINE
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",BRINQUEDO ASSASSINO
+http://media-br-am.crackle.com/1/t/am/uddyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",KALIFORNIA
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",NAO ADIANTA FUGIR
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O PRINCIPAL SUSPEITO
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",REC
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",TENTACULOS
+http://media-br-am.crackle.com/1/f/gl/qkbyb_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",VESTIDA PARA MATAR
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",SUPERNOVA
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",EXISTENZ
+http://media-br-am.crackle.com/1/u/d6/m3vlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",FANTASMAS DE MARTE
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CRASH: NO LIMITE
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",CACADA SEM TREGUAS
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",O COLECIONADOR DE OSSOS
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p.mp4?ZFilmes
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",Deja Vu (2006)
+http://www.deadlyblogger.com/NewRelease/dejavu.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",Deja Vu (2006)
+http://www.deadlyblogger.com/NewRelease/dejavu.mp4
+#EXTINF:0 tvg-id="ext" group-title="Filmes ONDEMAND",NO OLHO DO TORNADO (720p)
+https://lh3.googleusercontent.com/1hMRgRNTDoAtJqQtUOKeFq_l1yiaWeY8k6iNvj9lwso-rrzkSPH0DoaBZijjR_5mAZys5hcqeA=m22
+#EXTINF:0 tvg-id="ext" group-title="Filmes ONDEMAND",O Atirador Exterminio Final
+https://www.dropbox.com/s/g6y9u04w523k1an/oatiradorexterminiofinal.mkv?dl=1
+#EXTINF:0 tvg-id="ext" group-title="Filmes ONDEMAND",Atirador 2
+https://www.dropbox.com/s/i7bahj66rvyrylk/oatiradorii2002.mkv?dl=1
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",13º andar
+http://media-br-am.crackle.com/1/t/96/301lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",dois coelhos
+http://media-br-am.crackle.com/1/f/v6/bjvlf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",28 dias
+http://media-br-am.crackle.com/1/l/96/4z1lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",30 Dias de Noite
+http://media-br-am.crackle.com/1/o/96/g31lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="Filmes ONDEMAND",6 Graus de Separacao
+http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="FILMES ADULTOS",NEGRINHA GOSTOSA SENDO EXCITADA
+https://uploads.filmesporno.blog/upload_videos/negrinha-quente-no-porno-amador-sendo-exitada.mp4
+
+#EXTINF:0 tvg-id="ext" group-title="Filmes e Séries",Central TV
+http://tv02.logicahost.com.br:1935/rbt01/rbt01/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Filmes e Séries",TV ARACATI 1
+https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Filmes e Séries",TV ARACATI 2
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Filmes e Séries",CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV DIÁRIO DO SERTÃO - PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV CREATIVE PB
+http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w91606170.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="TopTV.svn" group-title="VARIEDADES",TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV PANTANAL - MS
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist_w636935633.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV CIDADE OESTE RN
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV UNIÃO HD RN
+http://flash5.locamega.com.br:1935/locamega/_definst_/locamega/chunklist_w1802817471.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV UNIÃO HD RN
+http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",FOX HITS
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",MTV CLIPES 1
+http://rtmp.one.by:1200
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",CENTRAL TV - CURITIBA
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
+#EXTINF:0 tvg-id="VH1MegaHits.br" group-title="VARIEDADES",VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV NOVA PARAIBA
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1451503404
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV SOL PB
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV CARUARU
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",DTTV
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",DTTV
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",DTTV
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="Gnt.br" group-title="VARIEDADES",GNT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/60.ts
+#EXTINF:0 tvg-id="Mtv.br" group-title="VARIEDADES",MTV
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/50.ts
+
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",RECORD - MATO GROSSO r
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDETV RONDÔNIA r
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",TV DIARIO (ON) R
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais Adultos",jasmim
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w1624605394.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CAMERAS AO VIVO",Rio de Janeiro - Copacabana
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-id="ext" group-title="Canais de filmes e series",CINE CLUBE 3
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de filmes e series",CINE CLUBE 2
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?FORMIGAtv
+#EXTINF:0 tvg-id="ext" group-title="Canais de filmes e series",CINE CLUBE 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?FORMIGATV
+
+#EXTINF:0 tvg-id="ext" group-title="canais de filmes e series",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",as filhas do meu irmao
+https://pornocarioca.b-cdn.net/videos/mp4/8019/8019.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",colegio da putaria
+https://pornocarioca.b-cdn.net/videos/mp4/15361/15361.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",colegio interno
+https://videos.novinhabucetuda.com/nbvideos/Nb-Outubro/Colegio%20Interno.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",entre irmaos
+https://videos.novinhabucetuda.com/nbvideos/incesto-entre-irmaos.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",apimentando a relacao
+https://pornocarioca.b-cdn.net/videos/mp4/15560/15560.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",quase perfeira
+https://pornocarioca.b-cdn.net/videos/mp4/12079/12079.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",dando o troco
+https://pornocarioca.b-cdn.net/videos/mp4/12086/12086.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",encontros ardentes
+https://tafccdn.net/pcarioca/videos/mp4/12057/12057.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",coroas bundudas
+https://pornocarioca.b-cdn.net/videos/mp4/8095/8095.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",o sequestro da ninfeta
+https://pornocarioca.b-cdn.net/videos/mp4/13364/13364.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",despedida de solteira
+https://pornocarioca.b-cdn.net/videos/mp4/7349/7349.mp4
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",Bruna Surfistinha no sexy shop
+http://gzmbu8bjh3.singularcdn.net.br/contents/videos/25000/25341/25341_480p.mp4?sjwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NTMzNzQ4NTUsIm5iZiI6MTU1MzM3NDg1NSwiZXhwIjoxNTUzMzg1NjU1LCJpc3MiOiJ3d3cuY2Rua2luZ3MuY29tIiwianRpIjoiMjE0Mzk4MjYzNDVjOTY5ZTg3MmNiOTg4Ljc0NzEyNTA5IiwiY2xpZW50ZSI6IjE4Ni4xOTUuMTM1LjkzIn0.kGusAENt9unjf1A0sPEAh8GWSpPCgQABj6l1Zs0NKww
+#EXTINF:0 tvg-id="avi" group-title="filmes adultos",Louco Desejo Entre Irmãos
+https://videos.novinhabucetuda.com/nbvideos/louco-desejo-entre-irm%C3%A3os.mp4
+
+#EXTINF:0 tvg-id="cine+" group-title="canais filmes",CINE+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="canais de filmes",CINE SKY 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+
+#EXTINF:0 tvg-id="Bandsp.br" group-title="TV AO VIVO",Band SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV AO VIVO",SBT PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?ChannelsON
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
-#EXTINF:0 tvg-id="Sbt.br" group-title="Lista IPTV Brasil HD",SBT PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
-#EXTINF:0 tvg-id="Sbt.br" group-title="Lista IPTV Brasil HD",SBT PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?ISAQUE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SBT PI HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?MEGAMAXIPTV
-#EXTINF:0 tvg-id="Sbt.br" group-title="Lista IPTV Brasil HD",SBT PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?VOCESABIANAO
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",AR TV
-http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",AR TV
-http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",AR TV
-http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8?CANALANDRONALTAS
-#EXTINF:0 tvg-id="Lounge.br" group-title="Lista IPTV Brasil HD",Lounge
-http://6d9a.webradio.upx.net.br:9064/stream
-#EXTINF:0 tvg-id="Lounge.br" group-title="Lista IPTV Brasil HD",LOUNGE
-http://6d9a.webradio.upx.net.br:9064/stream?
-#EXTINF:0 tvg-id="Lounge.br" group-title="Lista IPTV Brasil HD",Lounge
-http://6d9a.webradio.upx.net.br:9064/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Lounge.br" group-title="Lista IPTV Brasil HD",Lounge
-http://6d9a.webradio.upx.net.br:9064/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Festa.br" group-title="Lista IPTV Brasil HD",Festa
-http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:0 tvg-id="Festa.br" group-title="Lista IPTV Brasil HD",Festa
-http://6d9a.webradio.upx.net.br:9070/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Festa.br" group-title="Lista IPTV Brasil HD",Festa
-http://6d9a.webradio.upx.net.br:9070/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Trilhassonoras.br" group-title="Lista IPTV Brasil HD",Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream
-#EXTINF:0 tvg-id="Trilhassonoras.br" group-title="Lista IPTV Brasil HD",TRILHAS SONORAS
-http://6d9a.webradio.upx.net.br:9896/stream?
-#EXTINF:0 tvg-id="Trilhassonoras.br" group-title="Lista IPTV Brasil HD",Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Trilhassonoras.br" group-title="Lista IPTV Brasil HD",Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Metal.br" group-title="Lista IPTV Brasil HD",Metal
-http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:0 tvg-id="Metal.br" group-title="Lista IPTV Brasil HD",METAL
-http://6d9a.webradio.upx.net.br:9898/stream?
-#EXTINF:0 tvg-id="Metal.br" group-title="Lista IPTV Brasil HD",Metal
-http://6d9a.webradio.upx.net.br:9898/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Metal.br" group-title="Lista IPTV Brasil HD",Metal
-http://6d9a.webradio.upx.net.br:9898/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Anos2000.br" group-title="Lista IPTV Brasil HD",Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:0 tvg-id="Anos2000.br" group-title="Lista IPTV Brasil HD",ANOS 2000
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:0 tvg-id="Anos2000.br" group-title="Lista IPTV Brasil HD",Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Anos2000.br" group-title="Lista IPTV Brasil HD",Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Musicaclassica.br" group-title="Lista IPTV Brasil HD",Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream
-#EXTINF:0 tvg-id="Musicaclassica.br" group-title="Lista IPTV Brasil HD",MÚSICA CLÁSSICA
-http://6d9a.webradio.upx.net.br:9970/stream?
-#EXTINF:0 tvg-id="Musicaclassica.br" group-title="Lista IPTV Brasil HD",Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Musicaclassica.br" group-title="Lista IPTV Brasil HD",Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="Bossanova.br" group-title="Lista IPTV Brasil HD",Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:0 tvg-id="Bossanova.br" group-title="Lista IPTV Brasil HD",BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream?
-#EXTINF:0 tvg-id="Bossanova.br" group-title="Lista IPTV Brasil HD",Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream?CANAISGLAU
-#EXTINF:0 tvg-id="Bossanova.br" group-title="Lista IPTV Brasil HD",Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream?TV-SUPER-HD-IPTV-2
-#EXTINF:0 tvg-id="TF1.fr" group-title="Lista IPTV Brasil HD",TF1
-http://77.134.143.101:8000/play/a002/index.m3u8
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="Lista IPTV Brasil HD",NRJ12
-http://77.134.143.101:8000/play/a003/index.m3u8
-#EXTINF:0 tvg-id="TCM.uk" group-title="Lista IPTV Brasil HD",TMC
-http://77.134.143.101:8000/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",LA CHAINE PARLAMENTAIRE
-http://77.134.143.101:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-id="France2.fr" group-title="Lista IPTV Brasil HD",FRANCE 2
-http://77.134.143.101:8000/play/a008/index.m3u8
-#EXTINF:0 tvg-id="France4.fr" group-title="Lista IPTV Brasil HD",FRANCE 4
-http://77.134.143.101:8000/play/a009/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",FRANCE
-http://77.134.143.101:8000/play/a00a/index.m3u8
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="Lista IPTV Brasil HD",CHERIE 25
-http://77.134.143.101:8000/play/a00h/index.m3u8
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Lista IPTV Brasil HD",RMC DECOUVERTE
-http://77.134.143.101:8000/play/a00i/index.m3u8
-#EXTINF:0 tvg-id="M6.fr" group-title="Lista IPTV Brasil HD",M6
-http://77.134.143.101:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="W9.fr" group-title="Lista IPTV Brasil HD",W9
-http://77.134.143.101:8000/play/a00m/index.m3u8
-#EXTINF:0 tvg-id="arte.de" group-title="Lista IPTV Brasil HD",ARTE
-http://77.134.143.101:8000/play/a00n/index.m3u8
-#EXTINF:0 tvg-id="France5.fr" group-title="Lista IPTV Brasil HD",FRANCE 5
-http://77.134.143.101:8000/play/a00o/index.m3u8
-#EXTINF:0 tvg-id="6ter.fr" group-title="Lista IPTV Brasil HD",6TER
-http://77.134.143.101:8000/play/a00p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Alto Adige TV
-http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Sudtirol TV
-http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Trentino TV*
-http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Trentino TV
-http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CANAL RURAL X
-http://77149o.ha.azioncdn.net/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Canal X SD
-http://77149o.ha.azioncdn.net/playlist.m3u8?ISAQUE
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Canal X
-http://77149o.ha.azioncdn.net/playlist.m3u8?jhonlocao
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CWB TV
-http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CWB TV (games)
-http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CWB TV
-http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",CWB TV
-http://78.46.36.212:1935/cwbtv/cwbtv/live.m3u8?LISTASGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TV ALVORADA ESPÍRITA
-http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TV ALVORADA ESPÍRITA
-http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8?LISTASDAGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TV ALVORADA ESPÍRITA
-http://78.46.36.212:1935/tvalvorada/tvalvorada/live.m3u8?LISTASGLAU
-#EXTINF:0 tvg-id="Animalplanet.br" group-title="Lista IPTV Brasil HD",Animal Planet
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0 tvg-id="Tlc.br" group-title="Lista IPTV Brasil HD",TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Travel Channel (Opt-2)
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Planet Green
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Lista IPTV Brasil HD",Investigation Discovery
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Lista IPTV Brasil HD",ESPN USA
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0 tvg-id="Discovery.br" group-title="Lista IPTV Brasil HD",Discovery Channel
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:0 tvg-id="ScienceChannel.us" group-title="Lista IPTV Brasil HD",Science Channel
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ROCK FM
-http://80.86.106.143:9128/rockfm.mp3?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Rock FM
-http://80.86.106.143:9128/rockfm.mp3?CANALANDRONALTAS
-#EXTINF:0 tvg-id="intv.de" group-title="Lista IPTV Brasil HD",inTV
-http://80.91.115.211:1935/live/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="RrokumTV.al" group-title="Lista IPTV Brasil HD",Rrokum TV
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:0 tvg-id="4E.gr" group-title="Lista IPTV Brasil HD",4E TV
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Lista IPTV Brasil HD",SKY CINEMA ACTION
-http://82.46.138.46:5555/play/a00a/index.m3u8
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Lista IPTV Brasil HD",SKY CINEMA DISNEY
-http://82.46.138.46:5555/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Lista IPTV Brasil HD",SKY CINEMA COMEDY
-http://82.46.138.46:5555/play/a00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",SKY CINEMA THRILLER
-http://82.46.138.46:5555/play/a00h/index.m3u8
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Lista IPTV Brasil HD",SKY CINEMA PREMIERE
-http://82.46.138.46:5555/play/a00p/index.m3u8
-#EXTINF:0 tvg-id="Digi24.ro" group-title="Lista IPTV Brasil HD",Digi 24
-http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Makan 33 (Opt-1)
-http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Kan11 [Israel]
-http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Jug TV
-http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",RTK 4 [Kosovo]
-http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:0 tvg-id="iq-hd" group-title="Lista IPTV Brasil HD",Planeta HD
-http://84.43.207.130/planetahd/planetahd.m3u8
-#EXTINF:0 tvg-id="iq-hd" group-title="Lista IPTV Brasil HD",Planeta HD
-http://84.43.207.130/planetahd/planetahd.m3u8?CANAISGLAU
-#EXTINF:0 tvg-id="iq-hd" group-title="Lista IPTV Brasil HD",Planeta HD
-http://84.43.207.130/planetahd/planetahd.m3u8?CANALANDRONALTAS
-#EXTINF:0 tvg-id="muz-tv" group-title="Lista IPTV Brasil HD",MUZ TV
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
-#EXTINF:0 tvg-id="muz-tv" group-title="Lista IPTV Brasil HD",MUZ TV
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANAISGLAU
-#EXTINF:0 tvg-id="muz-tv" group-title="Lista IPTV Brasil HD",MUZ TV
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANALANDRONALTAS
-#EXTINF:0 tvg-id="muz-tv" group-title="Lista IPTV Brasil HD",MUZ TV
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANALANDRONALTAS.ts
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Deepam TV
-http://88.202.186.202:1935/cdn/deepamtvuk/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Tele Milano
-http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
-#EXTINF:0 tvg-id="92News.uk" group-title="Lista IPTV Brasil HD",92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Hromadske TV
-http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BBC Radio Four
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BBC Radio One
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",BBC Radio Two
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MULTI TV
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MULTI TV CIDADES
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",MultiTV
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:0 tvg-id="Atreseries.es" group-title="Lista IPTV Brasil HD",Atreseries
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Antena 3 Int'l
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",La Sexta [Espanha]
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Mega [Espanha]
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
-#EXTINF:0 tvg-id="NovaTV.cz" group-title="Lista IPTV Brasil HD",Nova
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:0 tvg-id="Neox.sp" group-title="Lista IPTV Brasil HD",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:0 tvg-id="Neox.sp" group-title="Lista IPTV Brasil HD",Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8?tecnotv.info?iptv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Energia 97 Fm*
-http://aac.97fm.com.br/energia?type=.flv
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Energia FM
-http://aac.97fm.com.br/energia?type=.flv?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Energia FM
-http://aac.97fm.com.br/energia?type=.flv?CANALANDRONALTAS
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ABC News [Estados Unidos]
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ABC Jazz
-http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ABC Radio Canberra
-http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ABP Asmita
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-#EXTINF:0 tvg-id="jctv" group-title="Lista IPTV Brasil HD",JuCeTV US
-http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Enlace TV
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ADiTV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Arabic: Ø§Ø¨ÙˆØ¸Ø¨ÙŠ Ø¯Ø±Ø§Ù…Ø§
-http://adtv.ercdn.net/addrama/addrama.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Abu Dhabi Sports SD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:0 tvg-id="ADSports2.net" group-title="Lista IPTV Brasil HD",Abu Dhabi Sports 2 SD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TV Africa (Ghana)
-http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Raagam Radio
-http://airraagam-lh.akamaihd.net/i/airraagam_1@507820/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Akaram Gallata TV
-http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ALEX BERLIN-Urban Music
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",ALEX BERLIN (Urban Music)
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",TV Galicia America | SD
-http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Antena 1 SP*
-http://antena1.newradio.it/stream?1479613766876.aac
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Antena 1 FM
-http://antena1.newradio.it/stream?ext=.mp3?CANAISGLAU
-#EXTINF:0 tvg-id="ext" group-title="Lista IPTV Brasil HD",Antena 1 FM
-http://antena1.newradio.it/stream?ext=.mp3?CANALANDRONALTAS
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV AO VIVO",SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",Record Agua Boa
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV AO VIVO",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="TV AO VIVO",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="RedeFami­lia.br" group-title="TV AO VIVO",Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",TV Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",WebTVMinas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",TV Educativa
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",TV Cultura MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",CATVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+#EXTINF:0 tvg-id="Terraviva.br" group-title="TV AO VIVO",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ChannelsON
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="TV AO VIVO",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?ChannelsON
+#EXTINF:0 tvg-id="ext" group-title="TV AO VIVO",TV Universal
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8?ChannelsON
+
+#EXTINF:0 tvg-id="ext" group-title="Radios",Hunter FM
+http://live.hunterfm.com/live
+#EXTINF:0 tvg-id="ext" group-title="Radios",Mundial Music Brasil
+http://162.243.197.147:80/mp3-128k
