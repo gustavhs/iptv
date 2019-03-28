@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta (leo)",BAND
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta ",BAND
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
-#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta (leo)",RECORD
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta ",RECORD
 http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",REDE FAMÍLIA HD
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",REDE FAMÍLIA HD
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",TVE BRASIL
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",TVE BA HD
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",TVE BA HD
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",REDE BRASIL®
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",REDE BRASIL®
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
-#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta (leo)",TV Escola
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta ",TV Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title=" group-title=",REDE TV SP
