@@ -1,0 +1,714 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta (leo)",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta (leo)",RECORD
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",REDE BRASIL®
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta (leo)",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
+
+#EXTINF:0 tvg-id="ext" group-title=" group-title=",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV! - RONDÔNIA
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",RECORD TV ÁGUA BOA
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?LISTASGLAU
+
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",VIA MORENA- Canal FutucAndroiD
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",ALL SPORTS- Canal FutucAndroiD
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",TVE BA HD- Canal FutucAndroiD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",HISTORY LAB- Canal FutucAndroiD
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",TV Ticavision Costa Rica
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",TV  Wow El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",TV  Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",TV  Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",M20Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS INTERNACIONAIS",HBO2 HD- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES",Tv Aracati (CE)
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES",+BR
+http://vm.srvcast.com/tvbrasil/tvbrasil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES",Carioca
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES",Pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Homem Nas Trevas
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OHomemNasTrevas.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Lar Das Criancas Peculiares
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OlarDasCriancasPeculiares.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Orgulho
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Orgulho.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",The Bodyguard
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/TheBadyguard.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O PROTETOR
+http://media-br-am.crackle.com/1/y/x6/mt4lf_360p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Saga Crepusculo Amanhecer Parte 1
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoAmanhecerParte1.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Saga Crepusculo Amanhecer Parte 2
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoAmanhecerParte2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Saga Crepusculo Eclipse
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoEclipse.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Saga Crepusculo Lua Nova
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ASagaCrepusculoLuaNova.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Crepusculo
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Crepusculo.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Garota No Trem
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AGAROTANOTREM-LEGENDADO.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Agente Da UNCLE
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Agente_da_Uncle.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Agente Mirim
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AgenteMirim.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Agua Rasas
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AguaRasas.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Historia Real De Um Assassino Falso
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ahistoriarealdeumassassinofalso.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Ainda Estamos Aqui
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AindaEstamosAqui-DUBLADO.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Invencao De Hugo Cabret
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AInvencaoDeHugoCabret.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Alem da Realidade
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Alem.da.Realidade.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Lenda de Barney Thomson
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/alendadebarneythomson.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Lenda De Tarzan
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALendaDeTarzan.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Lenda Do Tesouro Perdido
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALentaDoTesouroPerdido.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Lenda Do Tesouro Perdido Livro Dos Segredos
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ALentaDovtesouro2OLivroDoDegredos.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Luz Entre Oceanos
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/A.Luz.Entre.Oceanos.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A 5 Onda
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/A_5_Onda.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Alcateia
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AAlcateeia-DUBLADO.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Autopsia De Jane Doe
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/AAutopsiaDeJaneDoe.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Bruxa
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ABruxa-DUBLADO.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Fantasmas A Solta 3 Sociedade Do Mal
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/FantasmaAsolta3SociedadeDoMal.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Hector E A Procura Da Felicidade
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HectorEAProcuraDaFelicidade.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Mark E Russell
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MarkERussell.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Maximum Ride Projeto Angel
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MaximumRideProjetoAngel.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",As Vozes
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/As.Vozes.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Mogli O Menino Lobo
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/MogliOMeninoLobo.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Assalto Perfeito
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/OAssaltoPerfeito.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Avatar
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Avatar.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Dragao Do Natal
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/ODragaoDoNatal.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Anaconda
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Anaconda-DUBLADO.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Anaconda 2
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Anaconda2.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Snowden - Heroi ou Traidor
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Snowden.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Ben Hur
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/BenHur.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Caes De Guerra
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CaesDeGuerra.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Genios Do Crime
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/GeniosDoCrime.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Truque De Mestre O Segundo Ato
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/TruqueDeMestreOSegundoAto.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Cidades De Papel
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CidadesDePapel.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Coracao Valente
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CoracaoValente.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Eragon
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Eragon.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Evereste
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Evereste.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Baba Fora de Controle Missao Brasil
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/babaforadecontrolemissaobrasil.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Corrida Mortal
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/CorridaMortal2050.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Sinais
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/Sinais.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",HERANÇA DE SANGUE
+http://1290922571.rsc.cdn77.org/vod4/Movies/Braz/HerancaDeSangue-DUBLADO.mp4/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A MUMIA
+http://webtvcde.com/Servidor/108/am108.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",AMORES CANIBAIS
+http://webtvcde.com/Servidor/108/ac108.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",JOGO PERIGOSO
+http://webtvcde.com/Servidor/108/jp108.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",NOSSAS NOITES
+http://webtvcde.com/Servidor/108/nn108.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O BAR
+http://webtvcde.com/Servidor/108/ob108.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O MAGO DAS MENTIRAS
+http://webtvcde.com/Servidor/108/omm08.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O REINO GELADO 3-FOGO E GELO (INFANTIL)  HD
+http://webtvcde.com/Servidor/108/org38.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",OURO E COBIÇA
+http://webtvcde.com/Servidor/108/oc108.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",PATRULHA CAÇA FANTASMA (INFANTIL)
+http://webtvcde.com/Servidor/108/pcf08.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",TRANSFORMERS O ULTIMO CAVALEIRO
+http://webtvcde.com/Servidor/108/tuc08.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",UMA AGENTE MUITO LOUCA
+http://webtvcde.com/Servidor/108/uam08.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",7 DESEJOS
+http://webtvcde.com/Servidor/108/7dj087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A BABÁ
+http://webtvcde.com/Servidor/108/abb087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",ANNABELLE 2 A Criação do Mal
+http://webtvcde.com/Servidor/108/a2a087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",AO CAIR DA NOITE
+http://webtvcde.com/Servidor/108/acd087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",DETETIVES DO PREDIO AZUL O Filme (INFANTIL)
+http://webtvcde.com/Servidor/108/ddp087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",DIRTY DANCING O Musical
+http://webtvcde.com/Servidor/108/ddo087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",EXPRESSO DO AMANHÃ
+http://webtvcde.com/Servidor/108/eda087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",LADY MACBETH
+http://webtvcde.com/Servidor/108/lmt087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",MEU MALVADO FAVORITO 3 (INFANTIL)
+http://webtvcde.com/Servidor/108/mmf087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",MUNE O GUARDIÃO DA LUA
+http://webtvcde.com/Servidor/108/mog087.mkv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O AFOGAMENTO
+http://webtvcde.com/Servidor/108/oaf087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O CULTO DE CHUCKY
+http://webtvcde.com/Servidor/108/occ087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O LIVRO DE HENRY
+http://webtvcde.com/Servidor/108/olh087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",PLANETA DOS MACACOS A Guerra
+http://webtvcde.com/Servidor/108/pmg087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",STRATTON  Forças Especiais
+http://webtvcde.com/Servidor/108/sfe087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",TRENK O Cavaleiro Trapalhão (INFANTIL)
+http://webtvcde.com/Servidor/108/tct087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",UMA FAMILIA DE DOIS
+http://webtvcde.com/Servidor/108/ud2087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",VENCENDO O PASSADO
+http://webtvcde.com/Servidor/108/vop087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",WHEELMAN
+http://webtvcde.com/Servidor/108/wlm087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",CARROS 3 (INFANTIL)
+http://webtvcde.com/Servidor/108/crs3087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",FIM DO JOGO
+http://webtvcde.com/Servidor/108/fdjo087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",MELANIE A ULTIMA ESPERANÇA
+http://webtvcde.com/Servidor/108/maue087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",UM SUBURBANO SORTUDO
+http://webtvcde.com/Servidor/108/usso087.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Morte e a Vida de Bobby Z 2007
+http://webtvcde.com/Filmes/Classicos/A.Morte.e.Vida.de.Bobby.Z.avi
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Hobbit 1: Uma Jornada Inesperada
+http://webtvcde.com/Filmes/Dublados/Hobbit/O.Hobbit.Uma.Jornada.Inesperada.2012.mkv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Hobbit 2: A Desolação de Smaug
+http://webtvcde.com/Filmes/Dublados/Hobbit/O.Hobbit.A.Desolacao.de.Smaug.2013.mkv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Hobbit 3: A Batalha dos Cinco Exércitos
+http://webtvcde.com/Filmes/Dublados/Hobbit/O.Hobbit.A.Batalha.dos.Cinco.Exercitos.mkv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Senhor dos Anéis 1: A Sociedade do Anel
+http://webtvcde.com/Filmes/Dublados/Aneis/O%20Senhor%20dos%20Aneis%20Trilogia%20Extendido%201080p/O%20Senhor%20dos%20An%c3%a9is%201%20-%20A%20Sociedade%20do%20Anel.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Senhor dos Anéis 2: As Duas Torres 2002
+http://webtvcde.com/Filmes/Dublados/Aneis/O%20Senhor%20dos%20Aneis%20Trilogia%20Extendido%201080p/O%20Senhor%20dos%20An%c3%a9is%202%20-%20As%20Duas%20Torres.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",O Senhor dos Anéis: O Retorno do Rei 2003
+http://webtvcde.com/Filmes/Dublados/Aneis/O%20Senhor%20dos%20Aneis%20Trilogia%20Extendido%201080p/O%20Senhor%20dos%20An%c3%a9is%203%20-%20O%20Retorno%20do%20Rei.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Os Embalos de Sábado à Noite 1977
+http://webtvcde.com/Filmes/Classicos/Os.Embalos.de%20Sabado.a.Noite.1977.mkv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Os Suspeitos 1995
+http://webtvcde.com/Filmes/Classicos/Os.Suspeitos.1995.mkv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",Sr. & Sra. Smith 2005
+http://webtvcde.com/Filmes/Dublados/Sr.e.Sra.Smith.2005.mkv
+#EXTINF:0 tvg-id="avi" group-title="FILMES",A Lista de Schindler
+http://webtvcde.com/Filmes/Classicos/A.Lista.de.Schindler.1993.mkv
+
+#EXTINF:0 tvg-id="ext" group-title="Sem Categoria",REDE NEWS HD
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?ISAQUE
+#EXTINF:0 tvg-id="ext" group-title="Sem Categoria",Cachipum | SD | Chile
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sem Categoria",Locomotion | SD | Republica Dominicana
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sem Categoria",WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sem Categoria",Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="FILMES E SÉRIES",24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",TV PANTANAL
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",TV ARACATI
+https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",TV ARACATI
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",CINE FILMES 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",GOSPEL TV - FILMES
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SÉRIES",SÓ FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SERIES",TV JAPI
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="DESENHOS",DisneyJR
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b1089536.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS",Tv.Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS",Animes
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",R.Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-id="RTL102.5TV.it" group-title="MUSICAS",RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",MUSIC CHOICE
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="H!TMusic.ro" group-title="MUSICAS",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:0 tvg-id="retro" group-title="MUSICAS",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="XITE.nl" group-title="MUSICAS",XITE
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+#EXTINF:0 tvg-id="CapitalTV.uk" group-title="MUSICAS",CAPITAL TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",RADIO MONTECARLO TV
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",RADIO U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",RADIO CONTACT FEEL GOOD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",PORTAL FOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CLIPS",- m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="CLIPS",- Retrô
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CLIPS",- NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="DESENHO",-GOSPEL CARTOON-
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DESENHO",26- TV ESCOLA r
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DESENHO",- TV CULTURA MG-
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="FILMES 02",AS AVENTURAS DE PI
+http://webtvcde.com/Servidor/aadp4j.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 02",PACIFIC RIM
+http://webtvcde.com/Servidor/cdf4sc.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 02",DEPOIS DA TERRA
+http://webtvcde.com/Servidor/ddt4ad.mp4?guiadoluiz
+
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 1 2006
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%201.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 2 2008
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%202.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 3 2010
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%203.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batalha por T.E.R.A. 2007
+http://webtvcde.com/Filmes/Classicos/Batalha%20por%20T.E.R.R.A.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batman - O Mistério Da Mulher Morcego 2004
+http://webtvcde.com/Filmes/Classicos/Batman.O.Misterio.da.Mulher.Morcego.2003.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Big Pai Big Filho 2017
+http://webtvcde.com/Filmes/Dublados/Big.Pai.Big.Filho.2018.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Bee Movie 2007
+http://webtvcde.com/Filmes/Classicos/Bee%20Movie%20-%20A%20Hist%c3%b3ria%20de%20uma%20Abelha%20(2007).mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",PLOEY - Você Nunca Voará Sozinho 2018
+http://webtvcde.com/Filmes/Dublados/Ploey.Voce.Nunca.Voara.Sozinho.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Wall-E 2008
+http://webtvcde.com/Filmes/Classicos/wall-e_2008.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Next Gen 2018
+http://webtvcde.com/Filmes/Dublados/Next.Gen.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batman vs. Duas-Caras 2017
+http://webtvcde.com/Filmes/Dublados/Batman.vs.Duas.Caras.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Sabor da Juventude 2018
+http://webtvcde.com/Filmes/Dublados/Shiki.Oriori.O.Sabor.da.Juventude.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Scooby-Doo! & Batman: Os Bravos e Destemidos 2018
+http://webtvcde.com/Filmes/Dublados/Scooby.Doo.and.Batman.The.Brave.and.the.Bold.2018.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",A Morte do Superman 2018
+http://webtvcde.com/Filmes/Dublados/A.Morte.do.Superman.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",JUSTICA VERMELHA
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",A BEIRA DO ABISMO
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ESTRANHA OBSESSAO
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",RICKY BOBBY A TODA VELOCIDADE
+http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O ULTIMO GRANDE HEROI
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",SEGURANDO AS PONTAS
+http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",AS DUAS FACES DA LEI
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",REDE DE INTRIGAS
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",SEM SAIDA
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ACIMA DA LEI
+http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",A INFORMANTE
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O SANGUE DE ROMEO
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O PODER DA CORRUPCAO
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",HOMENS PERIGOSOS
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",SEQUESTRO DO METRO 123
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",GUERRA AO TERROR
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",OURO BRANCO
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",RED
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",RISCO ABSOLUTO
+http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",RESIDENT EVIL:O HOSPEDE MALDITO
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",RESIDENT EVIL:APOCALIPSE
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",RESIDENT EVIL:EXTINCAO
+http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",TORTURADO
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ANJOS DA NOITE:EVOLUCAO
+http://media-br-am.crackle.com/1/u/n6/d6ulf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ANJOS DA NOITE:REBELIAO
+http://media-br-am.crackle.com/1/k/om/wffyb_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",HANCOCK
+http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ROCKY BALBOA
+http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",FUGA DE ABSOLOM
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",CONDUZIDO PARA MATAR
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ROBOCOP: O POLICIAL DO FUTURO
+http://media-br-am.crackle.com/1/o/d6/y2vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ROBOCOP 2
+http://media-br-am.crackle.com/1/t/d6/g3vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",ROBOCOP 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",HEROIS
+http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O GRANDE ANJO NEGRO
+http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O CHAMADO DE XANGAI (2012)
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?guiadoluiz
+
+#EXTINF:0 tvg-id="avi" group-title="TERROR/SUSPENSE",O PRINCIPAL SUSPEITO
+http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4?guiadoluiz
+
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Paraiso Perdido
+http://filmes02.lhmtv.tk/filmes/P4ra1so.P3rd1do.LHMTv.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Inspetor Bugiganga 1999
+http://media-br-am.crackle.com/1/i/b6/3l5lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Armageddon 1998
+http://media-br-am.crackle.com/1/c/16/gv4lf_480p.mp4
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",A Batalha de Midway 1976
+https://cdn2.oldflix.com.br/hls/movies/a-batalha-de-midway/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",9 e Meia Semanas de Amor 1986 Leg
+http://cdn2.oldflix.com.br/hls/movies/-9-e-meia-semanas-de-amor/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",A Honra do Poderoso Prizzi 1985 Leg
+https://cdn2.oldflix.com.br/hls/movies/a-honra-do-poderoso-prizzi-/playback_legendado/playback_legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Romeu e Julieta 1969 Leg
+https://cdn2.oldflix.com.br/hls/movies/romeuejulieta/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Casablanca 1942 Leg
+https://cdn2.oldflix.com.br/hls/movies/casablanca/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Ligações Perigosas 1988
+https://cdn2.oldflix.com.br/hls/movies/ligacoes-perigosas/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Amor à Queima-Roupa 1993 Leg
+https://cdn2.oldflix.com.br/hls/movies/amoraqueimaroupa/legendado_Oldflix_LF_MAR_4x3_480p/legendado_Oldflix_LF_MAR_4x3_480p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",A Sentinela dos Malditos 1977 Leg
+https://cdn2.oldflix.com.br/hls/movies/asentineladosmalditos/legendado_Oldflix_LF_MAR_4x3_480p/legendado_Oldflix_LF_MAR_4x3_480p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Além Dos Limites 2001
+https://cdn2.oldflix.com.br/hls/movies/alem-dos-limites/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Alive - Os Sobreviventes Dos Andes 1993
+https://cdn2.oldflix.com.br/hls/movies/alive-os-sobreviventes-dos-andes/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Assassino a Preço Fixo 1972
+https://cdn2.oldflix.com.br/hls/movies/assassino-a-preco-fixo/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Deixados para Trás 2001
+https://cdn2.oldflix.com.br/hls/movies/deixados-para-tras/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Deixados para Trás 2 - 2002
+https://cdn2.oldflix.com.br/hls/movies/deixados-para-tras-2/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Desejo de Matar 1974
+https://cdn2.oldflix.com.br/hls/movies/desejo-de-matar/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Desejo de Matar 2 1982
+https://cdn2.oldflix.com.br/hls/movies/desejo-de-matar-2/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Desejo de Matar 3 1986
+https://cdn2.oldflix.com.br/hls/movies/desejo-de-matar-3/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Desejo de Matar 4- Operação Crackdown 1987
+https://cdn2.oldflix.com.br/hls/movies/desejo-de-matar-4-operacao-crackdown/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Filhos do Vento 2004
+https://cdn2.oldflix.com.br/hls/movies/filhos-do-vento/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",44 Minutos 2003
+https://cdn2.oldflix.com.br/hls/movies/44minutos/dublado_Oldflix_LF_MAR_16x9_720p/dublado_Oldflix_LF_MAR_16x9_720p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",A Lenda do Lobo do Mar 1975 Leg
+https://cdn2.oldflix.com.br/hls/movies/a-lenda-do-lobo-do-mar/playback_legendado/playback_legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",O Último Guerreiro das Estrelas 1984
+https://cdn2.oldflix.com.br/hls/movies/o-ultimo-guerreiro-das-estrelas/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",o Cavaleiro das Trevas 2003
+https://cdn2.oldflix.com.br/hls/movies/vlad-o-cavaleiro-das-trevas/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Aprendiz de Feiticeiro 2002
+https://cdn2.oldflix.com.br/hls/movies/aprendiz-de-feiticeiro/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",As Minas do Rei Salomão 2004
+https://cdn2.oldflix.com.br/hls/movies/as-minas-do-rei-salomao/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",As Viagens de Gulliver 1996
+https://cdn2.oldflix.com.br/hls/movies/as-viagens-de-gulliver/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Cidade Ardente 1984
+https://cdn2.oldflix.com.br/hls/movies/cidade-ardente-/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Stargate - A Chave para o Futuro da Humanidade 1994 Leg
+https://cdn2.oldflix.com.br/hls/movies/stargate-a-chave-para-o-futuro-da-humanidade/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Prelúdio Para Matar 1975 Leg
+https://cdn2.oldflix.com.br/hls/movies/preludioparamatar/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Anubis - O Guardião das Trevas 2005
+https://cdn2.oldflix.com.br/hls/movies/anubis/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",O Despertar dos Mortos 1978 Leg
+https://cdn2.oldflix.com.br/hls/movies/o-despertar-dos-mortos/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Um Lobisomem Americano em Londres 1981 Leg
+https://cdn2.oldflix.com.br/hls/movies/um-lobisomem-americano-em-londres/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Calafrios 1975 Leg
+https://cdn2.oldflix.com.br/hls/movies/calafrios/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",O Expresso do Horror 1973 Leg
+https://cdn2.oldflix.com.br/hls/movies/o-expresso-do-horror/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",O Conde Drácula 1970 Leg
+https://cdn2.oldflix.com.br/hls/movies/o-conde-dracula/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Orca - A Baleia Assassina 1997
+https://cdn2.oldflix.com.br/hls/movies/orca-a-baleia-assassina-/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Vamp - A Noite dos Vampiros 1986 Leg
+https://cdn2.oldflix.com.br/hls/movies/vamp-a-noite-dos-vampiros/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Apartamento 1303 2007
+https://cdn2.oldflix.com.br/hls/movies/apartamento1303/dublado_Oldflix_LF_MAR_16x9_480p/dublado_Oldflix_LF_MAR_16x9_480p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Papillon 1974
+https://cdn2.oldflix.com.br/hls/movies/papillon-/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Pacto de Silêncio 1991 Leg
+https://cdn2.oldflix.com.br/hls/movies/pacto-de-silencio-/legendado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Escapando do Inferno 2000
+https://cdn2.oldflix.com.br/hls/movies/escapando-do-inferno/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",A Mulher do Tenente Francês 1981
+https://cdn2.oldflix.com.br/hls/movies/a-mulher-do-tenente-frances/playback_dublado/playback_dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Amor em Dobro 1999
+https://cdn2.oldflix.com.br/hls/movies/amoremdobro/dublado_Oldflix_LF_MAR_4x3_480p/dublado_Oldflix_LF_MAR_4x3_480p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Alvo Móvel 1997
+https://cdn2.oldflix.com.br/hls/movies/alvomovel/dublado_Oldflix_LF_MAR_4x3_480p/dublado_Oldflix_LF_MAR_4x3_480p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Invasão U.S.A 1985
+https://cdn2.oldflix.com.br/hls/movies/invasao-usa/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",O Grande Dragão Branco 1988
+https://cdn2.oldflix.com.br/hls/movies/o-grande-dragao-branco/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="FILMES 1",Falcões da Noite 1981
+https://cdn2.oldflix.com.br/hls/movies/falcoes-da-noite/dublado.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Ídolos das Copas Vol.01 2007 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/idolosdascopas1/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Ídolos das Copas Vol.02 2007 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/idolosdascopas2/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Ídolos das Copas Vol.03 2007 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/idolosdascopas3/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Ídolos das Copas Vol.04 2007
+https://cdn2.oldflix.com.br/hls/documentarios/idolosdascopas4/original.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Michael Jackson - A Remarkable Life 2003 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/michaeljackson/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Madonna Exposed 1993 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/madonnaexposed/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Iron Maiden - The Legacy Of The Beast 2004 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/ironmaidenlegacy/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Em Busca da Arca de Noé 2001
+https://cdn2.oldflix.com.br/hls/documentarios/embuscadaarcadenoe/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Terremotos 1996
+https://cdn2.oldflix.com.br/hls/documentarios/terremotos/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",O Mistério de Da Vinci 2004
+https://cdn2.oldflix.com.br/hls/documentarios/osmisteriosdedavinci/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",O Milagre da Vida 1996
+https://cdn2.oldflix.com.br/hls/documentarios/omilagredavida/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Colisões Cosmicas 1996
+https://cdn2.oldflix.com.br/hls/documentarios/colisoescosmicas/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",A Maldição de Tutankamon
+https://cdn2.oldflix.com.br/hls/documentarios/tutankamon/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Viagem Fantástica Pelo Corpo Humano: Em Busca da Cura
+https://cdn2.oldflix.com.br/hls/documentarios/viagemfantasticapelocorpohumano/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",O Segredo da Vida na Terra Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/segredodavidanaterra/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Grandes Líderes da Segunda Guerra 1999
+https://cdn2.oldflix.com.br/hls/documentarios/grandeslideres/dublado.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Documentarios 2",Conspiração Bruce Lee 1980
+https://cdn2.oldflix.com.br/hls/movies/conspiracao-bruce-lee/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Estação Espacial 2000
+https://cdn2.oldflix.com.br/hls/documentarios/estacaoespacialadescoberta/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",A História de Adolf Hitler 2005
+https://cdn2.oldflix.com.br/hls/documentarios/ahistoriadeadolfhitler/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Rendição de Berlim 2008 Original
+https://cdn2.oldflix.com.br/hls/documentarios/rendicaodeberlim/original.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",A História Oculta do Terceiro Reich 1999 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/ahistoriaocultadoterceiroreich/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Prelúdio de uma Guerra 1942
+https://cdn2.oldflix.com.br/hls/documentarios/preludiodeumaguerra/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Batalha Da Inglaterra 1943
+https://cdn2.oldflix.com.br/hls/documentarios/batalhadainglaterra/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Minha Luta 1960 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/minhaluta/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",A Batalha por Midway 2001
+https://cdn2.oldflix.com.br/hls/documentarios/batalhademidway/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",A Invasão da Normandia 1945
+https://cdn2.oldflix.com.br/hls/documentarios/invasaodanormandia/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Batalha da Praia 2005
+https://cdn2.oldflix.com.br/hls/documentarios/batalhadapraia/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Batalha da Rússia 1943
+https://cdn2.oldflix.com.br/hls/documentarios/batalhadarussia/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Arquitetura da Destruição 1989 Legendado
+https://cdn2.oldflix.com.br/hls/documentarios/arquiteturadadestruicao/legendado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Segredos dos Exércitos Imperiais Chineses 2005
+https://cdn2.oldflix.com.br/hls/documentarios/chinaexercitos/dublado.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Documentarios 2",Batalha da China 1944
+https://cdn2.oldflix.com.br/hls/documentarios/batalhadachina/dublado.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Amor Mal Resolvido Simone & Simaria ft. Jorge & Matheus
+http://hls-video.vevo.com/v3/hls/2016/09/BRUV71600323/accc90d5-8f96-42a1-bfa2-d998c686d972/3200/bruv71600323_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Regime Fechado (Ao Vivo)Simone & Simaria
+http://hls-video.vevo.com/v3/hls/2016/10/BRUV71600313/f6abd624-db03-470d-ae75-235db89147bc/4200/bruv71600313_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",126 Cabides Simone & Simaria
+http://hls-video.vevo.com/v3/hls/2016/09/BRUV71600314/83350ff2-de5a-4bdf-964f-b0dbd1e96952/3200/bruv71600314_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",126 Cabides Simone & Simaria AO VIVO
+https://hls-video.vevo.com/v3/hls/2016/09/BRUV71600314/83350ff2-de5a-4bdf-964f-b0dbd1e96952/3200/bruv71600314_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Meu Violão E O Nosso Cachorro (Ao Vivo)Simone & Simaria
+http://hls-video.vevo.com/v3/hls/2016/10/BRUV71600330/2e7fec5f-783c-4171-a2b0-ec3447a5ff73/3200/bruv71600330_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Frank Aguiar & Simone & Simaria
+http://hls-video.vevo.com/v3/hls/2014/09/BRFRU1200020/273997cd-02a1-49b9-a643-3a2bf70d9aca/3200/brfru1200020_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Morango Do Nordeste Frank Aguiar & Luiz Carlos
+http://hls-video.vevo.com/v3/hls/2014/09/BRFRU1200006/5ee6dc9b-87f0-4923-a5b0-7f9519d5338b/3200/brfru1200006_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Quando O Mel É Bom (Ao Vivo)Simone & Simaria
+http://hls-video.vevo.com/v3/hls/2016/11/BRUV71600331/13ea68c9-88e6-4d28-93aa-4139b27d0fda/3200/bruv71600331_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Decide Aí - Na Praia Ao Vivo Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2016/02/BRUV71600026/20e8c62d-5ae0-47f7-8588-3cea226705e4/3200/bruv71600026_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",O Nosso Santo Bateu – Na Praia Ao Vivo Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2016/03/BRUV71600023/cbcdbde2-97c9-4718-9766-7d38460b31bb/3200/bruv71600023_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Que Sorte A Nossa Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2015/10/BRUV71500041/6d67376c-57b2-40a5-bf19-9ea250b095c0/3200/bruv71500041_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",A Rosa E O Beija-Flor - Na Praia Ao Vivo Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2016/01/BRUV71500343/84dbd92f-be40-4f9f-9615-0fa1b2ee558b/3200/bruv71500343_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Incerteza - Na Praia Ao Vivo Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2016/02/BRUV71600025/8fa9eca8-8473-445e-81c4-d78793f34e70/3200/bruv71600025_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Me Amar Amanhã - Na Praia Ao Vivo Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2016/02/BRUV71600032/63062e31-4d49-4849-8367-6845848d02c8/3200/bruv71600032_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Sou Ciumento Mesmo - Na Praia / Ao Vivo Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2016/09/BRUV71600030/a64c4638-2096-4fcf-80fa-6d9528f5b4f8/3200/bruv71600030_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Abelha Sem Mel Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2015/08/BRUXD1500069/ab61c708-809c-4f33-bbb7-9301f4d16ad4/3200/bruxd1500069_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Meu Melhor Erro Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2015/09/BRUXD1500074/540dcd8e-7706-450b-bca1-ed53aef3d7a1/3200/bruxd1500074_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Tô Melhor Solteiro Matheus & Kauan
+http://hls-video.vevo.com/v3/hls/2015/08/BRUXD1500072/f5e4239a-9e11-4378-a65b-bb765a121cc1/3200/bruxd1500072_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",E Essa Boca Aí?Bruninho & Davi ft. Luan Santana
+http://hls-video.vevo.com/v3/hls/2016/09/BXBDB1600030/21c51ead-9357-4d67-aa1c-42d883b7f3bb/4200/bxbdb1600030_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Imagina Com as Amigas Bruninho & Davi
+http://hls-video.vevo.com/v3/hls/2015/10/BRZDB1400018/caad849c-6d0a-447f-8e82-32b04aa7f4af/4200/brzdb1400018_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Beija-Flor Me Beija Bruninho & Davi
+http://hls-video.vevo.com/v3/hls/2016/10/BXBDB1600043/66b532cc-795f-4cac-8675-1f7692f7fe8d/3200/bxbdb1600043_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Emburradinha Henrique & Diego ft. Bruninho & Davi
+http://hls-video.vevo.com/v3/hls/2016/09/BRSME1401220/bb99797b-3dbf-4037-ab90-435d84648334/3200/brsme1401220_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Suíte 14 Henrique & Diego ft. Mc Guimê
+http://hls-video.vevo.com/v3/hls/2015/10/BRSME1401205/08e8852e-37f5-4c3b-9d2f-c4f3936d1acd/3200/brsme1401205_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Senha do Celular Henrique & Diego
+http://hls-video.vevo.com/v3/hls/2016/06/BRSME1401211/7823c240-9792-44a0-aadb-d98a7793b2c6/4200/brsme1401211_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Esqueci Você Henrique & Diego
+http://hls-video.vevo.com/v3/hls/2014/12/BRSME1401219/2d6ea2fd-c6ac-4bec-bc52-2379eb2943e4/4200/brsme1401219_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Cem Mil Vidas Henrique & Diego
+http://hls-video.vevo.com/v3/hls/2014/09/BRSME1300175/b687ab4b-972f-49c2-8008-e378a9ce3007/3200/brsme1300175_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Chitãozinho e Xororó & Fernando & Sorocaba
+http://hls-video.vevo.com/v3/hls/2014/09/BRCHX1300018/e7eddb05-c7d1-403d-adef-d0abd97349e9/3200/brchx1300018_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Até Ex Duvida Day & Lara ft. Maiara & Maraisa
+http://hls-video.vevo.com/v3/hls/2016/09/BRSME1600643/fca393ca-445a-43fa-afc5-7fca573b5760/4200/brsme1600643_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Paula Fernandes: Sensações
+http://hls-video.vevo.com/v3/hls/2015/09/BRUV71500112/47dd052c-0014-4517-b741-9b09f627446a/4200/bruv71500112_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Cartas No Porão (Ao Vivo)Paula Fernandes
+http://hls-video.vevo.com/v3/hls/2016/10/BRUV71600284/5a818602-fa64-4662-bb5c-4d62f0b072e1/4200/bruv71600284_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Peguei A Viola / Sorriso Mudo Paula Fernandes
+http://hls-video.vevo.com/v3/hls/2014/09/BRUV71300178/da0f1f7a-1ea2-4575-88f9-7b753568b626/4200/bruv71300178_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Piração Paula Fernandes
+http://hls-video.vevo.com/v3/hls/2016/01/BRUV71600010/af6e2acc-785a-4a61-9f11-564c0d13efe4/4200/bruv71600010_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",O Mundo É Tão Pequeno Jorge & Mateus
+http://hls-video.vevo.com/v3/hls/2014/09/BRUV70900418/6e826382-f28a-4adb-8a6c-7f114f5a576d/3200/bruv70900418_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Amor Não É Jogo De Azar Jorge & Mateus
+http://hls-video.vevo.com/v3/hls/2014/09/BRUV70900417/9066120a-d5af-4fd8-a498-b3fcd5cab00a/4200/bruv70900417_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Cê Volta Jorge & Mateus
+http://hls-video.vevo.com/v3/hls/2016/06/BRUV70900420/c4fc7aa9-fb01-40d5-92ae-f2e44a96cd54/4200/bruv70900420_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Espelho Jorge & Mateus
+http://hls-video.vevo.com/v3/hls/2014/09/BRUV70900439/28a9f5d5-395b-4cd2-8a97-a15f7924a0c7/4200/bruv70900439_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Talismã / Temporal de Amor / Solidão Leonardo ft. Gusttavo Lima
+http://hls-video.vevo.com/v3/hls/2016/03/BRTLW1400027/6f3729eb-fa7b-4c5c-bb9e-a6e7b39c2fc0/3200/brtlw1400027_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Pra Ficar Tudo Certo Zé Ricardo & Thiago ft. Gusttavo Lima
+http://hls-video.vevo.com/v3/hls/2015/10/BRTLW1500051/471f95c7-0150-42ce-bc11-6e9ac29952d5/4200/brtlw1500051_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",Festa Boa Henrique & Diego ft. Gusttavo Lima
+http://hls-video.vevo.com/v3/hls/2014/09/BRSME1300029/af25379b-5c7a-4ff5-8520-9644e811fb21/3200/brsme1300029_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SERTANEJO",O Portão Zezé Di Camargo & Luciano
+http://hls-video.vevo.com/v3/hls/2015/09/BRAPF1000034/1fb2c689-b106-4120-abab-0355c39c0eb5/3200/brapf1000034_3200k_1280x720_h264_3200_aac_128.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="POP",Deu a Louca (Com Rap)Turma do Pagode ft. Mc Guimê
+http://hls-video.vevo.com/v3/hls/2014/11/BRSME1400209/7f863b61-8192-4027-86a3-883e9b3a045d/4200/brsme1400209_4200k_1920x1080_h264_4200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="POP",Zero A Dez Ivete Sangalo ft. Luan Santana
+http://hls-video.vevo.com/v3/hls/2016/09/BRUV71600273/1e9f8d12-1c0a-40e1-a146-b6463daac7fc/3200/bruv71600273_3200k_1280x720_h264_3200_aac_128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="POP",Bailando (Enrique Iglesias feat. Luan Santana) Portuguese Version
+http://hls-video.vevo.com/v3/hls/2015/07/GBUV71400769/642d3128-cc43-47c5-a516-7d42228babcf/3200/gbuv71400769_3200k_1280x720_h264_3200_aac_128.m3u8
