@@ -1,0 +1,1114 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",A&E FHD
+http://purpleserver.net:80/venancio/venancio/18858
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",A&E HD
+http://purpleserver.net:80/venancio/venancio/18738
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",A&E SD
+http://purpleserver.net:80/venancio/venancio/18739
+#EXTINF:0 tvg-id="Amchd.br" group-title="Channels",AMC FHD
+http://purpleserver.net:80/venancio/venancio/18857
+#EXTINF:0 tvg-id="Amchd.br" group-title="Channels",AMC HD
+http://purpleserver.net:80/venancio/venancio/18736
+#EXTINF:0 tvg-id="Amc.br" group-title="Channels",AMC SD
+http://purpleserver.net:80/venancio/venancio/18737
+#EXTINF:0 tvg-id="Axnhd.br" group-title="Channels",AXN FHD
+http://purpleserver.net:80/venancio/venancio/18854
+#EXTINF:0 tvg-id="Axnhd.br" group-title="Channels",AXN HD
+http://purpleserver.net:80/venancio/venancio/18730
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18325
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",AXN SD
+http://purpleserver.net:80/venancio/venancio/18731
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18324
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",Animal Planet FHD
+http://purpleserver.net:80/venancio/venancio/18856
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",Animal Planet HD
+http://purpleserver.net:80/venancio/venancio/18734
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",Animal Planet SD
+http://purpleserver.net:80/venancio/venancio/18735
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arte 1 FHD
+http://purpleserver.net:80/venancio/venancio/18855
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arte 1 HD
+http://purpleserver.net:80/venancio/venancio/18732
+#EXTINF:0 tvg-id="Arte1.br" group-title="Channels",Arte 1 SD
+http://purpleserver.net:80/venancio/venancio/18733
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB 1 FHD
+http://purpleserver.net:80/venancio/venancio/18746
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB 1 HD
+http://purpleserver.net:80/venancio/venancio/18483
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB 1 SD
+http://purpleserver.net:80/venancio/venancio/18482
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB 2 FHD
+http://purpleserver.net:80/venancio/venancio/18742
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB 2 HD
+http://purpleserver.net:80/venancio/venancio/18481
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB 2 SD
+http://purpleserver.net:80/venancio/venancio/18480
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB Mosaico FHD
+http://purpleserver.net:80/venancio/venancio/18741
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB Mosaico HD
+http://purpleserver.net:80/venancio/venancio/18479
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB Mosaico SD
+http://purpleserver.net:80/venancio/venancio/18478
+#EXTINF:0 tvg-id="BabyTV.br" group-title="Channels",BabyTV SD
+http://purpleserver.net:80/venancio/venancio/18729
+#EXTINF:0 tvg-id="ext" group-title="Channels",Band SP FHD
+http://purpleserver.net:80/venancio/venancio/18786
+#EXTINF:0 tvg-id="ext" group-title="Channels",Band SP HD
+http://purpleserver.net:80/venancio/venancio/18727
+#EXTINF:0 tvg-id="Bandsp.br" group-title="Channels",Band SP SD
+http://purpleserver.net:80/venancio/venancio/18728
+#EXTINF:0 tvg-id="ext" group-title="Channels",BandNews FHD
+http://purpleserver.net:80/venancio/venancio/18853
+#EXTINF:0 tvg-id="ext" group-title="Channels",BandNews HD
+http://purpleserver.net:80/venancio/venancio/18725
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",BandNews SD
+http://purpleserver.net:80/venancio/venancio/18726
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BandSports FHD
+http://purpleserver.net:80/venancio/venancio/18852
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BandSports HD
+http://purpleserver.net:80/venancio/venancio/18723
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BandSports SD
+http://purpleserver.net:80/venancio/venancio/18724
+#EXTINF:0 tvg-id="Bishd.br" group-title="Channels",Bis FHD
+http://purpleserver.net:80/venancio/venancio/18785
+#EXTINF:0 tvg-id="Bishd.br" group-title="Channels",Bis HD
+http://purpleserver.net:80/venancio/venancio/18721
+#EXTINF:0 tvg-id="Bis.br" group-title="Channels",Bis SD
+http://purpleserver.net:80/venancio/venancio/18722
+#EXTINF:0 tvg-id="Boomeranghd.br" group-title="Channels",Boomerang FHD
+http://purpleserver.net:80/venancio/venancio/18851
+#EXTINF:0 tvg-id="Boomeranghd.br" group-title="Channels",Boomerang HD
+http://purpleserver.net:80/venancio/venancio/18718
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Channels",Boomerang SD
+http://purpleserver.net:80/venancio/venancio/18719
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campeonato Catarinense 1 HD
+http://purpleserver.net:80/venancio/venancio/18451
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campeonato Catarinense 1 SD
+http://purpleserver.net:80/venancio/venancio/18450
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campeonato Catarinense 2 HD
+http://purpleserver.net:80/venancio/venancio/18449
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campeonato Catarinense 2 SD
+http://purpleserver.net:80/venancio/venancio/18448
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campeonato Catarinense 3 HD
+http://purpleserver.net:80/venancio/venancio/18447
+#EXTINF:0 tvg-id="ext" group-title="Channels",Campeonato Catarinense 3 SD
+http://purpleserver.net:80/venancio/venancio/18446
+#EXTINF:0 tvg-id="Canalbrasilhd.br" group-title="Channels",Canal Brasil FHD
+http://purpleserver.net:80/venancio/venancio/18753
+#EXTINF:0 tvg-id="Canalbrasilhd.br" group-title="Channels",Canal Brasil HD
+http://purpleserver.net:80/venancio/venancio/18716
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",Canal Brasil SD
+http://purpleserver.net:80/venancio/venancio/18717
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="Channels",Cancao Nova SD
+http://purpleserver.net:80/venancio/venancio/18713
+#EXTINF:0 tvg-id="Cartoonnetworkhd.br" group-title="Channels",Cartoon Network FHD
+http://purpleserver.net:80/venancio/venancio/18849
+#EXTINF:0 tvg-id="Cartoonnetworkhd.br" group-title="Channels",Cartoon Network HD
+http://purpleserver.net:80/venancio/venancio/18711
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="Channels",Cartoon Network SD
+http://purpleserver.net:80/venancio/venancio/18712
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",Cinemax FHD
+http://purpleserver.net:80/venancio/venancio/18848
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",Cinemax HD
+http://purpleserver.net:80/venancio/venancio/18709
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",Cinemax SD
+http://purpleserver.net:80/venancio/venancio/18710
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate 4K
+http://purpleserver.net:80/venancio/venancio/18437
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate FHD
+http://purpleserver.net:80/venancio/venancio/18784
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate HD
+http://purpleserver.net:80/venancio/venancio/18707
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate SD
+http://purpleserver.net:80/venancio/venancio/18708
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central FHD
+http://purpleserver.net:80/venancio/venancio/18847
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central HD
+http://purpleserver.net:80/venancio/venancio/18705
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="Channels",Comedy Central SD
+http://purpleserver.net:80/venancio/venancio/18706
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa Nordeste 1 HD
+http://purpleserver.net:80/venancio/venancio/18477
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa Nordeste 1 SD
+http://purpleserver.net:80/venancio/venancio/18476
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa Nordeste 2 HD
+http://purpleserver.net:80/venancio/venancio/18475
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa Nordeste 2 SD
+http://purpleserver.net:80/venancio/venancio/18474
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa Nordeste 3 HD
+http://purpleserver.net:80/venancio/venancio/18473
+#EXTINF:0 tvg-id="ext" group-title="Channels",Copa Nordeste 3 SD
+http://purpleserver.net:80/venancio/venancio/18472
+#EXTINF:0 tvg-id="ext" group-title="Channels",Curta! FHD
+http://purpleserver.net:80/venancio/venancio/18846
+#EXTINF:0 tvg-id="ext" group-title="Channels",Curta! HD
+http://purpleserver.net:80/venancio/venancio/18703
+#EXTINF:0 tvg-id="ext" group-title="Channels",Curta! SD
+http://purpleserver.net:80/venancio/venancio/18704
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD
+http://purpleserver.net:80/venancio/venancio/18867
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 HD
+http://purpleserver.net:80/venancio/venancio/18864
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="Channels",DAZN 1 SD
+http://purpleserver.net:80/venancio/venancio/18863
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 FHD
+http://purpleserver.net:80/venancio/venancio/18866
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 HD
+http://purpleserver.net:80/venancio/venancio/18862
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 SD
+http://purpleserver.net:80/venancio/venancio/18861
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 3 FHD
+http://purpleserver.net:80/venancio/venancio/18865
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 3 HD
+http://purpleserver.net:80/venancio/venancio/18860
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 3 SD
+http://purpleserver.net:80/venancio/venancio/18859
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",Discovery Channel FHD
+http://purpleserver.net:80/venancio/venancio/18783
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",Discovery Channel HD
+http://purpleserver.net:80/venancio/venancio/18701
+#EXTINF:0 tvg-id="Discovery.br" group-title="Channels",Discovery Channel SD
+http://purpleserver.net:80/venancio/venancio/18702
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Civilization FHD
+http://purpleserver.net:80/venancio/venancio/18845
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Civilization HD
+http://purpleserver.net:80/venancio/venancio/18699
+#EXTINF:0 tvg-id="DiscoveryCivilization.br" group-title="Channels",Discovery Civilization SD
+http://purpleserver.net:80/venancio/venancio/18700
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery H&H FHD
+http://purpleserver.net:80/venancio/venancio/18844
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery H&H HD
+http://purpleserver.net:80/venancio/venancio/18697
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",Discovery H&H SD
+http://purpleserver.net:80/venancio/venancio/18698
+#EXTINF:0 tvg-id="Discoverykidshd.br" group-title="Channels",Discovery Kids FHD
+http://purpleserver.net:80/venancio/venancio/18843
+#EXTINF:0 tvg-id="Discoverykidshd.br" group-title="Channels",Discovery Kids HD
+http://purpleserver.net:80/venancio/venancio/18695
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="Channels",Discovery Kids SD
+http://purpleserver.net:80/venancio/venancio/18696
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",Discovery Science FHD
+http://purpleserver.net:80/venancio/venancio/18842
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",Discovery Science HD
+http://purpleserver.net:80/venancio/venancio/18693
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Channels",Discovery Science SD
+http://purpleserver.net:80/venancio/venancio/18694
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="Channels",Discovery Theater FHD
+http://purpleserver.net:80/venancio/venancio/18841
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="Channels",Discovery Theater HD
+http://purpleserver.net:80/venancio/venancio/18691
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="Channels",Discovery Theater SD
+http://purpleserver.net:80/venancio/venancio/18692
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",Discovery Turbo FHD
+http://purpleserver.net:80/venancio/venancio/18840
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",Discovery Turbo HD
+http://purpleserver.net:80/venancio/venancio/18689
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",Discovery Turbo SD
+http://purpleserver.net:80/venancio/venancio/18690
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="Channels",Discovery World FHD
+http://purpleserver.net:80/venancio/venancio/18839
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="Channels",Discovery World HD
+http://purpleserver.net:80/venancio/venancio/18687
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="Channels",Discovery World SD
+http://purpleserver.net:80/venancio/venancio/18688
+#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Channels",Disney FHD
+http://purpleserver.net:80/venancio/venancio/18782
+#EXTINF:0 tvg-id="Disneychannelhd.br" group-title="Channels",Disney HD
+http://purpleserver.net:80/venancio/venancio/18685
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Channels",Disney Jr FHD
+http://purpleserver.net:80/venancio/venancio/18788
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Channels",Disney Jr HD
+http://purpleserver.net:80/venancio/venancio/18509
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="Channels",Disney Jr SD
+http://purpleserver.net:80/venancio/venancio/18684
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="Channels",Disney SD
+http://purpleserver.net:80/venancio/venancio/18686
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="Channels",Disney XD SD
+http://purpleserver.net:80/venancio/venancio/18683
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E! FHD
+http://purpleserver.net:80/venancio/venancio/18838
+#EXTINF:0 tvg-id="E.uk" group-title="Channels",E! HD
+http://purpleserver.net:80/venancio/venancio/18681
+#EXTINF:0 tvg-id="E.br" group-title="Channels",E! SD
+http://purpleserver.net:80/venancio/venancio/18682
+#EXTINF:0 tvg-id="ext" group-title="Channels",EI Plus 2 HD
+http://purpleserver.net:80/venancio/venancio/18443
+#EXTINF:0 tvg-id="ext" group-title="Channels",EI Plus 2 SD
+http://purpleserver.net:80/venancio/venancio/18442
+#EXTINF:0 tvg-id="ext" group-title="Channels",EI Plus 3 HD
+http://purpleserver.net:80/venancio/venancio/18441
+#EXTINF:0 tvg-id="ext" group-title="Channels",EI Plus 3 SD
+http://purpleserver.net:80/venancio/venancio/18440
+#EXTINF:0 tvg-id="ext" group-title="Channels",EI Plus HD
+http://purpleserver.net:80/venancio/venancio/18445
+#EXTINF:0 tvg-id="ext" group-title="Channels",EI Plus SD
+http://purpleserver.net:80/venancio/venancio/18444
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 FHD
+http://purpleserver.net:80/venancio/venancio/18837
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Channels",ESPN 2 HD
+http://purpleserver.net:80/venancio/venancio/18678
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2 SD
+http://purpleserver.net:80/venancio/venancio/18679
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="Channels",ESPN Brasil FHD
+http://purpleserver.net:80/venancio/venancio/18781
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="Channels",ESPN Brasil HD
+http://purpleserver.net:80/venancio/venancio/18676
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="Channels",ESPN Brasil SD
+http://purpleserver.net:80/venancio/venancio/18677
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN Extra FHD
+http://purpleserver.net:80/venancio/venancio/18836
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN Extra HD
+http://purpleserver.net:80/venancio/venancio/18674
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Channels",ESPN Extra SD
+http://purpleserver.net:80/venancio/venancio/18675
+#EXTINF:0 tvg-id="Espnhd.br" group-title="Channels",ESPN FHD
+http://purpleserver.net:80/venancio/venancio/18780
+#EXTINF:0 tvg-id="Espnhd.br" group-title="Channels",ESPN HD
+http://purpleserver.net:80/venancio/venancio/18673
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN SD
+http://purpleserver.net:80/venancio/venancio/18680
+#EXTINF:0 tvg-id="Fxhd.br" group-title="Channels",FX FHD
+http://purpleserver.net:80/venancio/venancio/18829
+#EXTINF:0 tvg-id="Fxhd.br" group-title="Channels",FX HD
+http://purpleserver.net:80/venancio/venancio/18653
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18303
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX SD
+http://purpleserver.net:80/venancio/venancio/18654
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18302
+#EXTINF:0 tvg-id="FilmArts.br" group-title="Channels",Film & Arts SD
+http://purpleserver.net:80/venancio/venancio/18497
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",Fish TV FHD
+http://purpleserver.net:80/venancio/venancio/18835
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",Fish TV HD
+http://purpleserver.net:80/venancio/venancio/18671
+#EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",Fish TV SD
+http://purpleserver.net:80/venancio/venancio/18672
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Channels",Food Network FHD
+http://purpleserver.net:80/venancio/venancio/18834
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Channels",Food Network HD
+http://purpleserver.net:80/venancio/venancio/18669
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="Channels",Food Network SD
+http://purpleserver.net:80/venancio/venancio/18670
+#EXTINF:0 tvg-id="Foxhd.br" group-title="Channels",Fox FHD
+http://purpleserver.net:80/venancio/venancio/18779
+#EXTINF:0 tvg-id="Foxhd.br" group-title="Channels",Fox HD
+http://purpleserver.net:80/venancio/venancio/18667
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18323
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life FHD
+http://purpleserver.net:80/venancio/venancio/18833
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
+http://purpleserver.net:80/venancio/venancio/18665
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Channels",Fox Life SD
+http://purpleserver.net:80/venancio/venancio/18666
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Channels",Fox Premium 1 FHD
+http://purpleserver.net:80/venancio/venancio/18832
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Channels",Fox Premium 1 HD
+http://purpleserver.net:80/venancio/venancio/18663
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="Channels",Fox Premium 1 SD
+http://purpleserver.net:80/venancio/venancio/18664
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Channels",Fox Premium 2 FHD
+http://purpleserver.net:80/venancio/venancio/18831
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Channels",Fox Premium 2 HD
+http://purpleserver.net:80/venancio/venancio/18661
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="Channels",Fox Premium 2 SD
+http://purpleserver.net:80/venancio/venancio/18662
+#EXTINF:0 tvg-id="Fox.br" group-title="Channels",Fox SD
+http://purpleserver.net:80/venancio/venancio/18668
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18322
+#EXTINF:0 tvg-id="Foxsports2hd.br" group-title="Channels",Fox Sports 2 FHD
+http://purpleserver.net:80/venancio/venancio/18778
+#EXTINF:0 tvg-id="Foxsports2hd.br" group-title="Channels",Fox Sports 2 HD
+http://purpleserver.net:80/venancio/venancio/18657
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",Fox Sports 2 SD
+http://purpleserver.net:80/venancio/venancio/18658
+#EXTINF:0 tvg-id="Foxsportshd.br" group-title="Channels",Fox Sports FHD
+http://purpleserver.net:80/venancio/venancio/18777
+#EXTINF:0 tvg-id="Foxsportshd.br" group-title="Channels",Fox Sports HD
+http://purpleserver.net:80/venancio/venancio/18659
+#EXTINF:0 tvg-id="Foxsports.br" group-title="Channels",Fox Sports SD
+http://purpleserver.net:80/venancio/venancio/18660
+#EXTINF:0 tvg-id="Futura.br" group-title="Channels",Futura FHD
+http://purpleserver.net:80/venancio/venancio/18830
+#EXTINF:0 tvg-id="Futura.br" group-title="Channels",Futura HD
+http://purpleserver.net:80/venancio/venancio/18655
+#EXTINF:0 tvg-id="Futura.br" group-title="Channels",Futura SD
+http://purpleserver.net:80/venancio/venancio/18656
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RPC Foz do Iguacu FHD
+http://purpleserver.net:80/venancio/venancio/18390
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RPC Foz do Iguacu HD
+http://purpleserver.net:80/venancio/venancio/18389
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RPC Foz do Iguacu SD
+http://purpleserver.net:80/venancio/venancio/18391
+#EXTINF:0 tvg-id="Gnthd.br" group-title="Channels",GNT FHD
+http://purpleserver.net:80/venancio/venancio/18827
+#EXTINF:0 tvg-id="Gnthd.br" group-title="Channels",GNT HD
+http://purpleserver.net:80/venancio/venancio/18645
+#EXTINF:0 tvg-id="Gnt.br" group-title="Channels",GNT SD
+http://purpleserver.net:80/venancio/venancio/18646
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Brasilia FHD
+http://purpleserver.net:80/venancio/venancio/18379
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Brasilia HD
+http://purpleserver.net:80/venancio/venancio/18434
+#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="Channels",Globo Brasilia SD
+http://purpleserver.net:80/venancio/venancio/18435
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Araraquara SD
+http://purpleserver.net:80/venancio/venancio/18433
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Campinas FHD
+http://purpleserver.net:80/venancio/venancio/18378
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Campinas HD
+http://purpleserver.net:80/venancio/venancio/18431
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Campinas SD
+http://purpleserver.net:80/venancio/venancio/18432
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Ribeirao Preto FHD
+http://purpleserver.net:80/venancio/venancio/18359
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Ribeirao Preto HD
+http://purpleserver.net:80/venancio/venancio/18430
+#EXTINF:0 tvg-id="GloboEPTVRibeiraoPreto.br" group-title="Channels",Globo EPTV Ribeirao Preto SD
+http://purpleserver.net:80/venancio/venancio/18429
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Sao Carlos SD
+http://purpleserver.net:80/venancio/venancio/18428
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Alto Litoral FHD
+http://purpleserver.net:80/venancio/venancio/18358
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Alto Litoral HD
+http://purpleserver.net:80/venancio/venancio/18357
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Alto Litoral SD
+http://purpleserver.net:80/venancio/venancio/18356
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Grande Minas FHD
+http://purpleserver.net:80/venancio/venancio/18352
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Grande Minas HD
+http://purpleserver.net:80/venancio/venancio/18351
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Grande Minas SD
+http://purpleserver.net:80/venancio/venancio/18350
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Natal SD
+http://purpleserver.net:80/venancio/venancio/18427
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Serra Mar FHD
+http://purpleserver.net:80/venancio/venancio/18349
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Serra Mar HD
+http://purpleserver.net:80/venancio/venancio/18348
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV Serra Mar SD
+http://purpleserver.net:80/venancio/venancio/18347
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV dos Vales FHD
+http://purpleserver.net:80/venancio/venancio/18355
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV dos Vales HD
+http://purpleserver.net:80/venancio/venancio/18354
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Inter TV dos Vales SD
+http://purpleserver.net:80/venancio/venancio/18353
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Minas FHD
+http://purpleserver.net:80/venancio/venancio/18377
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Minas HD
+http://purpleserver.net:80/venancio/venancio/18425
+#EXTINF:0 tvg-id="Globominas.br" group-title="Channels",Globo Minas SD
+http://purpleserver.net:80/venancio/venancio/18426
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Blumenau FHD
+http://purpleserver.net:80/venancio/venancio/18346
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Blumenau HD
+http://purpleserver.net:80/venancio/venancio/18345
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Blumenau SD
+http://purpleserver.net:80/venancio/venancio/18344
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Chapeco FHD
+http://purpleserver.net:80/venancio/venancio/18394
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Chapeco HD
+http://purpleserver.net:80/venancio/venancio/18393
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Chapeco SD
+http://purpleserver.net:80/venancio/venancio/18392
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Florianopolis FHD
+http://purpleserver.net:80/venancio/venancio/18375
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Florianopolis HD
+http://purpleserver.net:80/venancio/venancio/18421
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Florianopolis SD
+http://purpleserver.net:80/venancio/venancio/18422
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Joinville FHD
+http://purpleserver.net:80/venancio/venancio/18340
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Joinville HD
+http://purpleserver.net:80/venancio/venancio/18339
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo NSC TV Joinville SD
+http://purpleserver.net:80/venancio/venancio/18338
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="Channels",Globo News FHD
+http://purpleserver.net:80/venancio/venancio/18776
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="Channels",Globo News HD
+http://purpleserver.net:80/venancio/venancio/18651
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",Globo News SD
+http://purpleserver.net:80/venancio/venancio/18652
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Nordeste FHD
+http://purpleserver.net:80/venancio/venancio/18376
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Nordeste HD
+http://purpleserver.net:80/venancio/venancio/18423
+#EXTINF:0 tvg-id="Globonordeste.br" group-title="Channels",Globo Nordeste SD
+http://purpleserver.net:80/venancio/venancio/18424
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS Porto Alegre FHD
+http://purpleserver.net:80/venancio/venancio/18374
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS TV Caxias do Sul FHD
+http://purpleserver.net:80/venancio/venancio/18343
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS TV Caxias do Sul HD
+http://purpleserver.net:80/venancio/venancio/18342
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS TV Caxias do Sul SD
+http://purpleserver.net:80/venancio/venancio/18341
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS TV Pelotas FHD
+http://purpleserver.net:80/venancio/venancio/18337
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS TV Pelotas HD
+http://purpleserver.net:80/venancio/venancio/18336
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS TV Pelotas SD
+http://purpleserver.net:80/venancio/venancio/18335
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RBS TV Porto Alegre HD
+http://purpleserver.net:80/venancio/venancio/18419
+#EXTINF:0 tvg-id="GloboPortoAlegre.br" group-title="Channels",Globo RBS TV Porto Alegre SD
+http://purpleserver.net:80/venancio/venancio/18420
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",Globo RJ FHD
+http://purpleserver.net:80/venancio/venancio/18415
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",Globo RJ HD
+http://purpleserver.net:80/venancio/venancio/18416
+#EXTINF:0 tvg-id="Globorj.br" group-title="Channels",Globo RJ SD
+http://purpleserver.net:80/venancio/venancio/18417
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RPC Curitiba FHD
+http://purpleserver.net:80/venancio/venancio/18412
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RPC Curitiba HD
+http://purpleserver.net:80/venancio/venancio/18413
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo RPC Curitiba SD
+http://purpleserver.net:80/venancio/venancio/18414
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Rede Amazonas Manaus SD
+http://purpleserver.net:80/venancio/venancio/18418
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP 4K
+http://purpleserver.net:80/venancio/venancio/18436
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP FHD
+http://purpleserver.net:80/venancio/venancio/18409
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP HD
+http://purpleserver.net:80/venancio/venancio/18410
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP SD
+http://purpleserver.net:80/venancio/venancio/18411
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Anhanguera FHD
+http://purpleserver.net:80/venancio/venancio/18373
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Anhanguera HD
+http://purpleserver.net:80/venancio/venancio/18407
+#EXTINF:0 tvg-id="GloboAnhangueraGoias.br" group-title="Channels",Globo TV Anhanguera SD
+http://purpleserver.net:80/venancio/venancio/18408
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Bahia FHD
+http://purpleserver.net:80/venancio/venancio/18372
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Bahia HD
+http://purpleserver.net:80/venancio/venancio/18405
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Bahia SD
+http://purpleserver.net:80/venancio/venancio/18406
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV C. America Cuiaba SD
+http://purpleserver.net:80/venancio/venancio/18404
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Cabo Branco FHD
+http://purpleserver.net:80/venancio/venancio/18334
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Cabo Branco HD
+http://purpleserver.net:80/venancio/venancio/18333
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Cabo Branco SD
+http://purpleserver.net:80/venancio/venancio/18332
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Clube Teresina FHD
+http://purpleserver.net:80/venancio/venancio/18387
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Clube Teresina HD
+http://purpleserver.net:80/venancio/venancio/18386
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Clube Teresina SD
+http://purpleserver.net:80/venancio/venancio/18388
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Diario Fortaleza FHD
+http://purpleserver.net:80/venancio/venancio/18740
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Diario Fortaleza HD
+http://purpleserver.net:80/venancio/venancio/18490
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Diario Fortaleza SD
+http://purpleserver.net:80/venancio/venancio/18489
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Alagoas FHD
+http://purpleserver.net:80/venancio/venancio/18363
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Alagoas HD
+http://purpleserver.net:80/venancio/venancio/18362
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Alagoas SD
+http://purpleserver.net:80/venancio/venancio/18364
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Sul ES FHD
+http://purpleserver.net:80/venancio/venancio/18361
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Sul ES HD
+http://purpleserver.net:80/venancio/venancio/18360
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Vitoria FHD
+http://purpleserver.net:80/venancio/venancio/18384
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Vitoria HD
+http://purpleserver.net:80/venancio/venancio/18383
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Gazeta Vitoria SD
+http://purpleserver.net:80/venancio/venancio/18385
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Liberal Belem SD
+http://purpleserver.net:80/venancio/venancio/18403
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Mirante Sao Luis FHD
+http://purpleserver.net:80/venancio/venancio/18371
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Mirante Sao Luis HD
+http://purpleserver.net:80/venancio/venancio/18370
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Mirante Sao Luis SD
+http://purpleserver.net:80/venancio/venancio/18369
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Moreno Campo Grande FHD
+http://purpleserver.net:80/venancio/venancio/18368
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Moreno Campo Grande HD
+http://purpleserver.net:80/venancio/venancio/18367
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Moreno Campo Grande SD
+http://purpleserver.net:80/venancio/venancio/18366
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Rio Sul FHD
+http://purpleserver.net:80/venancio/venancio/18331
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Rio Sul HD
+http://purpleserver.net:80/venancio/venancio/18330
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Rio Sul SD
+http://purpleserver.net:80/venancio/venancio/18329
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Santa Cruz FHD
+http://purpleserver.net:80/venancio/venancio/18328
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Santa Cruz HD
+http://purpleserver.net:80/venancio/venancio/18327
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Santa Cruz SD
+http://purpleserver.net:80/venancio/venancio/18326
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Sergipe FHD
+http://purpleserver.net:80/venancio/venancio/18381
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Sergipe HD
+http://purpleserver.net:80/venancio/venancio/18380
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Sergipe SD
+http://purpleserver.net:80/venancio/venancio/18382
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV TEM Bauru SD
+http://purpleserver.net:80/venancio/venancio/18402
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV TEM S. J. Rio Preto FHD
+http://purpleserver.net:80/venancio/venancio/18365
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV TEM S. J. do Rio Preto HD
+http://purpleserver.net:80/venancio/venancio/18400
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV TEM S. J. do Rio Preto SD
+http://purpleserver.net:80/venancio/venancio/18399
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV TEM Sorocaba SD
+http://purpleserver.net:80/venancio/venancio/18401
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Tribuna Santas SD
+http://purpleserver.net:80/venancio/venancio/18398
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Vanguarda S. J. dos Campos SD
+http://purpleserver.net:80/venancio/venancio/18397
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Verdes Mares Fortaleza SD
+http://purpleserver.net:80/venancio/venancio/18396
+#EXTINF:0 tvg-id="Gloobhd.br" group-title="Channels",Gloob FHD
+http://purpleserver.net:80/venancio/venancio/18775
+#EXTINF:0 tvg-id="Gloobhd.br" group-title="Channels",Gloob HD
+http://purpleserver.net:80/venancio/venancio/18649
+#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",Gloob SD
+http://purpleserver.net:80/venancio/venancio/18650
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gloobinho FHD
+http://purpleserver.net:80/venancio/venancio/18828
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gloobinho HD
+http://purpleserver.net:80/venancio/venancio/18648
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gloobinho SD
+http://purpleserver.net:80/venancio/venancio/18647
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",H2 FHD
+http://purpleserver.net:80/venancio/venancio/18826
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",H2 HD
+http://purpleserver.net:80/venancio/venancio/18643
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",H2 SD
+http://purpleserver.net:80/venancio/venancio/18644
+#EXTINF:0 tvg-id="Hbo2hd.br" group-title="Channels",HBO 2 FHD
+http://purpleserver.net:80/venancio/venancio/18774
+#EXTINF:0 tvg-id="Hbo2hd.br" group-title="Channels",HBO 2 HD
+http://purpleserver.net:80/venancio/venancio/18640
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",HBO 2 SD
+http://purpleserver.net:80/venancio/venancio/18641
+#EXTINF:0 tvg-id="Hbohd.br" group-title="Channels",HBO FHD
+http://purpleserver.net:80/venancio/venancio/18773
+#EXTINF:0 tvg-id="Hbofamilyhd.br" group-title="Channels",HBO Family FHD
+http://purpleserver.net:80/venancio/venancio/18825
+#EXTINF:0 tvg-id="Hbofamilyhd.br" group-title="Channels",HBO Family HD
+http://purpleserver.net:80/venancio/venancio/18638
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family SD
+http://purpleserver.net:80/venancio/venancio/18639
+#EXTINF:0 tvg-id="Hbohd.br" group-title="Channels",HBO HD
+http://purpleserver.net:80/venancio/venancio/18637
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18321
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="Channels",HBO Plus FHD
+http://purpleserver.net:80/venancio/venancio/18824
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="Channels",HBO Plus HD
+http://purpleserver.net:80/venancio/venancio/18635
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Plus HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18319
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus SD
+http://purpleserver.net:80/venancio/venancio/18636
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Plus SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18318
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO SD
+http://purpleserver.net:80/venancio/venancio/18642
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18320
+#EXTINF:0 tvg-id="Hbosighd.br" group-title="Channels",HBO Signature FHD
+http://purpleserver.net:80/venancio/venancio/18823
+#EXTINF:0 tvg-id="Hbosighd.br" group-title="Channels",HBO Signature HD
+http://purpleserver.net:80/venancio/venancio/18633
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",HBO Signature SD
+http://purpleserver.net:80/venancio/venancio/18634
+#EXTINF:0 tvg-id="ext" group-title="Channels",HIT TV HD
+http://purpleserver.net:80/venancio/venancio/2513
+#EXTINF:0 tvg-id="Historychannelhd.br" group-title="Channels",History Channel FHD
+http://purpleserver.net:80/venancio/venancio/18822
+#EXTINF:0 tvg-id="Historychannelhd.br" group-title="Channels",History Channel HD
+http://purpleserver.net:80/venancio/venancio/18631
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",History Channel SD
+http://purpleserver.net:80/venancio/venancio/18632
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID: Investigacao Discovery FHD
+http://purpleserver.net:80/venancio/venancio/18821
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID: Investigacao Discovery HD
+http://purpleserver.net:80/venancio/venancio/18629
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="Channels",ID: Investigacao Discovery SD
+http://purpleserver.net:80/venancio/venancio/18630
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime FHD
+http://purpleserver.net:80/venancio/venancio/18820
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime HD
+http://purpleserver.net:80/venancio/venancio/18627
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime SD
+http://purpleserver.net:80/venancio/venancio/18628
+#EXTINF:0 tvg-id="Mtvhd.br" group-title="Channels",MTV FHD
+http://purpleserver.net:80/venancio/venancio/18815
+#EXTINF:0 tvg-id="Mtvhd.br" group-title="Channels",MTV HD
+http://purpleserver.net:80/venancio/venancio/18615
+#EXTINF:0 tvg-id="MTVLiveHD.eu" group-title="Channels",MTV Live FHD
+http://purpleserver.net:80/venancio/venancio/18814
+#EXTINF:0 tvg-id="MTVLiveHD.eu" group-title="Channels",MTV Live HD
+http://purpleserver.net:80/venancio/venancio/18507
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",MTV Live SD
+http://purpleserver.net:80/venancio/venancio/18508
+#EXTINF:0 tvg-id="Mtv.br" group-title="Channels",MTV SD
+http://purpleserver.net:80/venancio/venancio/18616
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mais GloboSat FHD
+http://purpleserver.net:80/venancio/venancio/18754
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mais GloboSat HD
+http://purpleserver.net:80/venancio/venancio/18625
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mais GloboSat SD
+http://purpleserver.net:80/venancio/venancio/18626
+#EXTINF:0 tvg-id="Max.br" group-title="Channels",Max FHD
+http://purpleserver.net:80/venancio/venancio/18819
+#EXTINF:0 tvg-id="Max.br" group-title="Channels",Max HD
+http://purpleserver.net:80/venancio/venancio/18623
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Channels",Max Prime FHD
+http://purpleserver.net:80/venancio/venancio/18818
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="Channels",Max Prime HD
+http://purpleserver.net:80/venancio/venancio/18621
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",Max Prime SD
+http://purpleserver.net:80/venancio/venancio/18622
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max Prime SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18317
+#EXTINF:0 tvg-id="Max.br" group-title="Channels",Max SD
+http://purpleserver.net:80/venancio/venancio/18624
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18316
+#EXTINF:0 tvg-id="Maxup.br" group-title="Channels",Max UP FHD
+http://purpleserver.net:80/venancio/venancio/18817
+#EXTINF:0 tvg-id="Maxup.br" group-title="Channels",Max UP HD
+http://purpleserver.net:80/venancio/venancio/18619
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max UP HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18301
+#EXTINF:0 tvg-id="Maxup.br" group-title="Channels",Max UP SD
+http://purpleserver.net:80/venancio/venancio/18620
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max UP SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18300
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",Megapix FHD
+http://purpleserver.net:80/venancio/venancio/18816
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",Megapix HD
+http://purpleserver.net:80/venancio/venancio/18617
+#EXTINF:0 tvg-id="ext" group-title="Channels",Megapix HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18299
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",Megapix SD
+http://purpleserver.net:80/venancio/venancio/18618
+#EXTINF:0 tvg-id="ext" group-title="Channels",Megapix SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18298
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",Multishow FHD
+http://purpleserver.net:80/venancio/venancio/18813
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",Multishow HD
+http://purpleserver.net:80/venancio/venancio/18613
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",Multishow SD
+http://purpleserver.net:80/venancio/venancio/18614
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Box Brasil FHD
+http://purpleserver.net:80/venancio/venancio/18812
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Box Brasil HD
+http://purpleserver.net:80/venancio/venancio/18611
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Box Brasil SD
+http://purpleserver.net:80/venancio/venancio/18612
+#EXTINF:0 tvg-id="Nbr.br" group-title="Channels",NBR SD
+http://purpleserver.net:80/venancio/venancio/18604
+#EXTINF:0 tvg-id="ext" group-title="Channels",NatGeo Kids FHD
+http://purpleserver.net:80/venancio/venancio/18810
+#EXTINF:0 tvg-id="ext" group-title="Channels",NatGeo Kids HD
+http://purpleserver.net:80/venancio/venancio/18607
+#EXTINF:0 tvg-id="ext" group-title="Channels",NatGeo Kids SD
+http://purpleserver.net:80/venancio/venancio/18608
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Channels",NatGeo Wild FHD
+http://purpleserver.net:80/venancio/venancio/18809
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Channels",NatGeo Wild HD
+http://purpleserver.net:80/venancio/venancio/18606
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="Channels",NatGeo Wild SD
+http://purpleserver.net:80/venancio/venancio/18605
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="Channels",National Geographic FHD
+http://purpleserver.net:80/venancio/venancio/18811
+#EXTINF:0 tvg-id="Natgeohd.br" group-title="Channels",National Geographic HD
+http://purpleserver.net:80/venancio/venancio/18609
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",National Geographic SD
+http://purpleserver.net:80/venancio/venancio/18610
+#EXTINF:0 tvg-id="Nickjrhd.br" group-title="Channels",Nick Jr FHD
+http://purpleserver.net:80/venancio/venancio/18808
+#EXTINF:0 tvg-id="Nickjrhd.br" group-title="Channels",Nick Jr HD
+http://purpleserver.net:80/venancio/venancio/18602
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",Nick Jr SD
+http://purpleserver.net:80/venancio/venancio/18603
+#EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Channels",Nickelodeon FHD
+http://purpleserver.net:80/venancio/venancio/18807
+#EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="Channels",Nickelodeon HD
+http://purpleserver.net:80/venancio/venancio/18600
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",Nickelodeon SD
+http://purpleserver.net:80/venancio/venancio/18601
+#EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF FHD
+http://purpleserver.net:80/venancio/venancio/18806
+#EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF HD
+http://purpleserver.net:80/venancio/venancio/18598
+#EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF SD
+http://purpleserver.net:80/venancio/venancio/18599
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount FHD
+http://purpleserver.net:80/venancio/venancio/18805
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount HD
+http://purpleserver.net:80/venancio/venancio/18596
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount SD
+http://purpleserver.net:80/venancio/venancio/18597
+#EXTINF:0 tvg-id="ext" group-title="Channels",[XXX] PlayBoy FHD
+http://purpleserver.net:80/venancio/venancio/18787
+#EXTINF:0 tvg-id="ext" group-title="Channels",PlayKids FHD
+http://purpleserver.net:80/venancio/venancio/18747
+#EXTINF:0 tvg-id="ext" group-title="Channels",PlayKids HD
+http://purpleserver.net:80/venancio/venancio/18499
+#EXTINF:0 tvg-id="ext" group-title="Channels",PlayKids SD
+http://purpleserver.net:80/venancio/venancio/18498
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 2 FHD
+http://purpleserver.net:80/venancio/venancio/18772
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 2 HD
+http://purpleserver.net:80/venancio/venancio/18594
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",Premiere 2 SD
+http://purpleserver.net:80/venancio/venancio/18595
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 3 FHD
+http://purpleserver.net:80/venancio/venancio/18771
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 3 HD
+http://purpleserver.net:80/venancio/venancio/18592
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",Premiere 3 SD
+http://purpleserver.net:80/venancio/venancio/18593
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4 FHD
+http://purpleserver.net:80/venancio/venancio/18770
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4 HD
+http://purpleserver.net:80/venancio/venancio/18590
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4 SD
+http://purpleserver.net:80/venancio/venancio/18591
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 5 FHD
+http://purpleserver.net:80/venancio/venancio/18769
+#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 5 HD
+http://purpleserver.net:80/venancio/venancio/18588
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Channels",Premiere 5 SD
+http://purpleserver.net:80/venancio/venancio/18589
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",Premiere 6 FHD
+http://purpleserver.net:80/venancio/venancio/18768
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",Premiere 6 HD
+http://purpleserver.net:80/venancio/venancio/18586
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",Premiere 6 SD
+http://purpleserver.net:80/venancio/venancio/18587
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",Premiere 7 FHD
+http://purpleserver.net:80/venancio/venancio/18767
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",Premiere 7 HD
+http://purpleserver.net:80/venancio/venancio/18584
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",Premiere 7 SD
+http://purpleserver.net:80/venancio/venancio/18585
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes 4K
+http://purpleserver.net:80/venancio/venancio/18438
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes FHD
+http://purpleserver.net:80/venancio/venancio/18766
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes HD
+http://purpleserver.net:80/venancio/venancio/18582
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes SD
+http://purpleserver.net:80/venancio/venancio/18583
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime Box Brasil FHD
+http://purpleserver.net:80/venancio/venancio/18804
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime Box Brasil HD
+http://purpleserver.net:80/venancio/venancio/18580
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prime Box Brasil SD
+http://purpleserver.net:80/venancio/venancio/18581
+#EXTINF:0 tvg-id="ext" group-title="Channels",Record News FHD
+http://purpleserver.net:80/venancio/venancio/18803
+#EXTINF:0 tvg-id="ext" group-title="Channels",Record News HD
+http://purpleserver.net:80/venancio/venancio/18577
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News SD
+http://purpleserver.net:80/venancio/venancio/18578
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV BA FHD
+http://purpleserver.net:80/venancio/venancio/18745
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV BA HD
+http://purpleserver.net:80/venancio/venancio/18496
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV BA SD
+http://purpleserver.net:80/venancio/venancio/18495
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV DF FHD
+http://purpleserver.net:80/venancio/venancio/18744
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV DF HD
+http://purpleserver.net:80/venancio/venancio/18494
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV DF SD
+http://purpleserver.net:80/venancio/venancio/18493
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV MG FHD
+http://purpleserver.net:80/venancio/venancio/18749
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV MG HD
+http://purpleserver.net:80/venancio/venancio/18501
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV MG SD
+http://purpleserver.net:80/venancio/venancio/18500
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV RS FHD
+http://purpleserver.net:80/venancio/venancio/18743
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV RS HD
+http://purpleserver.net:80/venancio/venancio/18492
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV RS SD
+http://purpleserver.net:80/venancio/venancio/18491
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV Rio FHD
+http://purpleserver.net:80/venancio/venancio/18748
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV Rio HD
+http://purpleserver.net:80/venancio/venancio/18503
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV Rio SD
+http://purpleserver.net:80/venancio/venancio/18502
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV SP
+http://purpleserver.net:80/venancio/venancio/18576
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV SP FHD
+http://purpleserver.net:80/venancio/venancio/18765
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV SP HD
+http://purpleserver.net:80/venancio/venancio/18575
+#EXTINF:0 tvg-id="ext" group-title="Channels",RecordTV SP SD
+http://purpleserver.net:80/venancio/venancio/18579
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="Channels",Rede Brasil SD
+http://purpleserver.net:80/venancio/venancio/18574
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Vida FHD
+http://purpleserver.net:80/venancio/venancio/18750
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Vida HD
+http://purpleserver.net:80/venancio/venancio/18504
+#EXTINF:0 tvg-id="Redevida.br" group-title="Channels",Rede Vida SD
+http://purpleserver.net:80/venancio/venancio/18571
+#EXTINF:0 tvg-id="ext" group-title="Channels",RedeTV! FHD
+http://purpleserver.net:80/venancio/venancio/18751
+#EXTINF:0 tvg-id="ext" group-title="Channels",RedeTV! HD
+http://purpleserver.net:80/venancio/venancio/18572
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",RedeTV! SD
+http://purpleserver.net:80/venancio/venancio/18573
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT FHD
+http://purpleserver.net:80/venancio/venancio/18764
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT HD
+http://purpleserver.net:80/venancio/venancio/18569
+#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT SD
+http://purpleserver.net:80/venancio/venancio/18570
+#EXTINF:0 tvg-id="ext" group-title="Channels",SBT SP Interior SD
+http://purpleserver.net:80/venancio/venancio/18568
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",Sony FHD
+http://purpleserver.net:80/venancio/venancio/18850
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",Sony HD
+http://purpleserver.net:80/venancio/venancio/18714
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18291
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",Sony SD
+http://purpleserver.net:80/venancio/venancio/18715
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18290
+#EXTINF:0 tvg-id="Spacehd.br" group-title="Channels",Space FHD
+http://purpleserver.net:80/venancio/venancio/18802
+#EXTINF:0 tvg-id="Spacehd.br" group-title="Channels",Space HD
+http://purpleserver.net:80/venancio/venancio/18564
+#EXTINF:0 tvg-id="ext" group-title="Channels",Space HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18297
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space SD
+http://purpleserver.net:80/venancio/venancio/18565
+#EXTINF:0 tvg-id="ext" group-title="Channels",Space SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18296
+#EXTINF:0 tvg-id="Sportv2hd.br" group-title="Channels",SporTV 2 FHD
+http://purpleserver.net:80/venancio/venancio/18763
+#EXTINF:0 tvg-id="Sportv2hd.br" group-title="Channels",SporTV 2 HD
+http://purpleserver.net:80/venancio/venancio/18561
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV 2 SD
+http://purpleserver.net:80/venancio/venancio/18562
+#EXTINF:0 tvg-id="Sportv3hd.br" group-title="Channels",SporTV 3 FHD
+http://purpleserver.net:80/venancio/venancio/18762
+#EXTINF:0 tvg-id="Sportv3hd.br" group-title="Channels",SporTV 3 HD
+http://purpleserver.net:80/venancio/venancio/18559
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Channels",SporTV 3 SD
+http://purpleserver.net:80/venancio/venancio/18560
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV 4K
+http://purpleserver.net:80/venancio/venancio/18439
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV FHD
+http://purpleserver.net:80/venancio/venancio/18761
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV HD
+http://purpleserver.net:80/venancio/venancio/18558
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV SD
+http://purpleserver.net:80/venancio/venancio/18563
+#EXTINF:0 tvg-id="Studiounhd.br" group-title="Channels",Studio Universal FHD
+http://purpleserver.net:80/venancio/venancio/18801
+#EXTINF:0 tvg-id="Studiounhd.br" group-title="Channels",Studio Universal HD
+http://purpleserver.net:80/venancio/venancio/18556
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",Studio Universal SD
+http://purpleserver.net:80/venancio/venancio/18557
+#EXTINF:0 tvg-id="Syfyhd.br" group-title="Channels",Syfy FHD
+http://purpleserver.net:80/venancio/venancio/18800
+#EXTINF:0 tvg-id="Syfyhd.br" group-title="Channels",Syfy HD
+http://purpleserver.net:80/venancio/venancio/18566
+#EXTINF:0 tvg-id="Syfy.br" group-title="Channels",Syfy SD
+http://purpleserver.net:80/venancio/venancio/18567
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS FHD
+http://purpleserver.net:80/venancio/venancio/18799
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS HD
+http://purpleserver.net:80/venancio/venancio/18554
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS SD
+http://purpleserver.net:80/venancio/venancio/18555
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",TCM SD
+http://purpleserver.net:80/venancio/venancio/18553
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC FHD
+http://purpleserver.net:80/venancio/venancio/18797
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC HD
+http://purpleserver.net:80/venancio/venancio/18538
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC SD
+http://purpleserver.net:80/venancio/venancio/18539
+#EXTINF:0 tvg-id="Tnthd.br" group-title="Channels",TNT FHD
+http://purpleserver.net:80/venancio/venancio/18796
+#EXTINF:0 tvg-id="Tnthd.br" group-title="Channels",TNT HD
+http://purpleserver.net:80/venancio/venancio/18536
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18305
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT SD
+http://purpleserver.net:80/venancio/venancio/18537
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18304
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",TNT Series FHD
+http://purpleserver.net:80/venancio/venancio/18795
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",TNT Series HD
+http://purpleserver.net:80/venancio/venancio/18534
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Series HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18295
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",TNT Series SD
+http://purpleserver.net:80/venancio/venancio/18535
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Series SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18294
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Channels",TV Aparecida SD
+http://purpleserver.net:80/venancio/venancio/18530
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",TV Brasil SD
+http://purpleserver.net:80/venancio/venancio/18529
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="Channels",TV Camara SD
+http://purpleserver.net:80/venancio/venancio/18528
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cultura FHD
+http://purpleserver.net:80/venancio/venancio/18752
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cultura HD
+http://purpleserver.net:80/venancio/venancio/18505
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="Channels",TV Cultura SD
+http://purpleserver.net:80/venancio/venancio/18506
+#EXTINF:0 tvg-id="Tvescola.br" group-title="Channels",TV Escola SD
+http://purpleserver.net:80/venancio/venancio/18527
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Gazeta SP HD
+http://purpleserver.net:80/venancio/venancio/18526
+#EXTINF:0 tvg-id="Tvjustica.br" group-title="Channels",TV Justica SD
+http://purpleserver.net:80/venancio/venancio/18531
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Ra-Tim-Bum FHD
+http://purpleserver.net:80/venancio/venancio/18793
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Ra-Tim-Bum HD
+http://purpleserver.net:80/venancio/venancio/18524
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="Channels",TV Ra-Tim-Bum SD
+http://purpleserver.net:80/venancio/venancio/18525
+#EXTINF:0 tvg-id="Tvsenado.br" group-title="Channels",TV Senado SD
+http://purpleserver.net:80/venancio/venancio/18532
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action FHD
+http://purpleserver.net:80/venancio/venancio/18760
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action HD
+http://purpleserver.net:80/venancio/venancio/18551
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Action HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18315
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action SD
+http://purpleserver.net:80/venancio/venancio/18552
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Action SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18314
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="Channels",Telecine Cult FHD
+http://purpleserver.net:80/venancio/venancio/18798
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="Channels",Telecine Cult HD
+http://purpleserver.net:80/venancio/venancio/18549
+#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",Telecine Cult SD
+http://purpleserver.net:80/venancio/venancio/18550
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="Channels",Telecine Fun FHD
+http://purpleserver.net:80/venancio/venancio/18759
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="Channels",Telecine Fun HD
+http://purpleserver.net:80/venancio/venancio/18547
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Fun HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18313
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",Telecine Fun SD
+http://purpleserver.net:80/venancio/venancio/18548
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Fun SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18312
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca FHD
+http://purpleserver.net:80/venancio/venancio/18758
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca HD
+http://purpleserver.net:80/venancio/venancio/18545
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Pipoca HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18311
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca SD
+http://purpleserver.net:80/venancio/venancio/18546
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Pipoca SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18310
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium FHD
+http://purpleserver.net:80/venancio/venancio/18757
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium HD
+http://purpleserver.net:80/venancio/venancio/18543
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Premium HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18309
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium SD
+http://purpleserver.net:80/venancio/venancio/18544
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Premium SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18308
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="Channels",Telecine Touch FHD
+http://purpleserver.net:80/venancio/venancio/18756
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="Channels",Telecine Touch HD
+http://purpleserver.net:80/venancio/venancio/18541
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Touch HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18307
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",Telecine Touch SD
+http://purpleserver.net:80/venancio/venancio/18542
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecine Touch SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18306
+#EXTINF:0 tvg-id="Terraviva.br" group-title="Channels",Terra Viva SD
+http://purpleserver.net:80/venancio/venancio/18540
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Channels",Tooncast SD
+http://purpleserver.net:80/venancio/venancio/18533
+#EXTINF:0 tvg-id="Trutv.br" group-title="Channels",TruTV FHD
+http://purpleserver.net:80/venancio/venancio/18794
+#EXTINF:0 tvg-id="Trutv.br" group-title="Channels",TruTV HD
+http://purpleserver.net:80/venancio/venancio/18522
+#EXTINF:0 tvg-id="Trutv.br" group-title="Channels",TruTV SD
+http://purpleserver.net:80/venancio/venancio/18523
+#EXTINF:0 tvg-id="Universalchannelhd.br" group-title="Channels",Universal Channel FHD
+http://purpleserver.net:80/venancio/venancio/18792
+#EXTINF:0 tvg-id="Universalchannelhd.br" group-title="Channels",Universal Channel HD
+http://purpleserver.net:80/venancio/venancio/18520
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="Channels",Universal Channel SD
+http://purpleserver.net:80/venancio/venancio/18521
+#EXTINF:0 tvg-id="VH1.br" group-title="Channels",VH1 FHD
+http://purpleserver.net:80/venancio/venancio/18791
+#EXTINF:0 tvg-id="VH1.br" group-title="Channels",VH1 HD
+http://purpleserver.net:80/venancio/venancio/18518
+#EXTINF:0 tvg-id="VH1MegaHits.br" group-title="Channels",VH1 MegaHits SD
+http://purpleserver.net:80/venancio/venancio/18517
+#EXTINF:0 tvg-id="VH1.br" group-title="Channels",VH1 SD
+http://purpleserver.net:80/venancio/venancio/18519
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva FHD
+http://purpleserver.net:80/venancio/venancio/18755
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva HD
+http://purpleserver.net:80/venancio/venancio/18515
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva SD
+http://purpleserver.net:80/venancio/venancio/18516
+#EXTINF:0 tvg-id="Warnerhd.br" group-title="Channels",Warner Channel FHD
+http://purpleserver.net:80/venancio/venancio/18790
+#EXTINF:0 tvg-id="Warnerhd.br" group-title="Channels",Warner Channel HD
+http://purpleserver.net:80/venancio/venancio/18513
+#EXTINF:0 tvg-id="ext" group-title="Channels",Warner Channel HD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18293
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner Channel SD
+http://purpleserver.net:80/venancio/venancio/18514
+#EXTINF:0 tvg-id="ext" group-title="Channels",Warner Channel SD [Legendado]
+http://purpleserver.net:80/venancio/venancio/18292
+#EXTINF:0 tvg-id="ext" group-title="Channels",Woohoo FHD
+http://purpleserver.net:80/venancio/venancio/18789
+#EXTINF:0 tvg-id="ext" group-title="Channels",Woohoo HD
+http://purpleserver.net:80/venancio/venancio/18511
+#EXTINF:0 tvg-id="Woohoo.br" group-title="Channels",Woohoo SD
+http://purpleserver.net:80/venancio/venancio/18512
+#EXTINF:0 tvg-id="ext" group-title="Channels",[XXX] PlayBoy HD
+http://purpleserver.net:80/venancio/venancio/18487
+#EXTINF:0 tvg-id="ext" group-title="Channels",[XXX] PlayBoy SD
+http://purpleserver.net:80/venancio/venancio/18488
+#EXTINF:0 tvg-id="ext" group-title="Channels",[XXX] Sextreme SD
+http://purpleserver.net:80/venancio/venancio/18486
+#EXTINF:0 tvg-id="ext" group-title="Channels",[XXX] SexyHot SD
+http://purpleserver.net:80/venancio/venancio/18485
+#EXTINF:0 tvg-id="ext" group-title="Channels",[XXX] Venus SD
+http://purpleserver.net:80/venancio/venancio/18484
+
