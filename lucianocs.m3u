@@ -1,22 +1,188 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta ",BAND
-http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
-#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta ",RECORD
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",REDE FAMÍLIA HD
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",TVE BRASIL
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",TVE BA HD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="TV Aberta ",REDE BRASIL®
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIS",DISNEY JR HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141924
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIS",DISNEY JR SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141925
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIS",DISNEY JR
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b1089536.m3u8
+#EXTINF:0 tvg-id="Nickjrhd.br" group-title="INFANTIS",NICK JR HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141819
+#EXTINF:0 tvg-id="NickJr.br" group-title="INFANTIS",NICK JR SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141820
+#EXTINF:0 tvg-id="Nickelodeonhd.br" group-title="INFANTIS",NICKELODEON HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141817
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="INFANTIS",NICKELODEON SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141818
+#EXTINF:0 tvg-id="Tooncast.br" group-title="INFANTIS",TOONCAST SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141735
+#EXTINF:0 tvg-id="Cartoonnetworkhd.br" group-title="INFANTIS",CARTOON NETWORK HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141956
+#EXTINF:0 tvg-id="Discoverykidshd.br" group-title="INFANTIS",DISCOVERY KIDS HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141940
+#EXTINF:0 tvg-id="ext" group-title="INFANTIS",BOOMBERANG HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141963
+#EXTINF:0 tvg-id="ext" group-title="INFANTIS",BOOMBERANG SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141964
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIS",DISNEY JR SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141925
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="INFANTIS",DISNEY JR
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b1089536.m3u8
+#EXTINF:0 tvg-id="Nickjrhd.br" group-title="INFANTIS",NICK JR HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141819
+#EXTINF:0 tvg-id="NickJr.br" group-title="INFANTIS",NICK JR SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141820
+
+#EXTINF:0 tvg-id="Viva.br" group-title="VARIEDADES",VIVA SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141724
+#EXTINF:0 tvg-id="Viva.br" group-title="VARIEDADES",VIVA
+http://149.56.195.141:1935/tvv/tvv/chunklist_w1221974704.m3u8
+#EXTINF:0 tvg-id="Tlc.br" group-title="VARIEDADES",TLC SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141743
+#EXTINF:0 tvg-id="Gnthd.br" group-title="VARIEDADES",GNT HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141861
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",GLOBO SAT SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141873
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",REDE BRASIL HD
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="VARIEDADES",REDE BRASIL SD
+http://173.236.10.10:1935/rbtv/rbtv/chunklist_w797897721.m3u8
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="VARIEDADES",REDE BRASIL
 http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
-#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta ",TV Escola
+
+#EXTINF:0 tvg-id="Tcaction.br" group-title="TELECINE",TELECINE ACTION SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141763
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="TELECINE",TELECINE PIPOCA HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141753
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="TELECINE",TELECINE PIPOCA SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141754
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="TELECINE",TELECINE TOUCH HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141747
+#EXTINF:0 tvg-id="Tctouch.br" group-title="TELECINE",TELECINE TOUCH SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141748
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="TELECINE",TELECINE CULT HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141759
+#EXTINF:0 tvg-id="Tccult.br" group-title="TELECINE",TELECINE CULT SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141759
+
+#EXTINF:0 tvg-id="Hbohd.br" group-title="HBO",HBO HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141856
+#EXTINF:0 tvg-id="Hbo.br" group-title="HBO",HBO SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141857
+#EXTINF:0 tvg-id="Hbo2hd.br" group-title="HBO",HBO 2 HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141854
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="HBO",HBO FAMILY SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141853
+
+#EXTINF:0 tvg-id="Max.br" group-title="FILMES E SERIES",MAX HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141838
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="FILMES E SERIES",MAX PRIME HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141836
+#EXTINF:0 tvg-id="Maxprime.br" group-title="FILMES E SERIES",MAX PRIME SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141837
+#EXTINF:0 tvg-id="fox-life-hd" group-title="FILMES E SERIES",FOX LIFE HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141905
+#EXTINF:0 tvg-id="FoxMoviesHD.mx" group-title="FILMES E SERIES",FOX MOVIE SD
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 tvg-id="Syfyhd.br" group-title="FILMES E SERIES",SYFY HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141766
+#EXTINF:0 tvg-id="Syfy.br" group-title="FILMES E SERIES",SYFY SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141767
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141993
+#EXTINF:0 tvg-id="Amchd.br" group-title="FILMES E SERIES",AMC HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141987
+#EXTINF:0 tvg-id="Amc.br" group-title="FILMES E SERIES",AMC SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141988
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141984
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="FILMES E SERIES",CINEMAX HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141958
+#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",CINEMAX SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141959
+
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY H&H HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141942
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="DISCOVERY",DISCOVERY H&H SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141943
+#EXTINF:0 tvg-id="Discovery.br" group-title="DISCOVERY",DISCOVERY CHANNEL HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141947
+#EXTINF:0 tvg-id="Discovery.br" group-title="DISCOVERY",DISCOVERY CHANNEL SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141948
+#EXTINF:0 tvg-id="ext" group-title="DISCOVERY",DISCOVERY CIVILIZATION HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141944
+#EXTINF:0 tvg-id="DiscoveryCivilization.br" group-title="DISCOVERY",DISCOVERY CIVILIZATION SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141945
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="DISCOVERY",DISCOVERY SCIENCE HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141939
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="DISCOVERY",DISCOVERY SCIENCE SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141938
+#EXTINF:0 tvg-id="HDTheater.mx" group-title="DISCOVERY",DISCOVERY THEATHER HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141937
+
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",MULTI SHOW HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141825
+#EXTINF:0 tvg-id="Multishow.br" group-title="TV MUSICA",MULTI SHOW SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141826
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",RADIO MONTE CARLO
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",TOP TV HD
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+#EXTINF:0 tvg-id="TopTV.svn" group-title="TV MUSICA",TOP TV SD
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+#EXTINF:0 tvg-id="Bishd.br" group-title="TV MUSICA",BIS HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141977
+#EXTINF:0 tvg-id="Bis.br" group-title="TV MUSICA",BIS SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141980
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",RADIO 105 HD
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",RADIO 105 SD
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:0 tvg-id="RetroMusic.cz" group-title="TV MUSICA",RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="VH1MegaHits.br" group-title="TV MUSICA",VH1 MEGA HITS SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141726
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",HIT MUSIC HD
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGATV
+#EXTINF:0 tvg-id="Mtvhd.br" group-title="TV MUSICA",MTV HD
+http://fonte.iptvmaishd.com:25461/0343/0343/141828
+#EXTINF:0 tvg-id="Mtv.br" group-title="TV MUSICA",MTV SD
+http://fonte.iptvmaishd.com:25461/0343/0343/141829
+#EXTINF:0 tvg-id="iq-hd" group-title="TV MUSICA",PLANETA HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV MUSICA",1MUSIC
+http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="GOSPEL",REDE GOSPEL HD
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+#EXTINF:0 tvg-id="Gospel.br" group-title="GOSPEL",REDE GOSPEL SD
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GOSPEL",GOSPEL MOVIE
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GOSPEL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS GOSPEL",TV UNIVERSAL
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-p.m3u8
+
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="TV Aberta",BAND
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta",RECORD
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta",REDE BRASIL®
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta",TV Escola
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
 
-#EXTINF:0 tvg-id="ext" group-title=" group-title=",REDE TV SP
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV SP
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV SP
@@ -47,10 +213,10 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 #EXTINF:0 tvg-id="ext" group-title="CANAIS",TVE BA HD- Canal FutucAndroiD
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
-#EXTINF:0 tvg-id="ext" group-title="CANAIS",CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
-#EXTINF:0 tvg-id="ext" group-title="CANAIS",HISTORY LAB- Canal FutucAndroiD
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",CINE FILMES 24HS
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANAIS",TV Ticavision Costa Rica
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="CANAIS",TV  Wow El Salvador
@@ -64,8 +230,8 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="CANAIS INTERNACIONAIS",HBO2 HD- Canal FutucAndroiD
-http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
+#EXTINF:0 tvg-id="Hbo2hd.br" group-title="CANAIS INTERNACIONAIS",HBO2 HD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="FILMES",Tv Aracati (CE)
 http://wse7.player.tv.br:1935/tvaracati/tvaracati/playlist.m3u8
@@ -269,7 +435,7 @@ http://webtvcde.com/Filmes/Dublados/Sr.e.Sra.Smith.2005.mkv
 http://webtvcde.com/Filmes/Classicos/A.Lista.de.Schindler.1993.mkv
 
 #EXTINF:0 tvg-id="ext" group-title="Sem Categoria",REDE NEWS HD
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?ISAQUE
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sem Categoria",Cachipum | SD | Chile
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sem Categoria",Locomotion | SD | Republica Dominicana
@@ -353,42 +519,12 @@ http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac
 #EXTINF:0 tvg-id="ext" group-title="DESENHO",- TV CULTURA MG-
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="FILMES 02",AS AVENTURAS DE PI
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",AS AVENTURAS DE PI
 http://webtvcde.com/Servidor/aadp4j.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="FILMES 02",PACIFIC RIM
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",PACIFIC RIM
 http://webtvcde.com/Servidor/cdf4sc.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="FILMES 02",DEPOIS DA TERRA
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",DEPOIS DA TERRA
 http://webtvcde.com/Servidor/ddt4ad.mp4?guiadoluiz
-
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 1 2006
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%201.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 2 2008
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%202.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 3 2010
-http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%203.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batalha por T.E.R.A. 2007
-http://webtvcde.com/Filmes/Classicos/Batalha%20por%20T.E.R.R.A.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batman - O Mistério Da Mulher Morcego 2004
-http://webtvcde.com/Filmes/Classicos/Batman.O.Misterio.da.Mulher.Morcego.2003.mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Big Pai Big Filho 2017
-http://webtvcde.com/Filmes/Dublados/Big.Pai.Big.Filho.2018.mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Bee Movie 2007
-http://webtvcde.com/Filmes/Classicos/Bee%20Movie%20-%20A%20Hist%c3%b3ria%20de%20uma%20Abelha%20(2007).mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",PLOEY - Você Nunca Voará Sozinho 2018
-http://webtvcde.com/Filmes/Dublados/Ploey.Voce.Nunca.Voara.Sozinho.mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Wall-E 2008
-http://webtvcde.com/Filmes/Classicos/wall-e_2008.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Next Gen 2018
-http://webtvcde.com/Filmes/Dublados/Next.Gen.mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batman vs. Duas-Caras 2017
-http://webtvcde.com/Filmes/Dublados/Batman.vs.Duas.Caras.mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Sabor da Juventude 2018
-http://webtvcde.com/Filmes/Dublados/Shiki.Oriori.O.Sabor.da.Juventude.mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Scooby-Doo! & Batman: Os Bravos e Destemidos 2018
-http://webtvcde.com/Filmes/Dublados/Scooby.Doo.and.Batman.The.Brave.and.the.Bold.2018.mkv
-#EXTINF:0 tvg-id="avi" group-title="INFANTIL",A Morte do Superman 2018
-http://webtvcde.com/Filmes/Dublados/A.Morte.do.Superman.mkv
-
 #EXTINF:0 tvg-id="avi" group-title="FILMES 2",JUSTICA VERMELHA
 http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4?guiadoluiz
 #EXTINF:0 tvg-id="avi" group-title="FILMES 2",A BEIRA DO ABISMO
@@ -457,11 +593,39 @@ http://media-br-am.crackle.com/1/2/f6/o7ylf_480p.mp4?guiadoluiz
 http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4?guiadoluiz
 #EXTINF:0 tvg-id="avi" group-title="FILMES 2",O GRANDE ANJO NEGRO
 http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4?guiadoluiz
-#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O CHAMADO DE XANGAI (2012)
-http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?guiadoluiz
-
-#EXTINF:0 tvg-id="avi" group-title="TERROR/SUSPENSE",O PRINCIPAL SUSPEITO
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O PRINCIPAL SUSPEITO
 http://media-br-am.crackle.com/1/u/h6/z7vlf_480p.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="FILMES 2",O CHAMADO DE XANGAI (2012)
+http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 1 2006
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%201.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 2 2008
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%202.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Bicho Vai Pegar 3 2010
+http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%203.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batalha por T.E.R.A. 2007
+http://webtvcde.com/Filmes/Classicos/Batalha%20por%20T.E.R.R.A.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batman - O Mistério Da Mulher Morcego 2004
+http://webtvcde.com/Filmes/Classicos/Batman.O.Misterio.da.Mulher.Morcego.2003.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Big Pai Big Filho 2017
+http://webtvcde.com/Filmes/Dublados/Big.Pai.Big.Filho.2018.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Bee Movie 2007
+http://webtvcde.com/Filmes/Classicos/Bee%20Movie%20-%20A%20Hist%c3%b3ria%20de%20uma%20Abelha%20(2007).mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",PLOEY - Você Nunca Voará Sozinho 2018
+http://webtvcde.com/Filmes/Dublados/Ploey.Voce.Nunca.Voara.Sozinho.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Wall-E 2008
+http://webtvcde.com/Filmes/Classicos/wall-e_2008.mp4?guiadoluiz
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Next Gen 2018
+http://webtvcde.com/Filmes/Dublados/Next.Gen.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Batman vs. Duas-Caras 2017
+http://webtvcde.com/Filmes/Dublados/Batman.vs.Duas.Caras.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",O Sabor da Juventude 2018
+http://webtvcde.com/Filmes/Dublados/Shiki.Oriori.O.Sabor.da.Juventude.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",Scooby-Doo! & Batman: Os Bravos e Destemidos 2018
+http://webtvcde.com/Filmes/Dublados/Scooby.Doo.and.Batman.The.Brave.and.the.Bold.2018.mkv
+#EXTINF:0 tvg-id="avi" group-title="INFANTIL",A Morte do Superman 2018
+http://webtvcde.com/Filmes/Dublados/A.Morte.do.Superman.mkv
 
 #EXTINF:0 tvg-id="avi" group-title="FILMES 1",Paraiso Perdido
 http://filmes02.lhmtv.tk/filmes/P4ra1so.P3rd1do.LHMTv.mp4?guiadoluiz
