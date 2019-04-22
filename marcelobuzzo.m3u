@@ -1,378 +1,667 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
-http://live.tcm10.com.br/tcm10.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV Qwerty Dom Pedrito RS
-http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",LIVRE TV Parnamirim RN
-https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",SBT HD 1
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV CIDADE VERDE HD Teresina PI
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TCM 10 HD Mossoró RN
-http://live.tcm10.com.br/tcm10.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV Qwerty Dom Pedrito RS
-http://qwerty.sisdera.com:1935/qwertytv/ngrp:1_all/chunklist_w602475322_b1296000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",Bah! TV SD Porto Alegre RS
-https://cdn.jmvstream.com/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",LIVRE TV Parnamirim RN
-https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",SBT HD 1
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",SBT HD 2
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",SBT HD 3
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",SBT Interior HD Araçatuba SP
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w440614557.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV CIDADE VERDE HD Teresina PI
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w899378795.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",RECORD TV AGUA BOA SD MT
-http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",RECORD TV AGUA BOA HD MT
-http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w1275141940.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV RECORD HD TV Tropical RN
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w351386748.m3u8
-#EXTINF:0 tvg-id="tvrecord.pt" group-title="CANAL ABERTO CARLOS",TV RECORD HD
-https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w787767459.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",RDC TV HD Porto Alegre RS
-https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w891027107_b1000000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV GAZETA HD 2
-http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV CIDADE OESTE HD RN
-http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV BRASIL HD BA 1
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV BRASIL HD BA 2
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV BRASIL HD 3
-http://150.161.93.173:80/hls/720/index.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV BRASIL HD TVU PE
-http://150.161.93.173/hls/720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",AGRO BRASIL SD
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV THATHI SD
-http://opic.live:1935/thathi-net/content/chunklist_w883087195.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV TRANSAMÉRICA
-http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/chunklist_w1484095417.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",DTTV HD Lavras MG
-http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w795460412.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",DTTV HD Nepomuceno MG
-http://streaming63.sitehosting.com.br:1935/tvneponu/_definst_/tvneponu/chunklist_w354561518.m3u8
-#EXTINF:0 tvg-id="Redetv.br" group-title="CANAL ABERTO CARLOS",REDE TV SD
-http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w1379590905.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",REDE TV SP SD
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",REDE TV SP HD
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1956210905.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",REDE BRASIL HD
-https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1865596030_b1096000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",CAT TVE HD BR
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TOP TV HD BR
-http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV CREATIVE SD PB
-http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w91606170.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV Futura PR
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV Futura HD
-https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w1561890781.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV V FUTURA
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV CAXIAS
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV NOVA PARAIBA
-http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1451503404
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",FonteTV GO
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",VIA MORENA SD CG-MS
-https://v5.ciclano.io:1443/cleuza-734/_definst_/cleuza-734/chunklist_w1301523897.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",CONECTV HD Osasco SP
-http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w379083720.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV RIO PRETO
-https://5c5f323a5b8a8.streamlock.net:9443/tvriopreto322000001/tvriopreto1652206035/chunklist_w337059987.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 1
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w783582179.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV MAR Maceió AL SD 2
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1612782666.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",ALPHA CHANNEL HD
-http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",MULTI RIO SD
-http://187.111.97.45:1935/webtv/webtv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV CIDADE HD NET FARROUPILHA
-http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV GUARULHOS CANAL 3 HD
-http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w9194371.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV JAGUAR HD Vale do Jaguaribe CE
-https://cdn.jmvstream.com/live/hls/lv_6225/LV6225_xa7PeP2a7W.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",NOVA ERA TV HD Lages SC
-http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w973096972.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",TV AMBIENTAL Ilha de Santa Maria Vitória ES
-https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1297749153.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO CARLOS",ALL TV São Paulo SP
-https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w1525744207.m3u8
+#EXTINF:0 tvg-id="Redetv.br" group-title="TV ABERTA",REDE TV HD
+https://minhalista.live/channel/1504812/botafogo123456/redirect
+#EXTINF:0 tvg-id="Redetv.br" group-title="TV ABERTA",REDE TV
+https://minhalista.live/channel/1504813/botafogo123456/redirect
+#EXTINF:0 tvg-id="Bandhd.br" group-title="TV ABERTA",BAND HD
+https://minhalista.live/channel/1504816/botafogo123456/redirect
+#EXTINF:0 tvg-id="Globosp.br" group-title="TV ABERTA",GLOBO SP HD
+https://minhalista.live/channel/1504817/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",RECORD HD SP
+https://minhalista.live/channel/1504842/botafogo123456/redirect
+#EXTINF:0 tvg-id="Redetv.br" group-title="TV ABERTA",REDE TV HD
+https://minhalista.live/channel/1508791/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",EPTV CAMPINAS HD
+https://minhalista.live/channel/1508790/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",RECORD HD SP
+https://minhalista.live/channel/1508780/botafogo123456/redirect
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV ABERTA",RECORD
+https://minhalista.live/channel/1508779/botafogo123456/redirect
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV ABERTA",RECORD HD
+https://minhalista.live/channel/1508776/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",REDE MEIO NORTE
+https://minhalista.live/channel/1505242/botafogo123456/redirect
+#EXTINF:0 tvg-id="Bandhd.br" group-title="TV ABERTA",BAND HD
+https://minhalista.live/channel/1508793/botafogo123456/redirect
+#EXTINF:0 tvg-id="Redetv.br" group-title="TV ABERTA",REDE TV HD
+https://minhalista.live/channel/1508835/botafogo123456/redirect
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV ABERTA",RECORD HD
+https://minhalista.live/channel/1344174/NQU/redirect
+#EXTINF:0 tvg-id="Bandhd.br" group-title="TV ABERTA",BAND HD
+https://minhalista.live/channel/1344184/NQU/redirect
+#EXTINF:0 tvg-id="Globosp.br" group-title="TV ABERTA",GLOBO SP HD
+https://minhalista.live/channel/1344186/NQU/redirect
+#EXTINF:0 tvg-id="Sbt.br" group-title="TV ABERTA",SBT
+https://minhalista.live/channel/1344179/NQU/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV ABERTA",RECORD HD SP
+https://minhalista.live/channel/1344178/NQU/redirect
+#EXTINF:0 tvg-id="Tvbahia.br" group-title="TV ABERTA",TV BAHIA
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/115.ts
 
-#EXTINF:0 tvg-id="ext" group-title="INFANTIL CARLOS",GOSPEL CARTOON DESENHOS CRISTAOS SD
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN +
+https://minhalista.live/channel/1504922/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",PREMIER 24HS
+https://minhalista.live/channel/1504990/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",PREMIER 24HS
+https://minhalista.live/channel/1504991/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",Premiere 5 HD
+https://minhalista.live/channel/1508699/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="ESPORTES",PREMIER 5 FULL HD H265
+https://minhalista.live/channel/1508707/botafogo123456/redirect
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTES",BAND SPORTS HD
+https://minhalista.live/channel/1508843/botafogo123456/redirect
+#EXTINF:0 tvg-id="Bandsports.br" group-title="ESPORTES",BAND SPORTS
+https://minhalista.live/channel/1508845/botafogo123456/redirect
+#EXTINF:0 tvg-id="Espnhd.br" group-title="ESPORTES",ESPN HD
+https://minhalista.live/channel/1508846/botafogo123456/redirect
+#EXTINF:0 tvg-id="ESPN+.br" group-title="ESPORTES",ESPN +
+https://minhalista.live/channel/1508856/botafogo123456/redirect
+#EXTINF:0 tvg-id="ESPNHD.mx" group-title="ESPORTES",ESPN + HD
+https://minhalista.live/channel/1508855/botafogo123456/redirect
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="ESPORTES",ESPN BRASIL
+https://minhalista.live/channel/1508853/botafogo123456/redirect
+#EXTINF:0 tvg-id="Espnbrasilhd.br" group-title="ESPORTES",ESPN BRASIL HD
+https://minhalista.live/channel/1508850/botafogo123456/redirect
+#EXTINF:0 tvg-id="Espn.br" group-title="ESPORTES",ESPN
+https://minhalista.live/channel/1508848/botafogo123456/redirect
+#EXTINF:0 tvg-id="Foxsportshd.br" group-title="ESPORTES",FOX SPORTS HD
+https://minhalista.live/channel/1508858/botafogo123456/redirect
+#EXTINF:0 tvg-id="Foxsportshd.br" group-title="ESPORTES",FOX SPORTS FULL HD
+https://minhalista.live/channel/1508859/botafogo123456/redirect
+#EXTINF:0 tvg-id="Foxsports2hd.br" group-title="ESPORTES",FOX SPORTS 2 HD
+https://minhalista.live/channel/1508860/botafogo123456/redirect
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="ESPORTES",FOX SPORTS 2
+https://minhalista.live/channel/1508861/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SPORTV HD
+https://minhalista.live/channel/1508862/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sportv2.br" group-title="ESPORTES",SPORTV 2
+https://minhalista.live/channel/1508868/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sportv2hd.br" group-title="ESPORTES",SPORTV 2 HD
+https://minhalista.live/channel/1508867/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SPORTV
+https://minhalista.live/channel/1508866/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sportv.br" group-title="ESPORTES",SPORTV FULL HD
+https://minhalista.live/channel/1508863/botafogo123456/redirect
 
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 1 Assembleia de Deus
-http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",TV AD BELEM HD 2 Assembleia de Deus
-http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",WEB CAC TV IMU JM HD
-http://wse6.player.tv.br:1935/webcactv/webcactv/live.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",WEB TV IEQ SE Quadrangular
-http://tv.tvalphanet.com.br:1935/quadrangular/quadrangular/live.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",SOBRE NATURAL TV HD
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",TV BOA ESPERANÇA HD
-http://stmv2.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=2136951971
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",TV EVANGELIZAR SD
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",REDE SECULO 21 HD 1
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",REDE SECULO 21 HD 2
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
-#EXTINF:0 tvg-id="Cancaonova.br" group-title="RELIGIOSO CARLOS",CANÇÃO NOVA HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",TV APARECIDA HD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",SANTUÁRIO DE FÁTIMA HD
-https://streamer-a03.videos.sapo.pt/live/santuario.stream/chunklist_w724668519.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",IURD TV SD UNIVERSAL
-https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/chunklist_b1000000_t64NDgwcA==_9f9fceff-4662-41c7-88e6-39286324b603.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",IGREJA MUNDIAL SD
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w1894074969_b1431072.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RELIGIOSO CARLOS",TV TERCEIRO ANJO HD
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="FILMES E SERIES",PARAMOUNT CHANNEL
+https://minhalista.live/channel/1504995/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tnthd.br" group-title="FILMES E SERIES",TNT HD
+https://minhalista.live/channel/1505009/botafogo123456/redirect
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES E SERIES",TNT SERIES
+https://minhalista.live/channel/1505036/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY HD
+https://minhalista.live/channel/1505113/botafogo123456/redirect
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="FILMES E SERIES",FOX PREMIUM 2 HD
+https://minhalista.live/channel/1505148/botafogo123456/redirect
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="FILMES E SERIES",FOX PREMIUM 1 HD
+https://minhalista.live/channel/1505145/botafogo123456/redirect
+#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",CINEMAX
+https://minhalista.live/channel/1505131/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY
+https://minhalista.live/channel/1505128/botafogo123456/redirect
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="FILMES E SERIES",CINEMAX HD
+https://minhalista.live/channel/1505122/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbo2hd.br" group-title="FILMES E SERIES",HBO 2 HD
+https://minhalista.live/channel/1505184/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="FILMES E SERIES",HBO SIGNATURE
+https://minhalista.live/channel/1505182/botafogo123456/redirect
+#EXTINF:0 tvg-id="Maxup.br" group-title="FILMES E SERIES",MAX UP
+https://minhalista.live/channel/1508678/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tbs.br" group-title="FILMES E SERIES",TBS HD
+https://minhalista.live/channel/1508696/botafogo123456/redirect
+#EXTINF:0 tvg-id="Spacehd.br" group-title="FILMES E SERIES",SPACE HD
+https://minhalista.live/channel/1508688/botafogo123456/redirect
+#EXTINF:0 tvg-id="ParamountChannel.it" group-title="FILMES E SERIES",PARAMOUNT CHANNEL HD
+https://minhalista.live/channel/1508685/botafogo123456/redirect
+#EXTINF:0 tvg-id="Maxup.br" group-title="FILMES E SERIES",MAX UP HD
+https://minhalista.live/channel/1508683/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SERIES",TELECINE ACTION HD
+https://minhalista.live/channel/1508701/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SERIES",TELECINE ACTION
+https://minhalista.live/channel/1508703/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcculthd.br" group-title="FILMES E SERIES",TELECINE CULT HD
+https://minhalista.live/channel/1508710/botafogo123456/redirect
+#EXTINF:0 tvg-id="Telecinefunhd.br" group-title="FILMES E SERIES",TELECINE FUN HD
+https://minhalista.live/channel/1508712/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcfun.br" group-title="FILMES E SERIES",TELECINE FUN
+https://minhalista.live/channel/1508718/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SERIES",TELECINE PIPOCA FULL HD
+https://minhalista.live/channel/1508723/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SERIES",TELECINE PIPOCA
+https://minhalista.live/channel/1508728/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SERIES",TELECINE PREMIUM FULL HD
+https://minhalista.live/channel/1508730/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SERIES",TELECINE PREMIUM
+https://minhalista.live/channel/1508732/botafogo123456/redirect
+#EXTINF:0 tvg-id="Universalchannelhd.br" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+https://minhalista.live/channel/1508740/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tnt.br" group-title="FILMES E SERIES",TNT
+https://minhalista.live/channel/1508739/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tnthd.br" group-title="FILMES E SERIES",TNT HD
+https://minhalista.live/channel/1508736/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="FILMES E SERIES",TELECINE TOUCH FULL HD
+https://minhalista.live/channel/1508734/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tctouchhd.br" group-title="FILMES E SERIES",TELECINE TOUCH HD
+https://minhalista.live/channel/1508733/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tnthd.br" group-title="FILMES E SERIES",TNT HD
+https://minhalista.live/channel/1508872/botafogo123456/redirect
+#EXTINF:0 tvg-id="Axnhd.br" group-title="FILMES E SERIES",AXN HD
+https://minhalista.live/channel/1508757/botafogo123456/redirect
+#EXTINF:0 tvg-id="Warnerhd.br" group-title="FILMES E SERIES",WARNER CHANNEL HD
+https://minhalista.live/channel/1508743/botafogo123456/redirect
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="FILMES E SERIES",WARNER CHANNEL
+https://minhalista.live/channel/1508742/botafogo123456/redirect
+#EXTINF:0 tvg-id="Universalchannel.br" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+https://minhalista.live/channel/1508741/botafogo123456/redirect
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES E SERIES",TNT SERIES HD
+https://minhalista.live/channel/1508877/botafogo123456/redirect
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES E SERIES",TNT SERIES
+https://minhalista.live/channel/1508880/botafogo123456/redirect
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES E SERIES",A&E
+https://minhalista.live/channel/1508893/botafogo123456/redirect
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
+https://minhalista.live/channel/1508894/botafogo123456/redirect
+#EXTINF:0 tvg-id="Axnhd.br" group-title="FILMES E SERIES",AXN HD
+https://minhalista.live/channel/1508895/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY HD
+https://minhalista.live/channel/1508896/botafogo123456/redirect
+#EXTINF:0 tvg-id="Foxhd.br" group-title="FILMES E SERIES",FOX HD
+https://minhalista.live/channel/1508902/botafogo123456/redirect
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="FILMES E SERIES",CINEMAX HD
+https://minhalista.live/channel/1508899/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY
+https://minhalista.live/channel/1508900/botafogo123456/redirect
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
+https://minhalista.live/channel/1508898/botafogo123456/redirect
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY
+https://minhalista.live/channel/1508897/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",FOX FULL HD H265
+https://minhalista.live/channel/1508903/botafogo123456/redirect
+#EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX
+https://minhalista.live/channel/1508904/botafogo123456/redirect
+#EXTINF:0 tvg-id="foxlife.pt" group-title="FILMES E SERIES",FOX LIFE HD
+https://minhalista.live/channel/1508905/botafogo123456/redirect
+#EXTINF:0 tvg-id="Fxhd.br" group-title="FILMES E SERIES",FX HD
+https://minhalista.live/channel/1508912/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbohd.br" group-title="FILMES E SERIES",HBO HD
+https://minhalista.live/channel/1508913/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbo.br" group-title="FILMES E SERIES",HBO
+https://minhalista.live/channel/1508914/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbosighd.br" group-title="FILMES E SERIES",HBO SIGNATURE HD
+https://minhalista.live/channel/1508915/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="FILMES E SERIES",HBO SIGNATURE
+https://minhalista.live/channel/1508916/botafogo123456/redirect
+#EXTINF:0 tvg-id="Max.br" group-title="FILMES E SERIES",MAX HD
+https://minhalista.live/channel/1508925/botafogo123456/redirect
+#EXTINF:0 tvg-id="Lifetime.br" group-title="FILMES E SERIES",LIFETIME
+https://minhalista.live/channel/1508924/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="FILMES E SERIES",HBO FAMILY
+https://minhalista.live/channel/1508922/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hboplus.br" group-title="FILMES E SERIES",HBO PLUS
+https://minhalista.live/channel/1508921/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hboplushd.br" group-title="FILMES E SERIES",HBO PLUS HD
+https://minhalista.live/channel/1508920/botafogo123456/redirect
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="FILMES E SERIES",HBO SIGNATURE
+https://minhalista.live/channel/1508968/botafogo123456/redirect
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",MEGAPIX HD
+https://minhalista.live/channel/1508928/botafogo123456/redirect
+#EXTINF:0 tvg-id="Maxprimehd.br" group-title="FILMES E SERIES",MAX PRIME HD
+https://minhalista.live/channel/1508927/botafogo123456/redirect
+#EXTINF:0 tvg-id="Axnhd.br" group-title="FILMES E SERIES",AXN HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/293.ts
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="FILMES E SERIES",PARAMOUNT CHANNEL
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/41.ts
+#EXTINF:0 tvg-id="Tnthd.br" group-title="FILMES E SERIES",TNT HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/121.ts
+#EXTINF:0 tvg-id="Tnt.br" group-title="FILMES E SERIES",TNT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/120.ts
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES E SERIES",TNT SERIES HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/119.ts
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES E SERIES",TNT SERIES
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/118.ts
+#EXTINF:0 tvg-id="Fxhd.br" group-title="FILMES E SERIES",FX HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/236.ts
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES E SERIES",TNT SERIES HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/119.ts
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",Cine +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:0 tvg-id="E.br" group-title="VARIEDADES",E!
+https://minhalista.live/channel/1505155/botafogo123456/redirect
+#EXTINF:0 tvg-id="Viva.br" group-title="VARIEDADES",VIVA HD
+https://minhalista.live/channel/1505292/botafogo123456/redirect
+#EXTINF:0 tvg-id="Studiounhd.br" group-title="VARIEDADES",STUDIO UNIVERSAL HD
+https://minhalista.live/channel/1508691/botafogo123456/redirect
+#EXTINF:0 tvg-id="Gnt.br" group-title="VARIEDADES",GNT
+https://minhalista.live/channel/1508714/botafogo123456/redirect
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="VARIEDADES",STUDIO UNIVERSAL
+https://minhalista.live/channel/1508694/botafogo123456/redirect
+#EXTINF:0 tvg-id="Mtv.br" group-title="VARIEDADES",MTV
+https://minhalista.live/channel/1508724/botafogo123456/redirect
+#EXTINF:0 tvg-id="E.uk" group-title="VARIEDADES",E! HD
+https://minhalista.live/channel/1508907/botafogo123456/redirect
+#EXTINF:0 tvg-id="Multishow.br" group-title="VARIEDADES",MULTISHOW
+https://minhalista.live/channel/1508731/botafogo123456/redirect
+#EXTINF:0 tvg-id="E.br" group-title="VARIEDADES",E!
+https://minhalista.live/channel/1508911/botafogo123456/redirect
+#EXTINF:0 tvg-id="Viva.br" group-title="VARIEDADES",VIVA HD
+https://minhalista.live/channel/1508949/botafogo123456/redirect
+#EXTINF:0 tvg-id="Gnt.br" group-title="VARIEDADES",GNT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/60.ts
+#EXTINF:0 tvg-id="Gnt.br" group-title="VARIEDADES",GNT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/60.ts
+#EXTINF:0 tvg-id="Mtv.br" group-title="VARIEDADES",MTV
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/50.ts
+#EXTINF:0 tvg-id="Multishow.br" group-title="VARIEDADES",MULTISHOW
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/193.ts
+#EXTINF:0 tvg-id="Viva.br" group-title="VARIEDADES",VIVA HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/99.ts
+#EXTINF:0 tvg-id="E.uk" group-title="VARIEDADES",E! HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/260.ts
+#EXTINF:0 tvg-id="E.uk" group-title="VARIEDADES",E! HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/260.ts
+#EXTINF:0 tvg-id="E.br" group-title="VARIEDADES",E!
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/259.ts
+#EXTINF:0 tvg-id="Viva.br" group-title="VARIEDADES",VIVA HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/99.ts
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",TV TEEN NET
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=40007737
+#EXTINF:0 tvg-id="ext" group-title="VARIEDADES",CHEF TV HD
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/chunklist_w1771275348.m3u8
+#EXTINF:0 tvg-id="TopTV.svn" group-title="VARIEDADES",TOP TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=622585135
+#EXTINF:0 tvg-id="Viva.br" group-title="VARIEDADES",VIVA
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/15.ts
+#EXTINF:0 tvg-id="Playtv.br" group-title="VARIEDADES",PLAY TV
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/181.ts
+
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="CANAIS: RELIGIOSOS",Rede Super
+https://minhalista.live/channel/1505226/botafogo123456/redirect
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="CANAIS: RELIGIOSOS",Rede Super
+https://minhalista.live/channel/1508929/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",TV Terceiro Anjo
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+#EXTINF:0 tvg-id="RedeGenesis.br" group-title="CANAIS: RELIGIOSOS",Rede Gênesis
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",CANAL PROMESSAS
+http://hls.brasilstream.com.br/live/canalprom/canalprom/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS: RELIGIOSOS",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS: RELIGIOSOS",TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u
+#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="CANAIS: RELIGIOSOS",TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="CANAIS: RELIGIOSOS",TV CANÇÃO NOVA
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8?jhonlocao
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: RELIGIOSOS",Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ValterHD
+#EXTINF:0 tvg-id="RedeSuperdeTelevisao.br" group-title="CANAIS: RELIGIOSOS",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
 
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",NRJ HITS HD BELGICA Musicas
-http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",TV CLIMA HD Musicas
-http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",RUTV HD RUSSIA Musicas
-https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg?
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",CONEXAO BR NRJ HITS Musicas
-http://5.196.138.6:1935/live/ngrp:nrjbelgique_all/chunklist_w576217643_b1496608.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",m2o TV 1 Musicas
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",m2o TV 2 Musicas
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",MUZ TV Musica Russia
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="MUSICA CARLOS",RADIO 105 TV SD ITALIA
-http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTÍCIAS",REDE NEWS
+https://minhalista.live/channel/1505236/botafogo123456/redirect
 
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",FILMES DO CARLOS SD BR
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",CLASSIQUE TV-BR Legendados
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",TV ARACATI 1 SD BR
-https://v7.ciclano.io:1443/tvaracati/_definst_/tvaracati/chunklist_w1604080643.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",TV ARACATI 2 SD BR
-http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",TV CARIOCA.NET HD BR
-http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w829869851.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",RAI Movie HD Italia
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",RAI Premium HD Italia
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",HBO2 HD USA
-http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="FILMES CARLOS",FOX MOVIES SD USA
+#EXTINF:0 tvg-id="cine+" group-title="TV Aberta (leo)",CINE+
+https://minhalista.live/channel/1505295/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",CLASSIQUE TV
+https://minhalista.live/channel/1505297/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",CINE SKY 2
+https://minhalista.live/channel/1505298/botafogo123456/redirect
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta (leo)",TV Escola
+https://minhalista.live/channel/1508940/botafogo123456/redirect
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",CINE SKY 2
+https://minhalista.live/channel/1508952/botafogo123456/redirect
+#EXTINF:0 tvg-id="Rederecord.br" group-title="TV Aberta (leo)",RECORD
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TV Aberta (leo)",TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0 tvg-id="Tvescola.br" group-title="TV Aberta (leo)",TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+https://minhalista.live/channel/1505316/botafogo123456/redirect
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+https://minhalista.live/channel/1508744/botafogo123456/redirect
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET
+https://minhalista.live/channel/1508745/botafogo123456/redirect
+#EXTINF:0 tvg-id="DiscoveryCivilization.br" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
+https://minhalista.live/channel/1508746/botafogo123456/redirect
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/294.ts
+#EXTINF:0 tvg-id="Investigation.uk" group-title="DOCUMENTARIOS",INVESTIGATION DISCOVERY HD
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/204.ts
+
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",GOSPEL CARTOON HD+
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+#EXTINF:0 tvg-id="Boomerang.br" group-title="INFANTIL",BOOMERANG HD+
+http://198.255.23.90:25461/NEOTV4563/4563/37739?token=T0ddUEdYQFwXVUZDBlJQB1YGUlpSBVMGUVxZUwNMAVoHXAZSAVJQUANETxcVERFTAl87UVAQCAcHCAFRGBpESlEXalhQElhEBFNVDFNRQRpBRg1VURAIBQAMBF0CAQAKBEkXQV1UQFwXXlUFV0dPFAZKRF1XXFNYalxUE11bVBsOC0BdWBxACVs5B1ALBA1SQQhGCRYeEF1GSBNfFm5YT1tFZh91HkBKFwQKQRQEF1NBCEYBBAsQGBdbXhBaTENAFl8Xc2YSTkRQHhdQCBYKWQ0QXhpAQRAYF1FCOkZdQk1GAFRcUUJAXBdWQRlECAJOPFELVlpXUUBcV18WFgITCBZJF1xbXgsOWhQ8RQ8BQQxBAVENAhBPG
+#EXTINF:0 tvg-id="Gloob.br" group-title="INFANTIL",GLOOB
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/58.ts
+#EXTINF:0 tvg-id="Gloob.br" group-title="INFANTIL",GLOOB
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/58.ts
+
+#EXTINF:0 tvg-id="Boomerang.br" group-title="INFANTIL SD",BOOMERANG
+https://dpmia01.gcdn.co/072/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="Boomeranghd.br" group-title="TV - Infantis",Boomerang HD
+http://newstar.dyndns.ws/stream/NilsonCarlos/88115531/1171.ts
+
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="NOTICIAS",CBS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="NOTICIAS",BLOOMBERG USA
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",FOX 25
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:0 tvg-id="CartoonNetwork.us" group-title="CANAIS: INFANTIL",CARTOON NETWORK USA
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: INFANTIL",Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="CANAIS: FILMES/SERIES",FOX MOVIES
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:0 tvg-id="Warnerhd.br" group-title="CANAIS: FILMES/SERIES",Warner HD
+http://server.globalhd.ml:8080/igor/NKZWvvshPg/1200??http://bit.ly/2CIqzFO
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: FILMES/SERIES",Cine 24H
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u
 
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",ALL SPORTS TV BR
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="ALTERNATIVOS",NRJ HITS
+http://5.196.138.6:1935/live/ngrp:nrjbelgique_all/chunklist_w576217643_b1496608.m3u8
+
+#EXTINF:0 tvg-id="Sexyhot.br" group-title="ADULTO",SEXY HOT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/152.ts
+
+#EXTINF:0 tvg-id="avi" group-title="Filmes Dublado",Na Companhia Do Medo
+http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
+
+#EXTINF:0 tvg-id="ext" group-title="SHOWS 24HS",Gustavo Lima 50/50
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/971.ts
+#EXTINF:0 tvg-id="ext" group-title="SHOWS 24HS",Marília Mendonça - Completo Ao Vivo 2015
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/973.ts
+#EXTINF:0 tvg-id="ext" group-title="SHOWS 24HS",Henrique & Juliano Ao Vivo em Brasília
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/970.ts
+#EXTINF:0 tvg-id="ext" group-title="SHOWS 24HS",Matheus e kauan - Na Praia 720p
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/974.ts
+#EXTINF:0 tvg-id="ext" group-title="SHOWS 24HS",Wesley Safadão In Miami Beach 2017
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/975.ts
+
+#EXTINF:0 tvg-id="Playboy.br" group-title="ADULTOS",PLAYBOY
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/180.ts
+#EXTINF:0 tvg-id="Sextreme.ar" group-title="ADULTOS",SEXTREME
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/153.ts
+#EXTINF:0 tvg-id="Sexyhot.br" group-title="ADULTOS",SEXY HOT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/152.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 10
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/88.ts
+#EXTINF:0 tvg-id="Sexyhot.br" group-title="ADULTOS",SEXY HOT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/152.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 1
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/97.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 2
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/96.ts
+#EXTINF:0 tvg-id="Sextreme.ar" group-title="ADULTOS",SEXTREME
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/153.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 5
+https://minhalista.live/channel/1504846/Cocau/redirect
+#EXTINF:0 tvg-id="Sextreme.ar" group-title="ADULTOS",SEXTREME
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/153.ts
+#EXTINF:0 tvg-id="Sextreme.ar" group-title="ADULTOS",SEXTREME
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/153.ts
+#EXTINF:0 tvg-id="Playboy.br" group-title="ADULTOS",PLAYBOY
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/180.ts
+#EXTINF:0 tvg-id="Sexyhot.br" group-title="ADULTOS",SEXY HOT
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/152.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 1
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/97.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 2
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/96.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 4
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/94.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 6
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/92.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 7
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/91.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 8
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/90.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 9
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/89.ts
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS",ADULTO 10
+http://server.globalhd.ml:8080/live/ZP6yfoYBUf/QBFVub1d3n/88.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Rádios",Rádio Funk Proibidão
+http://192.99.150.31:9089/;
+
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAL ABERTO",RECORD TV ÁGUA BOA
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8?LISTASGLAU
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: NOTICIÁRIO",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 tvg-id="HitMusic.hu" group-title="CANAIS: VARIEDADES",HIT Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?FORMIGATV
+#EXTINF:0 tvg-id="AmazonSat.br" group-title="CANAIS: VARIEDADES",Amazon Sat
+http://liveabr2.sambatech.com.br/abr/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",Agro Brasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",TV Maceió
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",TV Maceió
+https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",TV Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+#EXTINF:0 tvg-id="RedeFami­lia.br" group-title="CANAIS: ABERTO",Rede Família
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ABERTO",TVU Recife
+http://150.161.93.173/hls/720/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="FILMES: INFANTIL",Next Gen 2018
+http://webtvcde.com/Filmes/Dublados/Next.Gen.mkv
+
+#EXTINF:0 tvg-id="ext" group-title="Canais",SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",TV DIÁRIO- Canal FutucAndroiD
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",ALL SPORTS- Canal FutucAndroiD
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",REAL MADRID TV HD 1
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",REAL MADRID TV HD 2
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",REAL MADRID TV HD 3
-http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",CHELSEA TV Futebol Inglês
-https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",MUTV Manchester United
-https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",DUBAI SPORTS HD Emirados Árabes Unidos
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 1 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 1 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 1 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",Abu Dhabi Sports HD 2 Emirados Árabes Unidos
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",YAS TV HD Abu Dhabi
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",AL KASS SPORTS HD Qatar
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ESPORTES CARLOS",AUTO MOTO TV Bulgaria
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS",GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",RTP 1 Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",RTP 2 Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",RTP 3 Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",RTP MADEIRA  Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",RTP ACORES  Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",RTP AFRICA Mocanbique PT
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",RTP INTERNACIONAL Portugal
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",ÁGUEDA TV HD Portugal
-http://www.agueda.tv:8080/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",CANAL 180 HD Portugal
-http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",CANAL 26 HD ARGENTINA
-http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Telpin Tv Canal 2 HD ARGENTINA
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w367888730.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",El Pinguino Tv Chile
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w1602984822.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Color Vision Canal 9 Republica Dominicana
-http://ss2.domint.net:2138//cvh_str/colorvisionhd/chunklist_w1393580664.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",HCH TV Honduras
-http://stream.innovandote.com/hch/hch/chunklist_w1817670130.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TeleSUR TV Caracas Venezuela
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TC HD Equador
-http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TV Cuatro 4 1 Espanha
-https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TV Cuatro 4 2 Espanha
-https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TV Cuatro 4 3 Espanha
-https://5ca3e84a76d30.streamlock.net/tv43/smil:tv43.smil/chunklist_w761820852_b13128000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TV Lancelot Espanha
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",ETB Sat Espanha
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TVE 24h HD Espanha
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TVG Galicia TV America SD Espanha
-http://america-crtvg.flumotion.com/crtvg/america_low/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",CANAL EXTREMADURA SAT Espanha
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Televisió de Catalunya TV3 Barcelona Espanha
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b1296000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",13 TV Espanha
-https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",ALSACE 20 HD França
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",GONG França
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",GONG MAX França
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",SKY NEWS HD Reino Unido
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Arise News HD Reino Unido
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",NHK World HD Japão
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",China 8 HD China
-http://ec.sinovision.net/video/ts/lv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Canale 7 HD Italia
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TV 538 SD Holanda
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",MIAMI TV HD USA
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w2127559280_b2592000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",BYU TV HD USA
-http://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Red Bull TV SD USA
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",FOX 23 HD USA
-http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",The Weather Channel HD USA
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",WGN CHICAGO HD USA
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TVW Cable Channel HD Washington USA
-https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chunklist_w795404484_b2179072.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Hope Channel HD USA
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="IslamChannel.uk" group-title="INTERNACIONAL CARLOS",ISLAM CHANNEL SD
-https://59299831b66d0.streamlock.net/live/islam.stream/chunklist_w228856476.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Kanal D HD Turquia
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Al Hurra HD Emirados Árabes Unidos
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",DUBAI TV HD Emirados Árabes Unidos
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",ALJAZEERA ENG HD Qatar
-https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",ALJAZEERA DOC SD Qatar
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Knesset Channel HD Israel
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Orient News HD Syrian
-https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",PRIME TV Pakistan TESTE
-http://wowza001.viewtvgroup.com:81/kapang-primetventertainment/ngrp:myStream_all/chunklist_w1184843891_b692000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",VENUS TV Pakistan TESTE
-http://45.77.90.56:8080/hls/mystream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Aaj Tak Live India
-https://vidcdn.vidgyor.com/at-origin/desktoplive/at-origin/live1/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TELE BARN HD  Alemanha
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",BADEN TV 1 HD Alemanha
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",BADEN TV 2 HD Alemanha
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w550637166.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",TV Oberfranken HD Alemanha
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",DW English HD Alemanha
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Mir 24 HD Russia
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",History Lab Russia
-http://wma10.fluidstream.net/HistoryLab/livestream/chunklist_w2130597865.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",Planeta PTP HD Russia
-https://a635216505-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",43 HD Russia
-http://sochi-strk.ru:1936/strk/43Kanal.stream/chunklist_w694707998.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INTERNACIONAL CARLOS",BN TV HD Bosnia e Herzegovina
-http://tvstream.rtvbn.com:1935/live/stream/chunklist_w801115790.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CLIPS",- NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="CÂMERAS AO VIVO",Key West Duval Street USA
-http://wowza2.floridakeysmedia.com:1935/crowdcam/crowdcam.stream/chunklist_w1895701194.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CÂMERAS AO VIVO",Aspen Square Hotel USA
-https://fso36-1.streamhoster.com/lv_ms_0001/_definst_/aspen-pool/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CÂMERAS AO VIVO",Copacabana RJ
-http://video3.earthcam.com/fecnetwork/6593.flv/chunklist_w2020714243.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSICAS",CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0 tvg-id="RTL102.5TV.it" group-title="MUSICAS",RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="RADIOS AO VIVO",Transamerica FM Estúdio
-http://transamerica.crossdigital.com.br:1935/transasp02edge/transasp02/chunklist_w968253868.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RADIOS AO VIVO",FM O Dia 100 5 FM
-https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b963840.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RADIOS AO VIVO",Rádio 99 5 FM
-https://5a7bcfb834235.streamlock.net/zw981/smil:zw981.smil/chunklist_w573855077_b350000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RADIOS AO VIVO",Rádio Cidade Litoral 104 1 FM
-http://streaming03.zas.media:1935/radiocidade/radiocidade/chunklist_w366170268.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: ADULTOS",Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap1A ADULTO
-https://e47.voyeur-house.tv/realm44/stream/142684580454e2e1012b7684e16093d4.m3u8?p%5B0%5D=e47.voyeur-house.tv&p%5B1%5D=5c90e48941ca3&p%5B2%5D=&p%5B3%5D=realm44&p%5B4%5D=cam12&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552999565&p%5B8%5D=0&p%5B9%5D=vh&s=4bb4a87de5a1447e0fc1485eaec418bd&v=41432acf8ee3db91f8b9bc59985e5adb&sid=176daa8894de2b1811c7e1f2f618630d×tamp=1552999565297
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap2B ADULTO
-https://e15.voyeur-house.tv/realm19/stream/0e2fac03433c19ba9f10d857600cd190.m3u8?p%5B0%5D=e15.voyeur-house.tv&p%5B1%5D=5c8e04e60e0d0&p%5B2%5D=&p%5B3%5D=realm19&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552812924&p%5B8%5D=0&p%5B9%5D=vh&s=f7fc1eb965020f6662667615f6d5e868&v=41432acf8ee3db91f8b9bc59985e5adb&sid=2dbd11f9a639bbec3f96b22291f4cd73×tamp=1552812924695
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap3C ADULTO
-https://e27.voyeur-house.tv/realm56/stream/be6f58c0d74ede354b2b8837d4f0d198.m3u8?p%5B0%5D=e27.voyeur-house.tv&p%5B1%5D=5c8e0eb49bd44&p%5B2%5D=&p%5B3%5D=realm56&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552813872&p%5B8%5D=0&p%5B9%5D=vh&s=c4f6a5dddf6eb4094ba24484d90e64a9&v=41432acf8ee3db91f8b9bc59985e5adb&sid=316ffaac90450a0d4ecf9da60052015d×tamp=1552813872085
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap4D ADULTO
-https://e10.voyeur-house.tv/realm53/stream/faa15a926a279ce78deeb2c767e68565.m3u8?p%5B0%5D=e10.voyeur-house.tv&p%5B1%5D=5c8e0eb49bd44&p%5B2%5D=&p%5B3%5D=realm53&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552814047&p%5B8%5D=0&p%5B9%5D=vh&s=545052ce1031044a956ad49132068264&v=41432acf8ee3db91f8b9bc59985e5adb&sid=2d9fed6280b0f89fadd3b7496f42f4aa×tamp=1552814048016
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap5E ADULTO
-https://e12.voyeur-house.tv/realm3/stream/314f8c4eb47a9f22e97c3e6f4ccd9226.m3u8?p%5B0%5D=e12.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm3&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817506&p%5B8%5D=0&p%5B9%5D=vh&s=8b5727387c2bc68acb5243b3103ad178&v=41432acf8ee3db91f8b9bc59985e5adb&sid=685a07b63ef78903a32adead7d733e08×tamp=1552817507382
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap6F-1 ADULTO
-https://e13.voyeur-house.tv/realm6/stream/6738e6c6f3526ab7cc2de77fd81c50e7.m3u8?p%5B0%5D=e13.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm6&p%5B4%5D=cam12&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817736&p%5B8%5D=0&p%5B9%5D=vh&s=873120008e3f50b5e5b81336ab940e12&v=41432acf8ee3db91f8b9bc59985e5adb&sid=02658fadcf12716f10531c8500f5174f×tamp=1552817736613
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap6F-2 ADULTO
-https://e15.voyeur-house.tv/realm6/stream/177e41bb6596c5f0649d716b8c8882e3.m3u8?p%5B0%5D=e15.voyeur-house.tv&p%5B1%5D=5c8e1d1110fbb&p%5B2%5D=&p%5B3%5D=realm6&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552817885&p%5B8%5D=0&p%5B9%5D=vh&s=b4d06cc88f04b2edd2f1ac720c8f95cd&v=41432acf8ee3db91f8b9bc59985e5adb&sid=fb80471f7e4039f521c4aa67a354fd49×tamp=1552817884325
-#EXTINF:0 tvg-id="ext" group-title="ADULTO",Câmeras Voyeurs ap7G ADULTO
-https://e45.voyeur-house.tv/realm10/stream/77d36fa56a8a72eb8f5ea17ce9e79630.m3u8?p%5B0%5D=e45.voyeur-house.tv&p%5B1%5D=5c900c0491cb7&p%5B2%5D=&p%5B3%5D=realm10&p%5B4%5D=cam11&p%5B5%5D=hi&p%5B6%5D=0&p%5B7%5D=1552944396&p%5B8%5D=0&p%5B9%5D=vh&s=bcfa1c30eec13e83601768610e1c5172&v=41432acf8ee3db91f8b9bc59985e5adb&sid=672d8a848a6b7cfd2b9cf027e1ff4535×tamp=1552944396664
+#EXTINF:0 tvg-id="ext" group-title="CANAIS: MUSICA",Eurodance 90
+http://192.99.150.31:8056/stream?MWINFO
+
+#EXTINF:0 tvg-id="ext" group-title="FILMES",Carioca
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="FILMES",BRAZZERS
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="FILMES",BRAZZERS
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="FILMES",BRAZZERS
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="FILMES",BRAZZERS
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:0 tvg-id="Brazzers.ero" group-title="FILMES",BRAZZERS
+http://static.brazzers.com/scenes/3340/180sec.flv
+
+#EXTINF:0 tvg-id="ext" group-title="DESENHOS",Tv.Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",TV Aracati
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Chaves em Desenho Animado",E009 Chaves em Desenho Animado
+https://minhalista.live/channel/1635939/wilson-0758/redirect
+
+#EXTINF:0 tvg-id="RTL102.5TV.it" group-title="TV Musicas",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:0 tvg-id="Mpb.br" group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+
+#EXTINF:0 tvg-id="ext" group-title="CANAL ADULTO",CANAL ADULTO
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Sexo Na Praia Com Esposa Gorda Fogosa
+http://www.flagras.blog.br/wp-content/uploads/2016/08/sexo-na-praia.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Caroline baianinha na safadeza com o primo atrás da árvore
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-278.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Caroline parte 2
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-279.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Flagra Vizinha Trepando Com Dois Putos
+http://www.flagras.blog.br/wp-content/uploads/2016/07/Flagra-vizinha-dando.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Flagrou Putaria Real Com Novinha Brasileira
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-da-Karina.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Fodendo Amante Novinha Gostosa Transando No Banheiro
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-amador-do-moleque-comendo-a-ficante-no-banheiro-da-ca.flv.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Novinha Transando Com Colegas Do Bairro Onde Mora
+http://www.flagras.blog.br/wp-content/uploads/2016/04/Suruba-da-novinha.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Suruba Com Novinha Do Interior Da Bahia
+http://www.flagras.blog.br/wp-content/uploads/2016/04/V%C3%ADdeo-de-suruba.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Flagra De Sexo Na Escola
+http://www.flagras.blog.br/wp-content/uploads/2016/02/escola3.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Fodendo Empregada Negra Novinha Gostosa
+http://www.flagras.blog.br/wp-content/uploads/2016/02/empregada1.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Flagrou Putaria Real Com Novinha Brasileira
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-da-Karina.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Fodendo Amante Novinha Gostosa Transando No Banheiro
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-amador-do-moleque-comendo-a-ficante-no-banheiro-da-ca.flv.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Novinha Transando Com Colegas Do Bairro Onde Mora
+http://www.flagras.blog.br/wp-content/uploads/2016/04/Suruba-da-novinha.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Trepada Na Balada Rende Uma Bom Flagra De Sexo Pra Galera
+http://www.flagras.blog.br/wp-content/uploads/2016/10/flagras-095.mp4
+#EXTINF:0 tvg-id="avi" group-title="18+AdultosAmador",Flagra De Sexo Na Escola
+http://www.flagras.blog.br/wp-content/uploads/2016/02/escola3.mp4
+
+#EXTINF:0 tvg-id="ext" group-title="canais",(ONLINE) TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+#EXTINF:0 tvg-id="ext" group-title="canais",(ONLINE) TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 9 (Adulto +18)
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ADULTOS [+18]",BRAZZERS 8 (Adulto +18)
+http://static.brazzers.com/scenes/3343/180sec.flv
+
+#EXTINF:0 tvg-id="Tnt.br" group-title="FILMES SÉRIES",TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES SÉRIES",TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="RADIOS",Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="FILMES PORNO",XXX-Babes 3
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+
+#EXTINF:0 tvg-id="ext" group-title="ADULTOS +18",MIAMI TV LATINA
+http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
+
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="CANAIS INFANTIL",TV RA TIM BUM SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/6933
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="CANAIS INFANTIL",ZOOMOO SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/20450
+#EXTINF:0 tvg-id="Boomerang.br" group-title="CANAIS INFANTIL",BOOMERANG SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4396
+#EXTINF:0 tvg-id="Gloob.br" group-title="CANAIS INFANTIL",GLOOB SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4369
+#EXTINF:0 tvg-id="ext" group-title="CANAIS INFANTIL",GLOOBINHO SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/10270
+#EXTINF:0 tvg-id="Gloobhd.br" group-title="CANAIS INFANTIL",GLOOB HD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/7526
+
+#EXTINF:0 tvg-id="Axn.br" group-title="CANAIS FILMES | SERIES",AXN SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4402
+#EXTINF:0 tvg-id="Cinemax.br" group-title="CANAIS FILMES | SERIES",CINEMAX SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4393
+#EXTINF:0 tvg-id="Foxhd.br" group-title="CANAIS FILMES | SERIES",FOX HD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/6122
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 1 HD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/10279
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="CANAIS FILMES | SERIES",FOX PREMIUM 2 HD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/10278
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS FILMES | SERIES",TNT SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4312
+
+#EXTINF:0 tvg-id="Combate.br" group-title="CANAIS ESPORTES",COMBATE SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4392
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="CANAIS ESPORTES",ESPN 2 SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/7988
+#EXTINF:0 tvg-id="Espnextra.br" group-title="CANAIS ESPORTES",ESPN EXTRA SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/24789
+#EXTINF:0 tvg-id="Foxsports2hd.br" group-title="CANAIS ESPORTES",FOX SPORTS 2 HD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/6117
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="CANAIS ESPORTES",FOX SPORTS 2 SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4372
+
+#EXTINF:0 tvg-id="FoxNews.br" group-title="CANAIS NOTICIAS",FOX NEWS SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/6835
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS MUSICAS",MUSIC BOX BRASIL SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/7848
+#EXTINF:0 tvg-id="Multishow.br" group-title="CANAIS MUSICAS",MULTISHOW SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4352
+#EXTINF:0 tvg-id="Mtv.br" group-title="CANAIS MUSICAS",MTV SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4353
+#EXTINF:0 tvg-id="Mtvhd.br" group-title="CANAIS MUSICAS",MTV HD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/7524
+
+#EXTINF:0 tvg-id="Tcaction.br" group-title="CANAIS TELECINE/HBO",TELECINE ACTION SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4320
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS TELECINE/HBO",TELECINE FUN SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4318
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS TELECINE/HBO",TELECINE PIPOCA SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4317
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS TELECINE/HBO",TELECINE PREMIUM SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4316
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/4315
+
+#EXTINF:0 tvg-id="Terraviva.br" group-title="CANAIS ABERTO",TERRA VIVA SD
+http://painel.ebanonet.com.br:25461/rono62/102030tttt654/6936
